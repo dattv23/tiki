@@ -1,0 +1,143 @@
+[
+  {
+    "id": 20115117,
+    "title": "Cực kì hài lòng",
+    "content": "Mình bị giao nhầm hàng nhưng Phúc Minh và Tiki đã xử lý rất nhanh. Mình rất hài lòng",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.16464469,
+    "customer_id": 6161754,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1745479058,
+    "created_by": {
+      "id": 6161754,
+      "name": "Mystia Es",
+      "full_name": "Mystia Es",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2017-12-04 14:13:27",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1744715885,
+      "contribute_info": {
+        "id": 6161754,
+        "name": "Mystia Es",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 37,
+          "total_thank": 10
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Phúc Minh Books"
+    ],
+    "product_attributes": [],
+    "spid": 275773684,
+    "is_photo": false,
+    "seller": {
+      "id": 116426,
+      "name": "Phúc Minh Books",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/4a/f0/69/3d0d671d31eb21c593f25d165e623c93.png"
+    },
+    "product_id": 275773683,
+    "timeline": {
+      "review_created_date": "2025-04-24 14:17:38",
+      "delivery_date": "2025-04-17 15:21:27",
+      "current_date": "2025-04-30 03:41:20",
+      "content": "Đã dùng 7 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 7 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 20073373,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15609777,
+    "customer_id": 18341942,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1738154837,
+    "created_by": {
+      "id": 18341942,
+      "name": "Tran Thi Minh Phuong",
+      "full_name": "Tran Thi Minh Phuong",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-09-03 22:45:45",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1736927772,
+      "contribute_info": {
+        "id": 18341942,
+        "name": "Tran Thi Minh Phuong",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 144,
+          "total_thank": 4
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Phúc Minh Books"
+    ],
+    "product_attributes": [],
+    "spid": 275773684,
+    "is_photo": false,
+    "seller": {
+      "id": 116426,
+      "name": "Phúc Minh Books",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/4a/f0/69/3d0d671d31eb21c593f25d165e623c93.png"
+    },
+    "product_id": 275773683,
+    "timeline": {
+      "review_created_date": "2025-01-29 19:47:17",
+      "delivery_date": "2025-01-21 14:39:00",
+      "current_date": "2025-04-30 03:41:20",
+      "content": "Đã dùng 8 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

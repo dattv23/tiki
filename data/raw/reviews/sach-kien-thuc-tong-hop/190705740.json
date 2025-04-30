@@ -1,0 +1,2524 @@
+[
+  {
+    "id": 17313052,
+    "title": "Rất không hài lòng",
+    "content": "đóng gói hàng bị móp méo và giao lâu ơi là lâu luôn ạ",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 44.44444444,
+    "new_score": 0.15313179,
+    "customer_id": 27877864,
+    "comment_count": 1,
+    "rating": 1,
+    "images": [
+      {
+        "id": 3762887,
+        "full_path": "https://salt.tikicdn.com/ts/review/90/12/b3/8a5aa2851747c9ae41ad6cc8c7997ca3.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 3762888,
+        "full_path": "https://salt.tikicdn.com/ts/review/c7/41/5a/ba9b76031eb9554a766814b3a8bd5f0b.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 3762889,
+        "full_path": "https://salt.tikicdn.com/ts/review/2f/73/3b/2ae8ca2db311ee6f39b1880374963080.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1659719554,
+    "created_by": {
+      "id": 27877864,
+      "name": "Đào Linh",
+      "full_name": "Đào Linh",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2022-07-20 23:52:28",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1658381296,
+      "contribute_info": {
+        "id": 27877864,
+        "name": "Đào Linh",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 3 năm",
+          "total_review": 3,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán NewShop Official"
+    ],
+    "product_attributes": [],
+    "spid": 190705741,
+    "is_photo": true,
+    "seller": {
+      "id": 34429,
+      "name": "NewShop Official",
+      "logo": "fb/52/b0/7cb814343143d6e6baffeb58872333a5.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-08-06 00:12:34",
+      "delivery_date": "2022-07-25 15:46:16",
+      "current_date": "2025-04-30 12:23:55",
+      "content": "Đã dùng 11 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 11 ngày."
+    },
+    "comments": [
+      {
+        "id": 2566984,
+        "review_id": 17313052,
+        "commentator": "seller",
+        "customer_id": 34429,
+        "fullname": "NewShop Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/dd/11/6e/71249ce7a46a63c6cf803c6169450ac6.jpg",
+        "content": "Chào bạn, Newshop đã nhận được nhận xét từ bạn, Newshop rất tiếc vì sản phẩm nhận được chưa đáp ứng như kì vọng từ bạn.Bạn liên hệ hotline *** để được hỗ trợ liền nhé!",
+        "score": 0,
+        "create_at": 1660009727,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [
+        "in ấn/màu sắc rõ nét"
+      ],
+      "disagree": [
+        "Bìa đẹp, bắt mắt",
+        "chất lượng giấy tốt",
+        "Mùi sách thơm, dễ chịu"
+      ]
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19892065,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15173415,
+    "customer_id": 28149576,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1717494317,
+    "created_by": {
+      "id": 28149576,
+      "name": "Chau vi",
+      "full_name": "Chau vi",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2022-09-08 13:06:58",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1704811806,
+      "contribute_info": {
+        "id": 28149576,
+        "name": "Chau vi",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 3 năm",
+          "total_review": 1,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official"
+    ],
+    "product_attributes": [],
+    "spid": 205327034,
+    "is_photo": false,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2024-06-04 16:45:17",
+      "delivery_date": "2024-01-12 14:43:37",
+      "current_date": "2025-04-30 12:23:55",
+      "content": "Đã dùng 5 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 tháng."
+    },
+    "comments": [
+      {
+        "id": 3207873,
+        "review_id": 19892065,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và mua sách tại shop. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa, đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nhé. Hy vọng sẽ được tiếp tục phục vụ bạn trong tương lai",
+        "score": 0,
+        "create_at": 1717555819,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17751567,
+    "title": "Cực kì hài lòng",
+    "content": "Sách gửi đến trong tình trạng mới cứng luôn ~ shop bọc rất đỉnh",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 33.33333333,
+    "new_score": 0.14897035,
+    "customer_id": 8919039,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [
+      {
+        "id": 3886348,
+        "full_path": "https://salt.tikicdn.com/ts/review/e2/ec/66/00e9f8dd24bdc04c4710f1d843ed3549.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1663689919,
+    "created_by": {
+      "id": 8919039,
+      "name": "Vương Văn Đoàn",
+      "full_name": "Vương Văn Đoàn",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-11-12 00:12:20",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1662986615,
+      "contribute_info": {
+        "id": 8919039,
+        "name": "Vương Văn Đoàn",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 6,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Nam Trung Yên"
+    ],
+    "product_attributes": [],
+    "spid": 193565224,
+    "is_photo": true,
+    "seller": {
+      "id": 10039,
+      "name": "Nhà sách Nam Trung Yên",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/21/75/94/46307e6f35e18db9420ec4cbff71134d.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-09-20 23:05:19",
+      "delivery_date": "2022-09-14 15:06:28",
+      "current_date": "2025-04-30 12:23:55",
+      "content": "Đã dùng 6 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nội dung hay, hấp dẫn, dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17625616,
+    "title": "Rất không hài lòng",
+    "content": "Mình mua 4 cuốn, shop giao chỉ có 1 cuốn cho mình à 🥲. Mong shop hỗ trợ đổi lại giúp mình nhé",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14799818,
+    "customer_id": 5586101,
+    "comment_count": 0,
+    "rating": 1,
+    "images": [],
+    "thanked": false,
+    "created_at": 1662559078,
+    "created_by": {
+      "id": 5586101,
+      "name": "Thanh Phú",
+      "full_name": "Thanh Phú",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2017-08-15 07:39:42",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1662078170,
+      "contribute_info": {
+        "id": 5586101,
+        "name": "Thanh Phú",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 1,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán NewShop Official"
+    ],
+    "product_attributes": [],
+    "spid": 190705741,
+    "is_photo": false,
+    "seller": {
+      "id": 34429,
+      "name": "NewShop Official",
+      "logo": "fb/52/b0/7cb814343143d6e6baffeb58872333a5.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-09-07 20:57:58",
+      "delivery_date": "2022-09-07 10:10:44",
+      "current_date": "2025-04-30 12:23:55",
+      "content": "Đã dùng 11 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 11 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17106472,
+    "title": "Cực kì hài lòng",
+    "content": "Khá thú vị sách nhỏ gọn xinh giáy thích thú",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 33.33333333,
+    "new_score": 0.14585875,
+    "customer_id": 17017989,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [
+      {
+        "id": 3697763,
+        "full_path": "https://salt.tikicdn.com/ts/review/9d/41/55/05eb6a126cfd290faa037fd5c41f7592.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1658111152,
+    "created_by": {
+      "id": 17017989,
+      "name": "Phương Ly",
+      "full_name": "Phương Ly",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-04-04 13:08:14",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1657724662,
+      "contribute_info": {
+        "id": 17017989,
+        "name": "Phương Ly",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 1,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán NewShop Official"
+    ],
+    "product_attributes": [],
+    "spid": 190705741,
+    "is_photo": true,
+    "seller": {
+      "id": 34429,
+      "name": "NewShop Official",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/fb/52/b0/7cb814343143d6e6baffeb58872333a5.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-07-18 09:25:52",
+      "delivery_date": "2022-07-18 09:18:55",
+      "current_date": "2025-04-30 12:23:55",
+      "content": "Đã dùng 7 phút",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 7 phút."
+    },
+    "comments": [
+      {
+        "id": 2517612,
+        "review_id": 17106472,
+        "commentator": "seller",
+        "customer_id": 34429,
+        "fullname": "NewShop Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/dd/11/6e/71249ce7a46a63c6cf803c6169450ac6.jpg",
+        "content": "Cảm ơn khách yêu nhiều nhé. Chúc bạn sử dụng sách hiệu quả nhất ạ. Lần sau cần sách gì, bạn cứ ghé newshop lựa nha ^^",
+        "score": 0,
+        "create_at": 1658201336,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17444516,
+    "title": "Cực kì hài lòng",
+    "content": "Hấp dẫn, thú vị :)) khá là vui",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 33.33333333,
+    "new_score": 0.14534788,
+    "customer_id": 8642728,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [
+      {
+        "id": 3804982,
+        "full_path": "https://salt.tikicdn.com/ts/review/c8/4d/03/551657fc1c5eed24e7a2b84db33bad14.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1660742668,
+    "created_by": {
+      "id": 8642728,
+      "name": "Phan Trần Phú",
+      "full_name": "Phan Trần Phú",
+      "region": null,
+      "avatar_url": "https://s120.avatar.talk.zdn.vn/8/9/a/f/8/120/b1c3795a63b17b9c8d4dc23019a8e334.jpg",
+      "created_time": "2018-10-28 00:43:44",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1660580953,
+      "contribute_info": {
+        "id": 8642728,
+        "name": "Phan Trần Phú",
+        "avatar": "https://s120.avatar.talk.zdn.vn/8/9/a/f/8/120/b1c3795a63b17b9c8d4dc23019a8e334.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 10,
+          "total_thank": 6
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán NewShop Official"
+    ],
+    "product_attributes": [],
+    "spid": 190705741,
+    "is_photo": true,
+    "seller": {
+      "id": 34429,
+      "name": "NewShop Official",
+      "logo": "fb/52/b0/7cb814343143d6e6baffeb58872333a5.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-08-17 20:24:28",
+      "delivery_date": "2022-08-17 13:31:49",
+      "current_date": "2025-04-30 12:23:55",
+      "content": "Đã dùng 7 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 7 giờ."
+    },
+    "comments": [
+      {
+        "id": 2594204,
+        "review_id": 17444516,
+        "commentator": "seller",
+        "customer_id": 34429,
+        "fullname": "NewShop Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/dd/11/6e/71249ce7a46a63c6cf803c6169450ac6.jpg",
+        "content": "Cảm ơn khách yêu nhiều nhé. Chúc bạn sử dụng sách hiệu quả nhất ạ. Lần sau cần sách gì, bạn cứ ghé newshop lựa nha ^^",
+        "score": 0,
+        "create_at": 1660871700,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nhiều kiến thức bổ ích",
+        "nội dung hay, hấp dẫn, dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17339911,
+    "title": "Cực kì hài lòng",
+    "content": "sách oke lắm ạ",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 33.33333333,
+    "new_score": 0.14384499,
+    "customer_id": 10509252,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [
+      {
+        "id": 3770563,
+        "full_path": "https://salt.tikicdn.com/ts/review/4b/18/66/4efc719c239a35abcddeebaf38a5865f.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1659939863,
+    "created_by": {
+      "id": 10509252,
+      "name": "Lý Bảo Nhi",
+      "full_name": "Lý Bảo Nhi",
+      "region": null,
+      "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=920468831491473&height=200&width=200&ext=1550815810&hash=AeTrHXH206RFbCX5",
+      "created_time": "2019-01-23 13:10:31",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1657737006,
+      "contribute_info": {
+        "id": 10509252,
+        "name": "Lý Bảo Nhi",
+        "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=920468831491473&height=200&width=200&ext=1550815810&hash=AeTrHXH206RFbCX5",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 10,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán NewShop Official"
+    ],
+    "product_attributes": [],
+    "spid": 190705741,
+    "is_photo": true,
+    "seller": {
+      "id": 34429,
+      "name": "NewShop Official",
+      "logo": "fb/52/b0/7cb814343143d6e6baffeb58872333a5.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-08-08 13:24:23",
+      "delivery_date": "2022-07-15 09:57:44",
+      "current_date": "2025-04-30 12:23:55",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [
+      {
+        "id": 2566916,
+        "review_id": 17339911,
+        "commentator": "seller",
+        "customer_id": 34429,
+        "fullname": "NewShop Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/dd/11/6e/71249ce7a46a63c6cf803c6169450ac6.jpg",
+        "content": "Cảm ơn khách yêu nhiều nhé. Chúc bạn sử dụng sách hiệu quả nhất ạ. Lần sau cần sách gì, bạn cứ ghé newshop lựa nha ^^",
+        "score": 0,
+        "create_at": 1660009090,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19000169,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14372252,
+    "customer_id": 28968825,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1679561496,
+    "created_by": {
+      "id": 28968825,
+      "name": "Uyên Nguyễn ",
+      "full_name": "Uyên Nguyễn ",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2023-03-19 14:50:02",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1679216407,
+      "contribute_info": {
+        "id": 28968825,
+        "name": "Uyên Nguyễn ",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 2 năm",
+          "total_review": 1,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official"
+    ],
+    "product_attributes": [],
+    "spid": 205327034,
+    "is_photo": false,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/fe/30/be/e4571a635a63796eee9b2ae1fe7e687a.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2023-03-23 15:51:36",
+      "delivery_date": "2023-03-21 09:14:19",
+      "current_date": "2025-04-30 12:23:56",
+      "content": "Đã dùng 2 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+    },
+    "comments": [
+      {
+        "id": 2927673,
+        "review_id": 19000169,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và mua sách tại shop. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa, đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nhé. Hy vọng sẽ được tiếp tục phục vụ bạn trong tương lai!",
+        "score": 0,
+        "create_at": 1679621407,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18963821,
+    "title": "Hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14358842,
+    "customer_id": 21492704,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1678926549,
+    "created_by": {
+      "id": 21492704,
+      "name": "huy hoàng",
+      "full_name": "huy hoàng",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-04-25 15:39:51",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1665410388,
+      "contribute_info": {
+        "id": 21492704,
+        "name": "huy hoàng",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 5,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán NewShop Official"
+    ],
+    "product_attributes": [],
+    "spid": 190705741,
+    "is_photo": false,
+    "seller": {
+      "id": 34429,
+      "name": "NewShop Official",
+      "logo": "dd/11/6e/71249ce7a46a63c6cf803c6169450ac6.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2023-03-16 07:29:09",
+      "delivery_date": "2022-10-14 10:48:50",
+      "current_date": "2025-04-30 12:23:56",
+      "content": "Đã dùng 5 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nội dung hay, hấp dẫn, dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18739969,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14286971,
+    "customer_id": 7349058,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1675523673,
+    "created_by": {
+      "id": 7349058,
+      "name": "vu tien minh",
+      "full_name": "vu tien minh",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-06-24 11:36:40",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1673797821,
+      "contribute_info": {
+        "id": 7349058,
+        "name": "vu tien minh",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 21,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Nam Trung Yên"
+    ],
+    "product_attributes": [],
+    "spid": 193565224,
+    "is_photo": false,
+    "seller": {
+      "id": 10039,
+      "name": "Nhà sách Nam Trung Yên",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/21/75/94/46307e6f35e18db9420ec4cbff71134d.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2023-02-04 22:14:33",
+      "delivery_date": "2023-01-20 07:38:02",
+      "current_date": "2025-04-30 12:23:56",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17199478,
+    "title": "Cực kì hài lòng",
+    "content": "Đẹp",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 33.33333333,
+    "new_score": 0.14272679,
+    "customer_id": 22145020,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [
+      {
+        "id": 3728293,
+        "full_path": "https://salt.tikicdn.com/ts/review/f5/49/25/57e82f6061314792fb2aec4d1ee5ad8e.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1658748919,
+    "created_by": {
+      "id": 22145020,
+      "name": "Vu Mjnh Gjang",
+      "full_name": "Vu Mjnh Gjang",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-06-13 11:55:23",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1658386513,
+      "contribute_info": {
+        "id": 22145020,
+        "name": "Vu Mjnh Gjang",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 1,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán NewShop Official"
+    ],
+    "product_attributes": [],
+    "spid": 190705741,
+    "is_photo": true,
+    "seller": {
+      "id": 34429,
+      "name": "NewShop Official",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/fb/52/b0/7cb814343143d6e6baffeb58872333a5.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-07-25 18:35:19",
+      "delivery_date": "2022-07-25 15:47:24",
+      "current_date": "2025-04-30 12:23:57",
+      "content": "Đã dùng 3 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 giờ."
+    },
+    "comments": [
+      {
+        "id": 2540004,
+        "review_id": 17199478,
+        "commentator": "seller",
+        "customer_id": 34429,
+        "fullname": "NewShop Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/dd/11/6e/71249ce7a46a63c6cf803c6169450ac6.jpg",
+        "content": "Cảm ơn khách yêu nhiều nhé. Chúc bạn sử dụng sách hiệu quả nhất ạ. Lần sau cần sách gì, bạn cứ ghé newshop lựa nha ^^",
+        "score": 0,
+        "create_at": 1658830295,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 1,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18666599,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14257711,
+    "customer_id": 469829,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1674138303,
+    "created_by": {
+      "id": 469829,
+      "name": "Lê Huỳnh Hoài Thương",
+      "full_name": "Lê Huỳnh Hoài Thương",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/c8/6e/ce/ae15d93b257accd79982e51597f0c069.png",
+      "created_time": "2014-11-05 13:00:15",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1673274398,
+      "contribute_info": {
+        "id": 469829,
+        "name": "Lê Huỳnh Hoài Thương",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/c8/6e/ce/ae15d93b257accd79982e51597f0c069.png",
+        "summary": {
+          "joined_time": "Đã tham gia 11 năm",
+          "total_review": 12,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official"
+    ],
+    "product_attributes": [],
+    "spid": 205327034,
+    "is_photo": false,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/fe/30/be/e4571a635a63796eee9b2ae1fe7e687a.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2023-01-19 21:25:03",
+      "delivery_date": "2023-01-13 13:32:34",
+      "current_date": "2025-04-30 12:23:57",
+      "content": "Đã dùng 6 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 ngày."
+    },
+    "comments": [
+      {
+        "id": 2856476,
+        "review_id": 18666599,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và mua sách tại shop. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa, đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nhé. Hy vọng sẽ được tiếp tục phục vụ bạn trong tương lai!",
+        "score": 0,
+        "create_at": 1674783650,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18581811,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14233333,
+    "customer_id": 28399421,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1672984079,
+    "created_by": {
+      "id": 28399421,
+      "name": "lily vo",
+      "full_name": "lily vo",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2022-10-30 17:05:34",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1670383362,
+      "contribute_info": {
+        "id": 28399421,
+        "name": "lily vo",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 3 năm",
+          "total_review": 2,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official"
+    ],
+    "product_attributes": [],
+    "spid": 205327034,
+    "is_photo": false,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/fe/30/be/e4571a635a63796eee9b2ae1fe7e687a.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2023-01-06 12:47:59",
+      "delivery_date": "2022-12-09 11:16:26",
+      "current_date": "2025-04-30 12:23:57",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [
+      {
+        "id": 2843685,
+        "review_id": 18581811,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và mua sách tại shop. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa, đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nhé. Hy vọng sẽ được tiếp tục phục vụ bạn trong tương lai!",
+        "score": 0,
+        "create_at": 1673226757,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nhiều kiến thức bổ ích",
+        "nội dung hay, hấp dẫn, dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18471732,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14204308,
+    "customer_id": 7961315,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1671609816,
+    "created_by": {
+      "id": 7961315,
+      "name": "Hoàng Thanh Bình",
+      "full_name": "Hoàng Thanh Bình",
+      "region": null,
+      "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=1979518055402818&height=200&width=200&ext=1539021588&hash=AeSq_eSF24HUNDd8",
+      "created_time": "2018-09-09 01:00:23",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1659954763,
+      "contribute_info": {
+        "id": 7961315,
+        "name": "Hoàng Thanh Bình",
+        "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=1979518055402818&height=200&width=200&ext=1539021588&hash=AeSq_eSF24HUNDd8",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 13,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Nam Trung Yên"
+    ],
+    "product_attributes": [],
+    "spid": 193565224,
+    "is_photo": false,
+    "seller": {
+      "id": 10039,
+      "name": "Nhà sách Nam Trung Yên",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/21/75/94/46307e6f35e18db9420ec4cbff71134d.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-12-21 15:03:36",
+      "delivery_date": "2022-08-10 11:09:37",
+      "current_date": "2025-04-30 12:23:57",
+      "content": "Đã dùng 4 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nhiều kiến thức bổ ích",
+        "nội dung hay, hấp dẫn, dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18395510,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14186657,
+    "customer_id": 19660557,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1670774078,
+    "created_by": {
+      "id": 19660557,
+      "name": "Trần Ngọc Anh",
+      "full_name": "Trần Ngọc Anh",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/c3/1f/14/006f9bfacda33d5cfbe4fe58b0c68496.jpg",
+      "created_time": "2020-12-24 22:10:43",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1666441379,
+      "contribute_info": {
+        "id": 19660557,
+        "name": "Phạm Tuyên",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/c3/1f/14/006f9bfacda33d5cfbe4fe58b0c68496.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 5,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Nam Trung Yên"
+    ],
+    "product_attributes": [],
+    "spid": 193565224,
+    "is_photo": false,
+    "seller": {
+      "id": 10039,
+      "name": "Nhà sách Nam Trung Yên",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/21/75/94/46307e6f35e18db9420ec4cbff71134d.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-12-11 22:54:38",
+      "delivery_date": "2022-10-26 10:57:54",
+      "current_date": "2025-04-30 12:23:57",
+      "content": "Đã dùng 2 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nhiều kiến thức bổ ích",
+        "nội dung hay, hấp dẫn, dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18237637,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14144174,
+    "customer_id": 18247379,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1668762650,
+    "created_by": {
+      "id": 18247379,
+      "name": "Anh Kiet Duong",
+      "full_name": "Anh Kiet Duong",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-08-26 07:45:04",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1668600087,
+      "contribute_info": {
+        "id": 18247379,
+        "name": "Anh Kiet Duong",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 37,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán NewShop Official"
+    ],
+    "product_attributes": [],
+    "spid": 190705741,
+    "is_photo": false,
+    "seller": {
+      "id": 34429,
+      "name": "NewShop Official",
+      "logo": "fb/52/b0/7cb814343143d6e6baffeb58872333a5.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-11-18 16:10:50",
+      "delivery_date": "2022-11-18 10:39:20",
+      "current_date": "2025-04-30 12:23:57",
+      "content": "Đã dùng 6 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 giờ."
+    },
+    "comments": [
+      {
+        "id": 2772538,
+        "review_id": 18237637,
+        "commentator": "seller",
+        "customer_id": 34429,
+        "fullname": "NewShop Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/dd/11/6e/71249ce7a46a63c6cf803c6169450ac6.jpg",
+        "content": "Cảm ơn khách yêu nhiều nhé. Chúc bạn sử dụng sách hiệu quả nhất ạ. Lần sau cần sách gì, bạn cứ ghé newshop lựa nha ^^",
+        "score": 0,
+        "create_at": 1669346304,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18059282,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14103598,
+    "customer_id": 18804119,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1666841483,
+    "created_by": {
+      "id": 18804119,
+      "name": "Khưu Hùng",
+      "full_name": "Khưu Hùng",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/d1/b9/45/d8de5f3e53731023e900fa9ea409f8c3.png",
+      "created_time": "2020-10-11 20:38:04",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1662778599,
+      "contribute_info": {
+        "id": 18804119,
+        "name": "Khưu Hùng",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/d1/b9/45/d8de5f3e53731023e900fa9ea409f8c3.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 68,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiệm Sách Hoa Hồng"
+    ],
+    "product_attributes": [],
+    "spid": 191977966,
+    "is_photo": false,
+    "seller": {
+      "id": 118912,
+      "name": "Tiệm Sách Hoa Hồng",
+      "logo": "45/5b/96/a61ebc6221fbd8ebc4debac2850d86c9.png"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-10-27 10:31:23",
+      "delivery_date": "2022-09-15 09:59:56",
+      "current_date": "2025-04-30 12:23:58",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17980903,
+    "title": "Hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14085629,
+    "customer_id": 17531830,
+    "comment_count": 1,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1665990710,
+    "created_by": {
+      "id": 17531830,
+      "name": "dũng Đen nguyễn",
+      "full_name": "dũng Đen nguyễn",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-06-09 20:55:04",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1658486504,
+      "contribute_info": {
+        "id": 17531830,
+        "name": "dũng Đen nguyễn",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 11,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán NewShop Official"
+    ],
+    "product_attributes": [],
+    "spid": 190705741,
+    "is_photo": false,
+    "seller": {
+      "id": 34429,
+      "name": "NewShop Official",
+      "logo": "fb/52/b0/7cb814343143d6e6baffeb58872333a5.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-10-17 14:11:50",
+      "delivery_date": "2022-07-26 11:23:58",
+      "current_date": "2025-04-30 12:23:58",
+      "content": "Đã dùng 3 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+    },
+    "comments": [
+      {
+        "id": 2709719,
+        "review_id": 17980903,
+        "commentator": "seller",
+        "customer_id": 34429,
+        "fullname": "NewShop Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/dd/11/6e/71249ce7a46a63c6cf803c6169450ac6.jpg",
+        "content": "Cảm ơn khách yêu nhiều nhé. Chúc bạn sử dụng sách hiệu quả nhất ạ. Lần sau cần sách gì, bạn cứ ghé newshop lựa nha ^^",
+        "score": 0,
+        "create_at": 1666002629,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17947350,
+    "title": "Hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14078217,
+    "customer_id": 23400687,
+    "comment_count": 1,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1665639741,
+    "created_by": {
+      "id": 23400687,
+      "name": "Trần Tín",
+      "full_name": "Trần Tín",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-09-05 10:27:14",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1658673437,
+      "contribute_info": {
+        "id": 23400687,
+        "name": "Trần Tín",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 2,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán NewShop Official"
+    ],
+    "product_attributes": [],
+    "spid": 190705741,
+    "is_photo": false,
+    "seller": {
+      "id": 34429,
+      "name": "NewShop Official",
+      "logo": "fb/52/b0/7cb814343143d6e6baffeb58872333a5.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-10-13 12:42:21",
+      "delivery_date": "2022-07-28 15:09:56",
+      "current_date": "2025-04-30 12:23:58",
+      "content": "Đã dùng 3 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+    },
+    "comments": [
+      {
+        "id": 2703835,
+        "review_id": 17947350,
+        "commentator": "seller",
+        "customer_id": 34429,
+        "fullname": "NewShop Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/dd/11/6e/71249ce7a46a63c6cf803c6169450ac6.jpg",
+        "content": "Cảm ơn khách yêu nhiều nhé. Chúc bạn sử dụng sách hiệu quả nhất ạ. Lần sau cần sách gì, bạn cứ ghé newshop lựa nha ^^",
+        "score": 0,
+        "create_at": 1665656151,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét"
+      ],
+      "disagree": [
+        "nhiều kiến thức bổ ích"
+      ]
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17699705,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14027109,
+    "customer_id": 21344198,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1663219958,
+    "created_by": {
+      "id": 21344198,
+      "name": "thuy ll",
+      "full_name": "thuy ll",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-04-15 19:33:17",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1662724468,
+      "contribute_info": {
+        "id": 21344198,
+        "name": "thuy ll",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 51,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Nam Trung Yên"
+    ],
+    "product_attributes": [],
+    "spid": 193565224,
+    "is_photo": false,
+    "seller": {
+      "id": 10039,
+      "name": "Nhà sách Nam Trung Yên",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/21/75/94/46307e6f35e18db9420ec4cbff71134d.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-09-15 12:32:38",
+      "delivery_date": "2022-09-15 10:09:43",
+      "current_date": "2025-04-30 12:23:58",
+      "content": "Đã dùng 2 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17694421,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14025854,
+    "customer_id": 20326700,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1663160517,
+    "created_by": {
+      "id": 20326700,
+      "name": "Hoàng Bảo Bảo",
+      "full_name": "Hoàng Bảo Bảo",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/b9/26/37/e9f0989a032562e68e828c6c3e445e92.png",
+      "created_time": "2021-02-16 15:54:21",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1663030728,
+      "contribute_info": {
+        "id": 20326700,
+        "name": "Hoàng Bảo Bảo",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/b9/26/37/e9f0989a032562e68e828c6c3e445e92.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 10,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Nam Trung Yên"
+    ],
+    "product_attributes": [],
+    "spid": 193565224,
+    "is_photo": false,
+    "seller": {
+      "id": 10039,
+      "name": "Nhà sách Nam Trung Yên",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/21/75/94/46307e6f35e18db9420ec4cbff71134d.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-09-14 20:01:57",
+      "delivery_date": "2022-09-14 17:20:20",
+      "current_date": "2025-04-30 12:23:59",
+      "content": "Đã dùng 3 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nhiều kiến thức bổ ích",
+        "nội dung hay, hấp dẫn, dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17658866,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14019678,
+    "customer_id": 8301004,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1662868093,
+    "created_by": {
+      "id": 8301004,
+      "name": "Linh Ng",
+      "full_name": "Linh Ng",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-10-09 15:28:49",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1657769634,
+      "contribute_info": {
+        "id": 8301004,
+        "name": "Linh Ng",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 3,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [
+      "Đóng gói tốt",
+      "Chất lượng tốt",
+      "Nhà bán phục vụ tốt"
+    ],
+    "attributes": [
+      "Mua từ nhà bán NewShop Official"
+    ],
+    "product_attributes": [],
+    "spid": 190705741,
+    "is_photo": false,
+    "seller": {
+      "id": 34429,
+      "name": "NewShop Official",
+      "logo": "fb/52/b0/7cb814343143d6e6baffeb58872333a5.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-09-11 10:48:13",
+      "delivery_date": "2022-07-18 09:43:25",
+      "current_date": "2025-04-30 12:23:59",
+      "content": "Đã dùng 2 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+    },
+    "comments": [
+      {
+        "id": 2640110,
+        "review_id": 17658866,
+        "commentator": "seller",
+        "customer_id": 34429,
+        "fullname": "NewShop Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/dd/11/6e/71249ce7a46a63c6cf803c6169450ac6.jpg",
+        "content": "Cảm ơn khách yêu nhiều nhé. Chúc bạn sử dụng sách hiệu quả nhất ạ. Lần sau cần sách gì, bạn cứ ghé newshop lựa nha ^^",
+        "score": 0,
+        "create_at": 1663123289,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17647471,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14017027,
+    "customer_id": 24032067,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1662742601,
+    "created_by": {
+      "id": 24032067,
+      "name": "Uyen My",
+      "full_name": "Uyen My",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-10-11 11:07:48",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1660620072,
+      "contribute_info": {
+        "id": 24032067,
+        "name": "Uyen My",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 17,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán NewShop Official"
+    ],
+    "product_attributes": [],
+    "spid": 190705741,
+    "is_photo": false,
+    "seller": {
+      "id": 34429,
+      "name": "NewShop Official",
+      "logo": "fb/52/b0/7cb814343143d6e6baffeb58872333a5.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-09-09 23:56:41",
+      "delivery_date": "2022-08-18 11:38:07",
+      "current_date": "2025-04-30 12:23:59",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [
+      {
+        "id": 2640125,
+        "review_id": 17647471,
+        "commentator": "seller",
+        "customer_id": 34429,
+        "fullname": "NewShop Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/dd/11/6e/71249ce7a46a63c6cf803c6169450ac6.jpg",
+        "content": "Cảm ơn khách yêu nhiều nhé. Chúc bạn sử dụng sách hiệu quả nhất ạ. Lần sau cần sách gì, bạn cứ ghé newshop lựa nha ^^",
+        "score": 0,
+        "create_at": 1663123377,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nội dung hay, hấp dẫn, dễ hiểu"
+      ],
+      "disagree": [
+        "nhiều kiến thức bổ ích"
+      ]
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17635935,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14015054,
+    "customer_id": 12493913,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1662649168,
+    "created_by": {
+      "id": 12493913,
+      "name": "Thế Hào",
+      "full_name": "Thế Hào",
+      "region": null,
+      "avatar_url": "https://graph.facebook.com/2540251772870761/picture?type=large&return_ssl_resources=1",
+      "created_time": "2019-06-14 06:10:38",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1661969157,
+      "contribute_info": {
+        "id": 12493913,
+        "name": "Thế Hào",
+        "avatar": "https://graph.facebook.com/2540251772870761/picture?type=large&return_ssl_resources=1",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 20,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Nam Trung Yên"
+    ],
+    "product_attributes": [],
+    "spid": 193565224,
+    "is_photo": false,
+    "seller": {
+      "id": 10039,
+      "name": "Nhà sách Nam Trung Yên",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/21/75/94/46307e6f35e18db9420ec4cbff71134d.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-09-08 21:59:28",
+      "delivery_date": "2022-09-08 10:39:17",
+      "current_date": "2025-04-30 12:24:00",
+      "content": "Đã dùng 11 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 11 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nhiều kiến thức bổ ích",
+        "nội dung hay, hấp dẫn, dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17611366,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14010683,
+    "customer_id": 6609556,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1662442196,
+    "created_by": {
+      "id": 6609556,
+      "name": "Trần Lê Ngọc Hân",
+      "full_name": "Trần Lê Ngọc Hân",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-02-28 11:41:01",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1661234806,
+      "contribute_info": {
+        "id": 6609556,
+        "name": "Trần Lê Ngọc Hân",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 45,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán NewShop Official"
+    ],
+    "product_attributes": [],
+    "spid": 190705741,
+    "is_photo": false,
+    "seller": {
+      "id": 34429,
+      "name": "NewShop Official",
+      "logo": "fb/52/b0/7cb814343143d6e6baffeb58872333a5.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-09-06 12:29:56",
+      "delivery_date": "2022-08-25 10:32:50",
+      "current_date": "2025-04-30 12:24:00",
+      "content": "Đã dùng 12 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 12 ngày."
+    },
+    "comments": [
+      {
+        "id": 2626190,
+        "review_id": 17611366,
+        "commentator": "seller",
+        "customer_id": 34429,
+        "fullname": "NewShop Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/dd/11/6e/71249ce7a46a63c6cf803c6169450ac6.jpg",
+        "content": "Cảm ơn khách yêu nhiều nhé. Chúc bạn sử dụng sách hiệu quả nhất ạ. Lần sau cần sách gì, bạn cứ ghé newshop lựa nha ^^",
+        "score": 0,
+        "create_at": 1662532948,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nhiều kiến thức bổ ích",
+        "nội dung hay, hấp dẫn, dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17567621,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13999943,
+    "customer_id": 16296082,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1661933681,
+    "created_by": {
+      "id": 16296082,
+      "name": "Minh Nguyễn",
+      "full_name": "Minh Nguyễn",
+      "region": null,
+      "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=761464314262913&height=200&width=200&ext=1583597385&hash=AeTUW2-ZPRVKnRac",
+      "created_time": "2020-02-06 23:10:13",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1658454727,
+      "contribute_info": {
+        "id": 16296082,
+        "name": "Minh Nguyễn",
+        "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=761464314262913&height=200&width=200&ext=1583597385&hash=AeTUW2-ZPRVKnRac",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 8,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán NewShop Official"
+    ],
+    "product_attributes": [],
+    "spid": 190705741,
+    "is_photo": false,
+    "seller": {
+      "id": 34429,
+      "name": "NewShop Official",
+      "logo": "fb/52/b0/7cb814343143d6e6baffeb58872333a5.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-08-31 15:14:41",
+      "delivery_date": "2022-07-25 10:49:56",
+      "current_date": "2025-04-30 12:24:00",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [
+      {
+        "id": 2617903,
+        "review_id": 17567621,
+        "commentator": "seller",
+        "customer_id": 34429,
+        "fullname": "NewShop Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/dd/11/6e/71249ce7a46a63c6cf803c6169450ac6.jpg",
+        "content": "Cảm ơn khách yêu nhiều nhé. Chúc bạn sử dụng sách hiệu quả nhất ạ. Lần sau cần sách gì, bạn cứ ghé newshop lựa nha ^^",
+        "score": 0,
+        "create_at": 1661941629,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nhiều kiến thức bổ ích",
+        "nội dung hay, hấp dẫn, dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17533147,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13992471,
+    "customer_id": 15825002,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1661579944,
+    "created_by": {
+      "id": 15825002,
+      "name": "Nguyễn Nguyệt",
+      "full_name": "Nguyễn Nguyệt",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-01-04 20:46:59",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1661296023,
+      "contribute_info": {
+        "id": 15825002,
+        "name": "Nguyễn Nguyệt",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 56,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Nam Trung Yên"
+    ],
+    "product_attributes": [],
+    "spid": 193565224,
+    "is_photo": false,
+    "seller": {
+      "id": 10039,
+      "name": "Nhà sách Nam Trung Yên",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/21/75/94/46307e6f35e18db9420ec4cbff71134d.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-08-27 12:59:04",
+      "delivery_date": "2022-08-27 09:38:25",
+      "current_date": "2025-04-30 12:24:00",
+      "content": "Đã dùng 3 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nhiều kiến thức bổ ích",
+        "nội dung hay, hấp dẫn, dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17468989,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13979507,
+    "customer_id": 191401,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1660966093,
+    "created_by": {
+      "id": 191401,
+      "name": "Trédory Le",
+      "full_name": "Trédory Le",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2013-10-31 21:04:04",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1660041571,
+      "contribute_info": {
+        "id": 191401,
+        "name": "Trédory Le",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 12 năm",
+          "total_review": 1,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Nam Trung Yên"
+    ],
+    "product_attributes": [],
+    "spid": 193565224,
+    "is_photo": false,
+    "seller": {
+      "id": 10039,
+      "name": "Nhà sách Nam Trung Yên",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/21/75/94/46307e6f35e18db9420ec4cbff71134d.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-08-20 10:28:13",
+      "delivery_date": "2022-08-15 10:29:31",
+      "current_date": "2025-04-30 12:24:00",
+      "content": "Đã dùng 5 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nhiều kiến thức bổ ích",
+        "nội dung hay, hấp dẫn, dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17440047,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13974168,
+    "customer_id": 27113701,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1660713323,
+    "created_by": {
+      "id": 27113701,
+      "name": "Nguyễn Ngọc Trầm",
+      "full_name": "Nguyễn Ngọc Trầm",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2022-03-19 15:34:51",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1659940909,
+      "contribute_info": {
+        "id": 27113701,
+        "name": "Nguyễn Ngọc Trầm",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 3 năm",
+          "total_review": 1,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Nam Trung Yên"
+    ],
+    "product_attributes": [],
+    "spid": 193565224,
+    "is_photo": false,
+    "seller": {
+      "id": 10039,
+      "name": "Nhà sách Nam Trung Yên",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/21/75/94/46307e6f35e18db9420ec4cbff71134d.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-08-17 12:15:23",
+      "delivery_date": "2022-08-13 14:28:19",
+      "current_date": "2025-04-30 12:24:00",
+      "content": "Đã dùng 4 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "Bìa đẹp, bắt mắt",
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "Mùi sách thơm, dễ chịu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17436690,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.1397345,
+    "customer_id": 7258889,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1660679349,
+    "created_by": {
+      "id": 7258889,
+      "name": "Bùi Ngọc Hân",
+      "full_name": "Bùi Ngọc Hân",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-06-07 16:02:27",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1660228885,
+      "contribute_info": {
+        "id": 7258889,
+        "name": "Bùi Ngọc Hân",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 22,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiệm Sách Hoa Hồng"
+    ],
+    "product_attributes": [],
+    "spid": 191977966,
+    "is_photo": false,
+    "seller": {
+      "id": 118912,
+      "name": "Tiệm Sách Hoa Hồng",
+      "logo": "45/5b/96/a61ebc6221fbd8ebc4debac2850d86c9.png"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-08-17 02:49:09",
+      "delivery_date": "2022-08-15 10:25:03",
+      "current_date": "2025-04-30 12:24:00",
+      "content": "Đã dùng 2 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17413521,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13969265,
+    "customer_id": 1543958,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1660481183,
+    "created_by": {
+      "id": 1543958,
+      "name": "Nguyễn Tây Đức",
+      "full_name": "Nguyễn Tây Đức",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2016-07-27 14:03:41",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1660008562,
+      "contribute_info": {
+        "id": 1543958,
+        "name": "Nguyễn Tây Đức",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 9 năm",
+          "total_review": 29,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [
+      "Chất lượng tốt"
+    ],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Nam Trung Yên"
+    ],
+    "product_attributes": [],
+    "spid": 193565224,
+    "is_photo": false,
+    "seller": {
+      "id": 10039,
+      "name": "Nhà sách Nam Trung Yên",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/21/75/94/46307e6f35e18db9420ec4cbff71134d.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-08-14 19:46:23",
+      "delivery_date": "2022-08-13 12:26:21",
+      "current_date": "2025-04-30 12:24:01",
+      "content": "Đã dùng 1 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17357133,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13960136,
+    "customer_id": 10331406,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1660048928,
+    "created_by": {
+      "id": 10331406,
+      "name": "Kathy Nguyn",
+      "full_name": "Kathy Nguyn",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/90/0f/a4/1969e9a66a6fc7ae8ac81bc41e0bfeb4.png",
+      "created_time": "2019-01-12 07:33:49",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1659705215,
+      "contribute_info": {
+        "id": 10331406,
+        "name": "Kathy Nguyn",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/90/0f/a4/1969e9a66a6fc7ae8ac81bc41e0bfeb4.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 1,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Nam Trung Yên"
+    ],
+    "product_attributes": [],
+    "spid": 193565224,
+    "is_photo": false,
+    "seller": {
+      "id": 10039,
+      "name": "Nhà sách Nam Trung Yên",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/21/75/94/46307e6f35e18db9420ec4cbff71134d.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-08-09 19:42:08",
+      "delivery_date": "2022-08-09 14:38:26",
+      "current_date": "2025-04-30 12:24:01",
+      "content": "Đã dùng 5 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "Bìa đẹp, bắt mắt",
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "Mùi sách thơm, dễ chịu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17346968,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13958571,
+    "customer_id": 456873,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1659974870,
+    "created_by": {
+      "id": 456873,
+      "name": "Ngân Nguyễn",
+      "full_name": "Ngân Nguyễn",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/40/a6/38/4eca5054224fab8f249c4f422470a5a6.png",
+      "created_time": "2014-10-23 01:31:33",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1658417945,
+      "contribute_info": {
+        "id": 456873,
+        "name": "Ngân Nguyễn",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/40/a6/38/4eca5054224fab8f249c4f422470a5a6.png",
+        "summary": {
+          "joined_time": "Đã tham gia 11 năm",
+          "total_review": 85,
+          "total_thank": 6
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán NewShop Official"
+    ],
+    "product_attributes": [],
+    "spid": 190705741,
+    "is_photo": false,
+    "seller": {
+      "id": 34429,
+      "name": "NewShop Official",
+      "logo": "fb/52/b0/7cb814343143d6e6baffeb58872333a5.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-08-08 23:07:50",
+      "delivery_date": "2022-07-25 10:32:00",
+      "current_date": "2025-04-30 12:24:01",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [
+      {
+        "id": 2566903,
+        "review_id": 17346968,
+        "commentator": "seller",
+        "customer_id": 34429,
+        "fullname": "NewShop Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/dd/11/6e/71249ce7a46a63c6cf803c6169450ac6.jpg",
+        "content": "Cảm ơn khách yêu nhiều nhé. Chúc bạn sử dụng sách hiệu quả nhất ạ. Lần sau cần sách gì, bạn cứ ghé newshop lựa nha ^^",
+        "score": 0,
+        "create_at": 1660009021,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [
+        "Bìa đẹp, bắt mắt",
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17210035,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13934514,
+    "customer_id": 11375804,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1658835816,
+    "created_by": {
+      "id": 11375804,
+      "name": "Nhi Lê",
+      "full_name": "Nhi Lê",
+      "region": null,
+      "avatar_url": "https://s120.avatar.talk.zdn.vn/f/d/e/9/29/120/71f7fda1c32c0004231dd95d15561c20.jpg",
+      "created_time": "2019-03-19 10:56:28",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1658464711,
+      "contribute_info": {
+        "id": 11375804,
+        "name": "Nhi Lê",
+        "avatar": "https://s120.avatar.talk.zdn.vn/f/d/e/9/29/120/71f7fda1c32c0004231dd95d15561c20.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 11,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [
+      "Giao hàng nhanh",
+      "Giá tốt"
+    ],
+    "attributes": [
+      "Mua từ nhà bán NewShop Official"
+    ],
+    "product_attributes": [],
+    "spid": 190705741,
+    "is_photo": false,
+    "seller": {
+      "id": 34429,
+      "name": "NewShop Official",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/fb/52/b0/7cb814343143d6e6baffeb58872333a5.jpg"
+    },
+    "product_id": 190705740,
+    "timeline": {
+      "review_created_date": "2022-07-26 18:43:36",
+      "delivery_date": "2022-07-25 12:14:16",
+      "current_date": "2025-04-30 12:24:01",
+      "content": "Đã dùng 1 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+    },
+    "comments": [
+      {
+        "id": 2542455,
+        "review_id": 17210035,
+        "commentator": "seller",
+        "customer_id": 34429,
+        "fullname": "NewShop Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/dd/11/6e/71249ce7a46a63c6cf803c6169450ac6.jpg",
+        "content": "Cảm ơn khách yêu nhiều nhé. Chúc bạn sử dụng sách hiệu quả nhất ạ. Lần sau cần sách gì, bạn cứ ghé newshop lựa nha ^^",
+        "score": 0,
+        "create_at": 1658911498,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 1,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

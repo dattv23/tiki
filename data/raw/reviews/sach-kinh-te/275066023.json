@@ -1,0 +1,155 @@
+[
+  {
+    "id": 19925416,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15242312,
+    "customer_id": 28728043,
+    "comment_count": 2,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1720756394,
+    "created_by": {
+      "id": 28728043,
+      "name": "Nguyễn Quang Huy",
+      "full_name": "Nguyễn Quang Huy",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2023-01-14 21:40:41",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1720301751,
+      "contribute_info": {
+        "id": 28728043,
+        "name": "Nguyễn Quang Huy",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 2 năm",
+          "total_review": 82,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sống Official"
+    ],
+    "product_attributes": [],
+    "spid": 275079424,
+    "is_photo": false,
+    "seller": {
+      "id": 111899,
+      "name": "Sống Official",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/15/9e/ba/9e738b2510a755e5f27423ffb62aa0c7.jpg"
+    },
+    "product_id": 275066023,
+    "timeline": {
+      "review_created_date": "2024-07-12 10:53:14",
+      "delivery_date": "2024-07-09 09:54:06",
+      "current_date": "2025-04-30 06:48:45",
+      "content": "Đã dùng 3 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+    },
+    "comments": [
+      {
+        "id": 3226709,
+        "review_id": 19925416,
+        "commentator": "seller",
+        "customer_id": 111899,
+        "fullname": "Sống Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/15/9e/ba/9e738b2510a755e5f27423ffb62aa0c7.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và ủng hộ chúng mình nha. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa và thật nhiều kiến thức bổ ích nhé. Đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nè. Hy vọng được phục vụ bạn trong tương lai!",
+        "score": 0,
+        "create_at": 1721291613,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      },
+      {
+        "id": 3226710,
+        "review_id": 19925416,
+        "commentator": "seller",
+        "customer_id": 111899,
+        "fullname": "Sống Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/15/9e/ba/9e738b2510a755e5f27423ffb62aa0c7.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và ủng hộ chúng mình nha. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa và thật nhiều kiến thức bổ ích nhé. Đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nè. Hy vọng được phục vụ bạn trong tương lai!",
+        "score": 0,
+        "create_at": 1721291613,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19913917,
+    "title": "Hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15218437,
+    "customer_id": 17333156,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1719625966,
+    "created_by": {
+      "id": 17333156,
+      "name": "Nguyễn Trương Tín",
+      "full_name": "Nguyễn Trương Tín",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-05-12 20:01:29",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1719455825,
+      "contribute_info": {
+        "id": 17333156,
+        "name": "Nguyễn Trương Tín",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 33,
+          "total_thank": 7
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán info book"
+    ],
+    "product_attributes": [],
+    "spid": 275281654,
+    "is_photo": false,
+    "seller": {
+      "id": 126688,
+      "name": "info book",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/66/49/ce/c528ff3a6e4022b080c1f8c6fe7bc541.jpg"
+    },
+    "product_id": 275066023,
+    "timeline": {
+      "review_created_date": "2024-06-29 08:52:46",
+      "delivery_date": "2024-06-28 15:28:07",
+      "current_date": "2025-04-30 06:48:45",
+      "content": "Đã dùng 1 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

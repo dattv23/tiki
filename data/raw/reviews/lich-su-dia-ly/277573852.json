@@ -1,0 +1,81 @@
+[
+  {
+    "id": 20108932,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15739379,
+    "customer_id": 7714012,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1744291114,
+    "created_by": {
+      "id": 7714012,
+      "name": "Hà Điệp",
+      "full_name": "Hà Điệp",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-08-21 11:35:07",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1743512431,
+      "contribute_info": {
+        "id": 7714012,
+        "name": "Hà Điệp",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 25,
+          "total_thank": 5
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán ST Book"
+    ],
+    "product_attributes": [],
+    "spid": 277573853,
+    "is_photo": false,
+    "seller": {
+      "id": 336077,
+      "name": "ST Book",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7b/08/53/139c0695846d5f652039f1cf0d7352eb.jpg"
+    },
+    "product_id": 277573852,
+    "timeline": {
+      "review_created_date": "2025-04-10 20:18:34",
+      "delivery_date": "2025-04-07 14:13:56",
+      "current_date": "2025-04-30 13:16:35",
+      "content": "Đã dùng 3 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "id": 6915136,
+    "title": "Bình thường",
+    "content": "Nội dung trong sách này có vài chi tiết mình không đồng ý lắm, vì mình đang khuyến khích con mình nói lên suy nghĩ của con trước chứ không phải chỉ nhìn vào bề nổi của hành động. Việc không thích hát hay không thích chia sẻ bánh không có gì là quá đáng ở đây, nên chọn ví dụ sâu sắc hơn thay vì liệt kê kiểu 1 ngưòi hòa đồng bất chấp.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15246393,
+    "customer_id": 1866625,
+    "comment_count": 0,
+    "rating": 3,
+    "images": [],
+    "thanked": false,
+    "created_at": 1610472803,
+    "created_by": {
+      "id": 1866625,
+      "name": "Bùi Mai Thanh Loan",
+      "full_name": "Bùi Mai Thanh Loan",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "purchased": true,
+      "purchased_at": 1605943388,
+      "contribute_info": {
+        "id": 1866625,
+        "name": "Bùi Mai Thanh Loan",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 9 năm",
+          "total_review": 241,
+          "total_thank": 7
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Fahasa"
+    ],
+    "product_attributes": [],
+    "spid": 20485166,
+    "is_photo": false,
+    "seller": {
+      "id": 53660,
+      "name": "Nhà sách Fahasa",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/00/81/53/b46376358e86fa613654f706646d672d.jpg"
+    },
+    "product_id": 8312020,
+    "timeline": {
+      "review_created_date": "2021-01-13 00:33:23",
+      "delivery_date": "2020-11-23 10:57:44",
+      "current_date": "2025-04-30 11:36:16",
+      "content": "Đã dùng 2 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18278018,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14155345,
+    "customer_id": 5092570,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1669291552,
+    "created_by": {
+      "id": 5092570,
+      "name": "Mai Vu",
+      "full_name": "Mai Vu",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2017-03-12 11:32:32",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1669165315,
+      "contribute_info": {
+        "id": 5092570,
+        "name": "Mai Vu",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 13,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Fahasa"
+    ],
+    "product_attributes": [],
+    "spid": 20485166,
+    "is_photo": false,
+    "seller": {
+      "id": 53660,
+      "name": "Nhà sách Fahasa",
+      "logo": "d0/3a/6a/6bf9624cec1df247af3f1fbec25f24e9.jpg"
+    },
+    "product_id": 8312020,
+    "timeline": {
+      "review_created_date": "2022-11-24 19:05:52",
+      "delivery_date": "2022-11-24 17:38:20",
+      "current_date": "2025-04-30 11:36:16",
+      "content": "Đã dùng 1 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 2424168,
+    "title": "Sách đã qua sử dụng",
+    "content": "Chưa lần nào mua sách thất vọng như lần này. sách nhàu nát. nhiều nếp gấp, quăn mép.  Như 1 quyển sách cũ. Cứ tình trạng này mình không bao giờ mua sách ở tiki nữa.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.0054831,
+    "new_score": 0.13991829,
+    "customer_id": 6650328,
+    "comment_count": 0,
+    "rating": 1,
+    "images": [
+      {
+        "id": 549950,
+        "full_path": "https://salt.tikicdn.com/ts/review/16/72/dd/3dac09f047a0633572a4370d6bcc0906.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 549951,
+        "full_path": "https://salt.tikicdn.com/ts/review/ef/fd/8c/7262e6a231964a0af4be2d65507dcdaf.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1567486400,
+    "created_by": {
+      "id": 6650328,
+      "name": "Quynh Duong",
+      "full_name": "Quynh Duong",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-03-06 13:53:33",
+      "purchased": true,
+      "purchased_at": 1567337085,
+      "contribute_info": {
+        "id": 6650328,
+        "name": "Quynh Duong",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 3,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 8312021,
+    "is_photo": true,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+    },
+    "product_id": 8312020,
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 14978234,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13640984,
+    "customer_id": 7417634,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1644938016,
+    "created_by": {
+      "id": 7417634,
+      "name": "Mẹ Sâu",
+      "full_name": "Mẹ Sâu",
+      "region": null,
+      "avatar_url": "https://graph.facebook.com/1630384003751419/picture?type=large&return_ssl_resources=1",
+      "created_time": "2018-07-07 11:36:39",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1644757409,
+      "contribute_info": {
+        "id": 7417634,
+        "name": "Mẹ Sâu",
+        "avatar": "https://graph.facebook.com/1630384003751419/picture?type=large&return_ssl_resources=1",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 4,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Fahasa"
+    ],
+    "product_attributes": [],
+    "spid": 20485166,
+    "is_photo": false,
+    "seller": {
+      "id": 53660,
+      "name": "Nhà sách Fahasa",
+      "logo": "71/2c/02/656eaa1f5bc3d50908421be919df2758.jpg"
+    },
+    "product_id": 8312020,
+    "timeline": {
+      "review_created_date": "2022-02-15 22:13:36",
+      "delivery_date": "2022-02-14 16:56:43",
+      "current_date": "2025-04-30 11:36:16",
+      "content": "Đã dùng 1 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 7208297,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.94161959,
+    "new_score": 0.12934109,
+    "customer_id": 11296355,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1611469425,
+    "created_by": {
+      "id": 11296355,
+      "name": "Lich Ngo",
+      "full_name": "Lich Ngo",
+      "region": null,
+      "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2670157926388788&height=200&width=200&ext=1555146206&hash=AeQ2BpMfuE1y_Jtz",
+      "created_time": "2019-03-14 16:03:57",
+      "purchased": true,
+      "purchased_at": 1599807732,
+      "contribute_info": {
+        "id": 11296355,
+        "name": "Lich Ngo",
+        "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2670157926388788&height=200&width=200&ext=1555146206&hash=AeQ2BpMfuE1y_Jtz",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 7,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 8312021,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+    },
+    "product_id": 8312020,
+    "timeline": {
+      "review_created_date": "2021-01-24 13:23:45",
+      "delivery_date": "2020-09-14 10:02:43",
+      "current_date": "2025-04-30 11:36:16",
+      "content": "Đã dùng 4 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 6804053,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.12904834,
+    "customer_id": 19729703,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1610083334,
+    "created_by": {
+      "id": 19729703,
+      "name": "Truc Nhã",
+      "full_name": "Truc Nhã",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "purchased": true,
+      "purchased_at": 1609453603,
+      "contribute_info": {
+        "id": 19729703,
+        "name": "Truc Nhã",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 4,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [
+      "Chất lượng tốt"
+    ],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 8312021,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+    },
+    "product_id": 8312020,
+    "timeline": {
+      "review_created_date": "2021-01-08 12:22:14",
+      "delivery_date": "2021-01-02 12:26:03",
+      "current_date": "2025-04-30 11:36:16",
+      "content": "Đã dùng 6 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 3971378,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 18.51851852,
+    "new_score": 0.12558819,
+    "customer_id": 1282203,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1593700518,
+    "created_by": {
+      "id": 1282203,
+      "name": "Bánh Mì",
+      "full_name": "Bánh Mì",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "purchased": true,
+      "purchased_at": 1591926521,
+      "contribute_info": {
+        "id": 1282203,
+        "name": "Bánh Mì",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 9 năm",
+          "total_review": 10,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 8312021,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+    },
+    "product_id": 8312020,
+    "timeline": {
+      "review_created_date": "2020-07-02 21:35:18",
+      "delivery_date": "2020-06-15 13:00:18",
+      "current_date": "2025-04-30 11:36:16",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

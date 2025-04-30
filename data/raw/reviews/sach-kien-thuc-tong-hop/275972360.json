@@ -1,0 +1,610 @@
+[
+  {
+    "id": 20115040,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15764245,
+    "customer_id": 17924046,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1745468447,
+    "created_by": {
+      "id": 17924046,
+      "name": "Tài khoản Zalo",
+      "full_name": "Tài khoản Zalo",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-07-30 00:37:30",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1736010159,
+      "contribute_info": {
+        "id": 17924046,
+        "name": "Tài khoản Zalo",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 17,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 275972361,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+    },
+    "product_id": 275972360,
+    "timeline": {
+      "review_created_date": "2025-04-24 11:20:47",
+      "delivery_date": "2025-01-05 09:13:54",
+      "current_date": "2025-04-30 12:16:54",
+      "content": "Đã dùng 4 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20107582,
+    "title": "Hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15734144,
+    "customer_id": 23134118,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1744043244,
+    "created_by": {
+      "id": 23134118,
+      "name": "nguyen dung",
+      "full_name": "nguyen dung",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-08-23 20:44:02",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1738559556,
+      "contribute_info": {
+        "id": 23134118,
+        "name": "nguyen dung",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 106,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 275972361,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+    },
+    "product_id": 275972360,
+    "timeline": {
+      "review_created_date": "2025-04-07 23:27:24",
+      "delivery_date": "2025-02-03 15:37:27",
+      "current_date": "2025-04-30 12:16:54",
+      "content": "Đã dùng 2 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20089243,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15665703,
+    "customer_id": 581420,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1740802752,
+    "created_by": {
+      "id": 581420,
+      "name": "Nguyễn Mai Phương",
+      "full_name": "Nguyễn Mai Phương",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2015-03-12 22:18:11",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1740649032,
+      "contribute_info": {
+        "id": 581420,
+        "name": "Nguyễn Mai Phương",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 10 năm",
+          "total_review": 3,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 275972361,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+    },
+    "product_id": 275972360,
+    "timeline": {
+      "review_created_date": "2025-03-01 11:19:12",
+      "delivery_date": "2025-03-01 08:59:28",
+      "current_date": "2025-04-30 12:16:54",
+      "content": "Đã dùng 2 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+    },
+    "comments": [
+      {
+        "id": 3310968,
+        "review_id": 20089243,
+        "commentator": "seller",
+        "customer_id": 1,
+        "fullname": "Tiki Trading",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+        "content": "Tiki trân quý bạn đã chọn mua hàng và đánh giá sản phẩm tại Tiki, rất mong được đồng hành với bạn trong thời gian tới nhiều hơn nữa nha. Tiki luôn lắng nghe bạn, đừng ngừng ngại để lại góp ý giúp Tiki cải thiện mỗi ngày nha. Tiki cảm ơn bạn nhiều.",
+        "score": 0,
+        "create_at": 1741093014,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 20074514,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15617896,
+    "customer_id": 20262036,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1738539225,
+    "created_by": {
+      "id": 20262036,
+      "name": "Duyen Ngoc",
+      "full_name": "Duyen Ngoc",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-02-09 08:52:09",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1738397772,
+      "contribute_info": {
+        "id": 20262036,
+        "name": "Duyen Ngoc",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 169,
+          "total_thank": 5
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 275972361,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+    },
+    "product_id": 275972360,
+    "timeline": {
+      "review_created_date": "2025-02-03 06:33:45",
+      "delivery_date": "2025-02-01 16:44:09",
+      "current_date": "2025-04-30 12:16:55",
+      "content": "Đã dùng 2 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+    },
+    "comments": [
+      {
+        "id": 3304537,
+        "review_id": 20074514,
+        "commentator": "seller",
+        "customer_id": 1,
+        "fullname": "Tiki Trading",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+        "content": "Cảm ơn bạn đã tin tưởng Tiki và cho Tiki 5⭐️! Tiki yêu bạn nhiều ❤️",
+        "score": 0,
+        "create_at": 1738929683,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20067283,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15585382,
+    "customer_id": 11346818,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1736999790,
+    "created_by": {
+      "id": 11346818,
+      "name": "Doan Trung",
+      "full_name": "Doan Trung",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2019-03-17 18:51:48",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1736304238,
+      "contribute_info": {
+        "id": 11346818,
+        "name": "Doan Trung",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 78,
+          "total_thank": 5
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 275972361,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+    },
+    "product_id": 275972360,
+    "timeline": {
+      "review_created_date": "2025-01-16 10:56:30",
+      "delivery_date": "2025-01-11 14:22:50",
+      "current_date": "2025-04-30 12:16:55",
+      "content": "Đã dùng 5 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 ngày."
+    },
+    "comments": [
+      {
+        "id": 3300355,
+        "review_id": 20067283,
+        "commentator": "seller",
+        "customer_id": 1,
+        "fullname": "Tiki Trading",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+        "content": "Tiki rất vui khi nhận được đánh giá 5⭐️ từ bạn. Sự hài lòng của bạn là động lực to lớn với Tiki đó ạ. Hy vọng bạn sẽ tiếp tục ủng hộ Tiki nha!",
+        "score": 0,
+        "create_at": 1737431780,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20058540,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15556899,
+    "customer_id": 10459691,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1735651219,
+    "created_by": {
+      "id": 10459691,
+      "name": "Tuyền Võ",
+      "full_name": "Tuyền Võ",
+      "region": null,
+      "avatar_url": "https://graph.facebook.com/1175076002650504/picture?type=large&return_ssl_resources=1",
+      "created_time": "2019-01-20 10:47:51",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1734340865,
+      "contribute_info": {
+        "id": 10459691,
+        "name": "Tuyền Võ",
+        "avatar": "https://graph.facebook.com/1175076002650504/picture?type=large&return_ssl_resources=1",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 29,
+          "total_thank": 6
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 275972361,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+    },
+    "product_id": 275972360,
+    "timeline": {
+      "review_created_date": "2024-12-31 20:20:19",
+      "delivery_date": "2024-12-17 09:23:06",
+      "current_date": "2025-04-30 12:16:55",
+      "content": "Đã dùng 14 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 14 ngày."
+    },
+    "comments": [
+      {
+        "id": 3295611,
+        "review_id": 20058540,
+        "commentator": "seller",
+        "customer_id": 1,
+        "fullname": "Tiki Trading",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+        "content": "Cảm ơn bạn đã tin tưởng Tiki và cho Tiki 5⭐️! Tiki yêu bạn nhiều ❤️",
+        "score": 0,
+        "create_at": 1735958736,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20056122,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15547784,
+    "customer_id": 869864,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1735219659,
+    "created_by": {
+      "id": 869864,
+      "name": "Võ Văn Hoàng",
+      "full_name": "Võ Văn Hoàng",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/78/50/ef/8a23c5861ba9d13ac00dfddaff8682c6.jpg",
+      "created_time": "2015-10-10 16:25:33",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1734832568,
+      "contribute_info": {
+        "id": 869864,
+        "name": "Võ Văn Hoàng",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/78/50/ef/8a23c5861ba9d13ac00dfddaff8682c6.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 10 năm",
+          "total_review": 10,
+          "total_thank": 37
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 275972361,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+    },
+    "product_id": 275972360,
+    "timeline": {
+      "review_created_date": "2024-12-26 20:27:39",
+      "delivery_date": "2024-12-25 14:13:19",
+      "current_date": "2025-04-30 12:16:55",
+      "content": "Đã dùng 1 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+    },
+    "comments": [
+      {
+        "id": 3294474,
+        "review_id": 20056122,
+        "commentator": "seller",
+        "customer_id": 1,
+        "fullname": "Tiki Trading",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+        "content": "Cảm ơn anh đã tin tưởng Tiki và cho Tiki 5⭐️! Tiki yêu anh nhiều ❤️",
+        "score": 0,
+        "create_at": 1735450657,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20024942,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15456108,
+    "customer_id": 1583989,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1730879015,
+    "created_by": {
+      "id": 1583989,
+      "name": "Dao Quang Tu",
+      "full_name": "Dao Quang Tu",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/07/a6/50/467d2301a620f980a85f2071e97caaf7.png",
+      "created_time": "2016-08-09 19:55:14",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1730259012,
+      "contribute_info": {
+        "id": 1583989,
+        "name": "Dao Quang Tu",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/07/a6/50/467d2301a620f980a85f2071e97caaf7.png",
+        "summary": {
+          "joined_time": "Đã tham gia 9 năm",
+          "total_review": 111,
+          "total_thank": 13
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 275972361,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+    },
+    "product_id": 275972360,
+    "timeline": {
+      "review_created_date": "2024-11-06 14:43:35",
+      "delivery_date": "2024-10-30 12:57:08",
+      "current_date": "2025-04-30 12:16:55",
+      "content": "Đã dùng 7 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 7 ngày."
+    },
+    "comments": [
+      {
+        "id": 3278945,
+        "review_id": 20024942,
+        "commentator": "seller",
+        "customer_id": 1,
+        "fullname": "Tiki Trading",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+        "content": "Tiki rất vui khi nhận được đánh giá 5⭐️ từ bạn Quang Tu. Sự hài lòng của bạn là động lực to lớn với Tiki đó ạ. Hy vọng bạn sẽ tiếp tục ủng hộ Tiki nha!",
+        "score": 0,
+        "create_at": 1731048497,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nhiều kiến thức bổ ích",
+        "nội dung hay, hấp dẫn, dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

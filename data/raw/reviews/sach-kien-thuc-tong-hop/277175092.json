@@ -1,0 +1,437 @@
+[
+  {
+    "id": 20088604,
+    "title": "Cực kì hài lòng",
+    "content": "Quá ok",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 33.33333333,
+    "new_score": 0.16009857,
+    "customer_id": 23301326,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4398109,
+        "full_path": "https://salt.tikicdn.com/ts/review/1b/22/64/511748631d91ff02de9b9c0cf2a0cb4d.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1740683784,
+    "created_by": {
+      "id": 23301326,
+      "name": "Thắng Hoàng",
+      "full_name": "Thắng Hoàng",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-08-28 12:46:36",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1740162436,
+      "contribute_info": {
+        "id": 23301326,
+        "name": "Thắng Hoàng",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 3,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Nuôi Dạy Con",
+      "Phân loại Sơ cứu"
+    ],
+    "product_attributes": [
+      "Phân loại: Sơ cứu"
+    ],
+    "spid": 274958692,
+    "is_photo": true,
+    "seller": {
+      "id": 336121,
+      "name": "Sách Nuôi Dạy Con",
+      "logo": ""
+    },
+    "product_id": 277175092,
+    "timeline": {
+      "review_created_date": "2025-02-28 02:16:24",
+      "delivery_date": "2025-02-23 13:15:58",
+      "current_date": "2025-04-30 12:16:47",
+      "content": "Đã dùng 5 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 20079749,
+    "title": "Cực kì hài lòng",
+    "content": "Sách cực xịn. Hữu ích. Có kèm video hay.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15966741,
+    "customer_id": 7841341,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1739273677,
+    "created_by": {
+      "id": 7841341,
+      "name": "Phạm Nhàn",
+      "full_name": "Phạm Nhàn",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-08-31 22:14:32",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1739114143,
+      "contribute_info": {
+        "id": 7841341,
+        "name": "Phạm Nhàn",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 11,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Nuôi Dạy Con",
+      "Phân loại Sơ cứu"
+    ],
+    "product_attributes": [
+      "Phân loại: Sơ cứu"
+    ],
+    "spid": 274958692,
+    "is_photo": false,
+    "seller": {
+      "id": 336121,
+      "name": "Sách Nuôi Dạy Con",
+      "logo": ""
+    },
+    "product_id": 277175092,
+    "timeline": {
+      "review_created_date": "2025-02-11 18:34:37",
+      "delivery_date": "2025-02-11 15:47:24",
+      "current_date": "2025-04-30 12:16:47",
+      "content": "Đã dùng 3 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 20117185,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15773545,
+    "customer_id": 6497568,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1745908805,
+    "created_by": {
+      "id": 6497568,
+      "name": "Nguyễn Văn Tình",
+      "full_name": "Nguyễn Văn Tình",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-02-12 09:56:55",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1738262375,
+      "contribute_info": {
+        "id": 6497568,
+        "name": "Nguyễn Văn Tình",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 17,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Nuôi Dạy Con",
+      "Phân loại Sơ cứu + Dự phòng sơ cứu"
+    ],
+    "product_attributes": [
+      "Phân loại: Sơ cứu + Dự phòng sơ cứu"
+    ],
+    "spid": 277175094,
+    "is_photo": false,
+    "seller": {
+      "id": 336121,
+      "name": "Sách Nuôi Dạy Con",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+    },
+    "product_id": 277175092,
+    "timeline": {
+      "review_created_date": "2025-04-29 13:40:05",
+      "delivery_date": "2025-02-05 10:29:56",
+      "current_date": "2025-04-30 12:16:47",
+      "content": "Đã dùng 3 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nhiều kiến thức bổ ích",
+        "nội dung hay, hấp dẫn, dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20107310,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15733191,
+    "customer_id": 11036173,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1743998122,
+    "created_by": {
+      "id": 11036173,
+      "name": "Nguyen Nam Phuong",
+      "full_name": "Nguyen Nam Phuong",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2019-02-25 10:16:06",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1742222091,
+      "contribute_info": {
+        "id": 11036173,
+        "name": "Nguyen Nam Phuong",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 66,
+          "total_thank": 28
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Nuôi Dạy Con",
+      "Phân loại Sơ cứu"
+    ],
+    "product_attributes": [
+      "Phân loại: Sơ cứu"
+    ],
+    "spid": 274958692,
+    "is_photo": false,
+    "seller": {
+      "id": 336121,
+      "name": "Sách Nuôi Dạy Con",
+      "logo": ""
+    },
+    "product_id": 277175092,
+    "timeline": {
+      "review_created_date": "2025-04-07 10:55:22",
+      "delivery_date": "2025-03-20 15:37:50",
+      "current_date": "2025-04-30 12:16:47",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20084620,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15648978,
+    "customer_id": 20212812,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1740010893,
+    "created_by": {
+      "id": 20212812,
+      "name": "Nguyễn Thị Hường",
+      "full_name": "Nguyễn Thị Hường",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-02-05 08:29:05",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1737364821,
+      "contribute_info": {
+        "id": 20212812,
+        "name": "Nguyễn Thị Hường",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 13,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Nuôi Dạy Con",
+      "Phân loại Sơ cứu"
+    ],
+    "product_attributes": [
+      "Phân loại: Sơ cứu"
+    ],
+    "spid": 274958692,
+    "is_photo": false,
+    "seller": {
+      "id": 336121,
+      "name": "Sách Nuôi Dạy Con",
+      "logo": ""
+    },
+    "product_id": 277175092,
+    "timeline": {
+      "review_created_date": "2025-02-20 07:21:33",
+      "delivery_date": "2025-01-23 11:13:48",
+      "current_date": "2025-04-30 12:16:47",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20076597,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.156237,
+    "customer_id": 11575944,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1738814025,
+    "created_by": {
+      "id": 11575944,
+      "name": "ĐINH ÁNH TUYẾT",
+      "full_name": "ĐINH ÁNH TUYẾT",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2019-03-31 21:53:24",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1738727785,
+      "contribute_info": {
+        "id": 11575944,
+        "name": "ĐINH ÁNH TUYẾT",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 145,
+          "total_thank": 3
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Nuôi Dạy Con",
+      "Phân loại Sơ cứu + Dự phòng sơ cứu"
+    ],
+    "product_attributes": [
+      "Phân loại: Sơ cứu + Dự phòng sơ cứu"
+    ],
+    "spid": 277175094,
+    "is_photo": false,
+    "seller": {
+      "id": 336121,
+      "name": "Sách Nuôi Dạy Con",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+    },
+    "product_id": 277175092,
+    "timeline": {
+      "review_created_date": "2025-02-06 10:53:45",
+      "delivery_date": "2025-02-06 10:01:42",
+      "current_date": "2025-04-30 12:16:47",
+      "content": "Đã dùng 1 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "id": 19933972,
+    "title": "Cực kì hài lòng",
+    "content": "Nội dung hay, cuốn sách must read trong ngành tâm lý học, bìa đẹp, in đẹp. Chất lượng tiki tốt",
+    "status": "approved",
+    "thank_count": 1,
+    "score": 0.19186169,
+    "new_score": 0.17249138,
+    "customer_id": 9750461,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4367613,
+        "full_path": "https://salt.tikicdn.com/ts/review/56/20/58/59d40273bd651a626f1563a7d5a67b87.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4367614,
+        "full_path": "https://salt.tikicdn.com/ts/review/9c/f7/74/3a1f1e249ef7d8aebb82343d340b5a9b.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4367615,
+        "full_path": "https://salt.tikicdn.com/ts/review/fd/e3/bf/49f7d9c20faef21fe86f8b9879f5e76c.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4367616,
+        "full_path": "https://salt.tikicdn.com/ts/review/34/30/0e/2f9b8512f1b2a45af98463114fb183a9.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1721653231,
+    "created_by": {
+      "id": 9750461,
+      "name": "Minh Duc Pham",
+      "full_name": "Minh Duc Pham",
+      "region": null,
+      "avatar_url": "https://s120.avatar.talk.zdn.vn/4/4/b/c/9/120/a97f411ac71a2b5f80872af73d8a69c2.jpg",
+      "created_time": "2018-12-09 16:58:41",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1721316930,
+      "contribute_info": {
+        "id": 9750461,
+        "name": "Minh Duc Pham",
+        "avatar": "https://s120.avatar.talk.zdn.vn/4/4/b/c/9/120/a97f411ac71a2b5f80872af73d8a69c2.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 43,
+          "total_thank": 6
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 274926602,
+    "is_photo": true,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+    },
+    "product_id": 274926600,
+    "timeline": {
+      "review_created_date": "2024-07-22 20:00:31",
+      "delivery_date": "2024-07-22 14:22:51",
+      "current_date": "2025-04-30 06:33:50",
+      "content": "Đã dùng 6 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 giờ."
+    },
+    "comments": [
+      {
+        "id": 3228391,
+        "review_id": 19933972,
+        "commentator": "seller",
+        "customer_id": 1,
+        "fullname": "Tiki Trading",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+        "content": "Tiki rất vui khi nhận được đánh giá 5⭐️từ anh. Hy vọng anh sẽ tiếp tục ủng hộ Tiki nha!",
+        "score": 0,
+        "create_at": 1721708997,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  }
+]

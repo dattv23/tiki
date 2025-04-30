@@ -1,0 +1,370 @@
+[
+  {
+    "id": 19000003,
+    "title": "Cực kì hài lòng",
+    "content": "Con gái mình thích mê cuốn này, chơi hoài ko chán. Sách vừa luyện tư duy logic, trí tưởng tưởng, vừa rèn khả năng quan sát. Vote 5sao ạ ^^",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 38.88888889,
+    "new_score": 0.16105551,
+    "customer_id": 12844522,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4165137,
+        "full_path": "https://salt.tikicdn.com/ts/review/49/63/4f/763fcf688707ef87cad0ee0f95fb056d.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4165138,
+        "full_path": "https://salt.tikicdn.com/ts/review/53/73/70/4322d78237e5821c105b8d53c7bdd39d.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1679559849,
+    "created_by": {
+      "id": 12844522,
+      "name": "NT Diệu Linh",
+      "full_name": "NT Diệu Linh",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2019-07-10 11:27:18",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1668611711,
+      "contribute_info": {
+        "id": 12844522,
+        "name": "NT Diệu Linh",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 12,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Vizibook"
+    ],
+    "product_attributes": [],
+    "spid": 185658553,
+    "is_photo": true,
+    "seller": {
+      "id": 262452,
+      "name": "Vizibook",
+      "logo": "6e/eb/d6/8d6104804f0f94df5bc1ef5fda83a617.jpg"
+    },
+    "product_id": 185658549,
+    "timeline": {
+      "review_created_date": "2023-03-23 15:24:09",
+      "delivery_date": "2022-11-17 09:23:15",
+      "current_date": "2025-04-30 11:34:26",
+      "content": "Đã dùng 4 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 tháng."
+    },
+    "comments": [
+      {
+        "id": 2947885,
+        "review_id": 19000003,
+        "commentator": "seller",
+        "customer_id": 262452,
+        "fullname": "Vizibook",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/6e/eb/d6/8d6104804f0f94df5bc1ef5fda83a617.jpg",
+        "content": "Cảm ơn phản hồi của quý khách, Vizibook rất hân hạnh được phục vụ quý khách!",
+        "score": 0,
+        "create_at": 1681283450,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "Hình ảnh minh họa đa dạng, phong phú",
+        "in ấn/màu sắc rõ nét",
+        "Nội dung cung cấp nhiều thông tin bổ ích, hấp dẫn"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19094664,
+    "title": "Cực kì hài lòng",
+    "content": "Cuốn này mình mua lần 2 nè. Gái c 1 cuốn. Gái em 1. 2 bạn rất thik nha",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14981053,
+    "customer_id": 1300582,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1681556424,
+    "created_by": {
+      "id": 1300582,
+      "name": "Ngô Thị Mai Trang",
+      "full_name": "Ngô Thị Mai Trang",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2016-04-13 12:19:23",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1681028840,
+      "contribute_info": {
+        "id": 1300582,
+        "name": "Ngô Thị Mai Trang",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 9 năm",
+          "total_review": 9,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 208388809,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+    },
+    "product_id": 185658549,
+    "timeline": {
+      "review_created_date": "2023-04-15 18:00:24",
+      "delivery_date": "2023-04-10 11:48:50",
+      "current_date": "2025-04-30 11:34:27",
+      "content": "Đã dùng 5 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 19482609,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14652982,
+    "customer_id": 5458486,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1692853277,
+    "created_by": {
+      "id": 5458486,
+      "name": "Phan Tuấn",
+      "full_name": "Phan Tuấn",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/1f/76/6f/c6fa183ed1576ad2598fb31828a59ca5.png",
+      "created_time": "2017-07-11 00:38:52",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1688709613,
+      "contribute_info": {
+        "id": 5458486,
+        "name": "Phan Tuấn",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/1f/76/6f/c6fa183ed1576ad2598fb31828a59ca5.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 271,
+          "total_thank": 12
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 208388809,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "21/ce/5c/b52d0b8576680dc3666474ae31b091ec.jpg"
+    },
+    "product_id": 185658549,
+    "timeline": {
+      "review_created_date": "2023-08-24 12:01:17",
+      "delivery_date": "2023-07-10 09:43:09",
+      "current_date": "2025-04-30 11:34:27",
+      "content": "Đã dùng 2 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "Hình ảnh minh họa đa dạng, phong phú",
+        "in ấn/màu sắc rõ nét",
+        "Nội dung cung cấp nhiều thông tin bổ ích, hấp dẫn"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19361533,
+    "title": "Cực kì hài lòng",
+    "content": "Hài lòng",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.1463449,
+    "customer_id": 11494718,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1688821230,
+    "created_by": {
+      "id": 11494718,
+      "name": "trần nguyễn trúc linh",
+      "full_name": "trần nguyễn trúc linh",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2019-03-26 10:16:10",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1688574348,
+      "contribute_info": {
+        "id": 11494718,
+        "name": "trần nguyễn trúc linh",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 45,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 208388809,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+    },
+    "product_id": 185658549,
+    "timeline": {
+      "review_created_date": "2023-07-08 20:00:30",
+      "delivery_date": "2023-07-07 16:29:33",
+      "current_date": "2025-04-30 11:34:27",
+      "content": "Đã dùng 1 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17761836,
+    "title": "Cực kì hài lòng",
+    "content": "Bé rất thick, một buổi tối ngồi làm hết các bài luôn",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.1449956,
+    "customer_id": 12109030,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1663809433,
+    "created_by": {
+      "id": 12109030,
+      "name": "Dương Ngọc Ánh",
+      "full_name": "Dương Ngọc Ánh",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/27/34/79/4206f30ad833785a2d445d1465a21f01.png",
+      "created_time": "2019-05-16 09:50:31",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1662422879,
+      "contribute_info": {
+        "id": 12109030,
+        "name": "Dương Ngọc Ánh",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/27/34/79/4206f30ad833785a2d445d1465a21f01.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 57,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Vizibook"
+    ],
+    "product_attributes": [],
+    "spid": 185658553,
+    "is_photo": false,
+    "seller": {
+      "id": 262452,
+      "name": "Vizibook",
+      "logo": "6e/eb/d6/8d6104804f0f94df5bc1ef5fda83a617.jpg"
+    },
+    "product_id": 185658549,
+    "timeline": {
+      "review_created_date": "2022-09-22 08:17:13",
+      "delivery_date": "2022-09-09 07:55:38",
+      "current_date": "2025-04-30 11:34:27",
+      "content": "Đã dùng 13 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 13 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "Hình ảnh minh họa đa dạng, phong phú",
+        "in ấn/màu sắc rõ nét",
+        "Nội dung cung cấp nhiều thông tin bổ ích, hấp dẫn"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

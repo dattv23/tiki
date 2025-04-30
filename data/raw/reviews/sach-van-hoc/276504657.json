@@ -1,0 +1,79 @@
+[
+  {
+    "id": 20030586,
+    "title": "Cực kì hài lòng",
+    "content": "Bìa đẹp, đóng gói ổn",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15664116,
+    "customer_id": 29731861,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1731573840,
+    "created_by": {
+      "id": 29731861,
+      "name": "Nguyễn Thị Ngọc Minh",
+      "full_name": "Nguyễn Thị Ngọc Minh",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/27/40/56/0ae22dded5c92e0b0c3bc83ce2053bd8.png",
+      "created_time": "2024-01-15 08:40:33",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1731379954,
+      "contribute_info": {
+        "id": 29731861,
+        "name": "Nguyễn Thị Ngọc Minh",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/27/40/56/0ae22dded5c92e0b0c3bc83ce2053bd8.png",
+        "summary": {
+          "joined_time": "Đã tham gia 1 năm",
+          "total_review": 3,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 276504660,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+    },
+    "product_id": 276504657,
+    "timeline": {
+      "review_created_date": "2024-11-14 15:44:00",
+      "delivery_date": "2024-11-14 10:06:42",
+      "current_date": "2025-04-30 04:27:39",
+      "content": "Đã dùng 6 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 giờ."
+    },
+    "comments": [
+      {
+        "id": 3281648,
+        "review_id": 20030586,
+        "commentator": "seller",
+        "customer_id": 1,
+        "fullname": "Tiki Trading",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+        "content": "Tiki rất vui khi nhận được đánh giá 5⭐️ từ chị. Sự hài lòng của chị là động lực to lớn với Tiki đó ạ. Hy vọng chị Minh sẽ tiếp tục ủng hộ Tiki nha!",
+        "score": 0,
+        "create_at": 1731650958,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

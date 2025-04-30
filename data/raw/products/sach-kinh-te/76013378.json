@@ -1,0 +1,385 @@
+{
+  "id": 76013378,
+  "master_id": 76013378,
+  "sku": "2491493924269",
+  "name": "Storytelling With Data - Kể Chuyện Thông Qua Dữ Liệu (Cuốn Cẩm Nang Hướng Dẫn Trực Quan Hóa Dữ Liệu)",
+  "url_key": "storytelling-with-data-ke-chuyen-thong-qua-du-lieu-cuon-cam-nang-huong-dan-truc-quan-hoa-du-lieu-p76013378",
+  "url_path": "storytelling-with-data-ke-chuyen-thong-qua-du-lieu-cuon-cam-nang-huong-dan-truc-quan-hoa-du-lieu-p76013378.html?spid=76013379",
+  "short_url": "https://tiki.vn/product-p76013378.html?spid=76013379",
+  "type": "simple",
+  "book_cover": null,
+  "short_description": "Ắt hẳn ai trong chúng ta cũng đều đã từng là nạn nhân của những bản thuyết trình tra tấn thị giác, hay phải choáng váng với những ma trận phông chữ, màu sắc, những mục đầu dòng và thông tin đáng lưu t...",
+  "price": 228000,
+  "list_price": 319000,
+  "original_price": 319000,
+  "badges": [
+    {
+      "code": "has_book_preview",
+      "text": "Đọc thử"
+    },
+    {
+      "code": "new_pdp",
+      "text": "v1"
+    }
+  ],
+  "badges_new": [
+    {
+      "placement": "left_brand",
+      "code": "is_authentic",
+      "type": "is_authentic",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "right_authentic",
+      "code": "return_policy",
+      "type": "return_policy",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "badges_v3": [
+    {
+      "placement": "pdp_badge",
+      "code": "return_policy",
+      "type": "pdp_icon_badge",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_authentic",
+      "type": "pdp_icon_badge",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "tracking_info": {
+    "amplitude": {
+      "is_authentic": true,
+      "is_freeship_xtra": false,
+      "is_hero": false,
+      "is_top_brand": false,
+      "return_reason": "any_reason"
+    }
+  },
+  "discount": 91000,
+  "discount_rate": 29,
+  "rating_average": 5,
+  "review_count": 1920,
+  "review_text": "(1920)",
+  "favourite_count": 0,
+  "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b6/0d/3b/305afbf42b8effda0a194b6f690cc2f1.jpg",
+  "has_ebook": false,
+  "inventory_status": "available",
+  "inventory_type": "instock",
+  "productset_group_name": "",
+  "is_fresh": false,
+  "seller": null,
+  "is_flower": false,
+  "has_buynow": true,
+  "is_gift_card": false,
+  "salable_type": null,
+  "data_version": 3300,
+  "day_ago_created": 1566,
+  "all_time_quantity_sold": 12561,
+  "meta_title": "",
+  "meta_description": "",
+  "meta_keywords": "",
+  "is_baby_milk": false,
+  "is_acoholic_drink": false,
+  "description": "<p>Ắt hẳn ai trong chúng ta cũng đều đã từng là nạn nhân của những bản thuyết trình tra tấn thị giác, hay phải choáng váng với những ma trận phông chữ, màu sắc, những mục đầu dòng và thông tin đáng lưu tâm rồi. Chính chúng ta, dù không cố tình, nhiều lúc cũng có thể khiến người khác bị bội thực dữ liệu đến nỗi không thể chú ý vào các kết quả nghiên cứu quan trọng bên trong.</p>\n<p>Có thể đa phần mọi người nhận thức được nhu cầu truyền đạt thông tin hiệu quả thông qua dữ liệu nhưng lại cảm thấy mình không đủ khả năng chuyên môn. Thật hiếm có ai thành thạo nghiệp vụ trực quan hóa dữ liệu. </p>\n<p>Dù công nghệ đã giúp nâng tầm khả năng tiếp cận và tính hữu dụng của những công cụ xử lý dữ liệu, vẫn còn đó những hố đen mang tên “áp dụng hiệu quả”. Nền tảng công cụ mặc định và những công đoạn thực hành chung chung có xu hướng khiến cho dữ liệu, cùng những câu chuyện ta muốn truyền đạt qua đó, bị khiếm khuyết đến đáng thương.</p>\n<p>Việc có thể trực quan hóa và kể chuyện thông qua dữ liệu chính là chìa khóa giúp ta biến dữ liệu thành thông tin cần thiết, từ đó đưa ra những quyết định chuẩn xác hơn.</p>\n<p><strong>Cuốn sách dành cho:</strong></p>\n<p>Cuốn sách này dành cho bất kỳ ai có nhu cầu truyền đạt thông tin đến người khác thông qua con đường dữ liệu. Những đối tượng này bao gồm (nhưng dĩ nhiên không hề giới hạn bởi): những nhà phân tích cần chia sẻ kết quả nghiên cứu của mình, những học sinh/sinh viên cần trực quan hóa dữ liệu trong luận văn của mình, những nhà quản lý đang cần truyền đạt thông tin qua con đường dữ liệu, những mạnh thường quân muốn chứng minh tầm ảnh hưởng của họ, cũng như những vị quản lý muốn truyền đạt thông tin đến ban lãnh đạo của họ.</p>\n<p><strong>Cấu trúc cuốn sách:</strong></p>\n<p>Cuốn sách này được phân chia dựa theo một chuỗi những bài học tổng quát. Mỗi chương sẽ tập trung trình bày duy nhất một bài học chính yếu cùng các khái niệm liên quan. Tác giả sẽ cùng thảo luận về lý thuyết nhằm giúp các bạn hiểu rõ hơn. Tuy nhiên, cô sẽ chú trọng vào khía cạnh áp dụng thực tiễn lý thuyết qua những ví dụ cụ thể, thực tế.</p>\n<p>Những bài học được đề cập không giới hạn trong một ngành nghề hay vai trò nào, nhưng sẽ tập trung vào những khái niệm căn bản và ví dụ thực tiễn nhất về mảng truyền đạt thông điệp qua dữ liệu hiệu quả.</p>\n<p>Những bài học được đề ra trong cuốn sách này sẽ giúp bạn thay đổi tư duy từ “trình bày dữ liệu” sang “kể chuyện thông qua dữ liệu”.</p>\n<p><strong>Cuốn sách mang lại cho bạn:</strong></p>\n<p>Cuốn sách sẽ mang đến những chỉ dẫn thực tiễn mà bạn có thể áp dụng ngay lập tức nhằm cải thiện kỹ năng trực quan hóa dữ liệu. Tác giả sẽ trình bày đầy đủ nội dung cần thiết để giúp bạn có thể học và dễ dàng áp dụng sáu bài học chính yếu sau đây:</p>\n<ul>\n<li>Thấu hiểu bối cảnh</li>\n<li>Lựa chọn hình ảnh trực quan phù hợp</li>\n<li>Loại bỏ yếu tố gây rối</li>\n<li>Hướng sự chú ý vào điểm mong muốn</li>\n<li>Tư duy như một nhà thiết kế</li>\n<li>Kể một câu chuyện</li>\n</ul>\n<p>Những bài học được đề cập không giới hạn trong một ngành nghề hay vai trò nào, nhưng sẽ tập trung vào những khái niệm căn bản và ví dụ thực tiễn nhất về mảng truyền đạt thông điệp qua dữ liệu hiệu quả. Tác giả sẽ tập trung vào những tình huống thực tiễn nhất nhằm giúp bạn có thể áp dụng chúng với bất kỳ ứng dụng tạo lập bảng biểu hay phần mềm thuyết trình nào. </p>\n<p>Những bài học mà tác giả đề ra trong cuốn sách này sẽ giúp bạn thay đổi tư duy từ “trình bày dữ liệu” sang “kể chuyện thông qua dữ liệu”.<br /><br /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+  "images": [
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/b6/0d/3b/305afbf42b8effda0a194b6f690cc2f1.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/b6/0d/3b/305afbf42b8effda0a194b6f690cc2f1.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/b6/0d/3b/305afbf42b8effda0a194b6f690cc2f1.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/b6/0d/3b/305afbf42b8effda0a194b6f690cc2f1.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/b6/0d/3b/305afbf42b8effda0a194b6f690cc2f1.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/d0/63/8b/b083084e4bdf5da0a5db725398627cc4.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/d0/63/8b/b083084e4bdf5da0a5db725398627cc4.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/d0/63/8b/b083084e4bdf5da0a5db725398627cc4.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/d0/63/8b/b083084e4bdf5da0a5db725398627cc4.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/d0/63/8b/b083084e4bdf5da0a5db725398627cc4.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/e2/7d/3e/718acf0fede103525e34ee96e3be2f82.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/e2/7d/3e/718acf0fede103525e34ee96e3be2f82.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/e2/7d/3e/718acf0fede103525e34ee96e3be2f82.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/e2/7d/3e/718acf0fede103525e34ee96e3be2f82.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/e2/7d/3e/718acf0fede103525e34ee96e3be2f82.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/64/f8/07/4f8318574c46eccc5a2695f721f1b504.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/64/f8/07/4f8318574c46eccc5a2695f721f1b504.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/64/f8/07/4f8318574c46eccc5a2695f721f1b504.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/64/f8/07/4f8318574c46eccc5a2695f721f1b504.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/64/f8/07/4f8318574c46eccc5a2695f721f1b504.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/6f/04/65/b067492450ad69804fb7671e6c5a9ee9.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/6f/04/65/b067492450ad69804fb7671e6c5a9ee9.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/6f/04/65/b067492450ad69804fb7671e6c5a9ee9.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6f/04/65/b067492450ad69804fb7671e6c5a9ee9.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6f/04/65/b067492450ad69804fb7671e6c5a9ee9.jpg"
+    }
+  ],
+  "warranty_policy": null,
+  "authors": [
+    {
+      "id": 512785,
+      "name": "Cole Nussbaumer Knaflic",
+      "slug": "cole-nussbaumer-knaflic"
+    }
+  ],
+  "current_seller": {
+    "id": 1,
+    "sku": "7649903171399",
+    "name": "Tiki Trading",
+    "link": "https://tiki.vn/cua-hang/tiki-trading",
+    "logo": "d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+    "price": 228000,
+    "product_id": "76013379",
+    "store_id": 40395,
+    "is_best_store": false,
+    "is_offline_installment_supported": null
+  },
+  "other_sellers": [
+    {
+      "id": 129570,
+      "name": "Nhà Sách Minh Đức",
+      "link": "https://tiki.vn/cua-hang/nha-sach-minh-duc",
+      "logo": "48/33/85/9fbccf1b8d682cae252a17ba896435da.png",
+      "price": 319000,
+      "product_id": "79662371",
+      "store_id": 119697
+    },
+    {
+      "id": 670,
+      "name": "Cá Chép Bookstore",
+      "link": "https://tiki.vn/cua-hang/ca-chep-bookstore",
+      "logo": "0a/89/1c/28dd476ede7a32391ad449d0f0c9c403.jpg",
+      "price": 287100,
+      "product_id": "79734376",
+      "store_id": 633
+    },
+    {
+      "id": 263635,
+      "name": "Sunbook Store",
+      "link": "https://tiki.vn/cua-hang/sunbook-store",
+      "logo": "f5/b5/2c/c571bb4348af26cb56b23e93220d3393.png",
+      "price": 239000,
+      "product_id": "161524414",
+      "store_id": 250680
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Thông tin chung",
+      "attributes": [
+        {
+          "code": "book_version",
+          "name": "Phiên bản sách",
+          "value": "Phiên bản thường"
+        },
+        {
+          "code": "publisher_vn",
+          "name": "Công ty phát hành",
+          "value": "Sunbook"
+        },
+        {
+          "code": "publication_date",
+          "name": "Ngày xuất bản",
+          "value": "2021-01-12 00:00:00"
+        },
+        {
+          "code": "dimensions",
+          "name": "Kích thước",
+          "value": "18.5 x 23 cm"
+        },
+        {
+          "code": "dich_gia",
+          "name": "Dịch Giả",
+          "value": "Hồ Vũ Thanh Phong"
+        },
+        {
+          "code": "book_cover",
+          "name": "Loại bìa",
+          "value": "Bìa mềm"
+        },
+        {
+          "code": "number_of_page",
+          "name": "Số trang",
+          "value": "280"
+        },
+        {
+          "code": "manufacturer",
+          "name": "Nhà xuất bản",
+          "value": "Nhà Xuất Bản Thế Giới"
+        }
+      ]
+    }
+  ],
+  "price_comparison": {
+    "sub_title": "Giá từ 239.000 ₫",
+    "title": "So sánh 3 nhà bán khác"
+  },
+  "product_links": [],
+  "gift_item_title": "0 quà tặng kèm",
+  "highlight": {
+    "items": [
+      "Hướng dẫn trực quan hóa dữ liệu hiệu quả và dễ hiểu.",
+      "Cung cấp bài học chính yếu và ví dụ thực tế.",
+      "Tập trung vào khái niệm căn bản và áp dụng thực tiễn."
+    ],
+    "title": "Đặc điểm nổi bật"
+  },
+  "services_and_promotions": [],
+  "promitions": [],
+  "stock_item": {
+    "max_sale_qty": 1000,
+    "min_sale_qty": 1,
+    "preorder_date": null,
+    "qty": 1000
+  },
+  "quantity_sold": {
+    "text": "Đã bán 12k",
+    "value": 12561
+  },
+  "categories": {
+    "id": 316,
+    "name": "Sách tiếng Việt",
+    "is_leaf": false
+  },
+  "breadcrumbs": [
+    {
+      "url": "/nha-sach-tiki/c8322",
+      "name": "Nhà Sách Tiki",
+      "category_id": 8322
+    },
+    {
+      "url": "/sach-truyen-tieng-viet/c316",
+      "name": "Sách tiếng Việt",
+      "category_id": 316
+    },
+    {
+      "url": "/sach-kinh-te/c846",
+      "name": "Sách kinh tế",
+      "category_id": 846
+    },
+    {
+      "url": "/sach-ky-nang-lam-viec/c385",
+      "name": "Sách kỹ năng làm việc",
+      "category_id": 385
+    },
+    {
+      "url": "https://tiki.vn/storytelling-with-data-ke-chuyen-thong-qua-du-lieu-cuon-cam-nang-huong-dan-truc-quan-hoa-du-lieu-p76013378.html",
+      "name": "Storytelling With Data - Kể Chuyện Thông Qua Dữ Liệu (Cuốn Cẩm Nang Hướng Dẫn Trực Quan Hóa Dữ Liệu)",
+      "category_id": 0
+    }
+  ],
+  "installment_info_v2": null,
+  "installment_info_v3": [
+    {
+      "display_text": "Ưu đãi đến 600k với thẻ TikiCard",
+      "icon": "https://salt.tikicdn.com/ts/upload/73/4d/f7/f86e767bffc14aa3d6abed348630100b.png",
+      "summary": "Ưu đãi đến 600k với thẻ TikiCard.",
+      "title": "Ưu đãi đến 600k với thẻ TikiCard",
+      "type": "other",
+      "url": "https://tiki.vn/san-pham-so/the-dong-thuong-hieu-tiki-co-card"
+    },
+    {
+      "display_text": "Mua trước trả sau",
+      "icon": "https://salt.tikicdn.com/ts/upload/2a/27/6a/7bbba1f6c93a1a42a3c314e7b5825f4c.png",
+      "summary": "Duyệt hồ sơ nhanh chóng qua công ty tài chính.",
+      "title": "Mua trước trả sau",
+      "type": "postpaid",
+      "url": "https://tiki.vn/mua-truoc-tra-sau/thanh-toan?src=pdp&masterId=76013378&pid=76013379&seller_id=1&qty=1"
+    }
+  ],
+  "is_seller_in_chat_whitelist": true,
+  "inventory": {
+    "product_virtual_type": null,
+    "fulfillment_type": "tiki_delivery"
+  },
+  "warranty_info": [],
+  "return_and_exchange_policy": "Đổi trả trong<br><b>30 ngày</b><br>nếu sp lỗi.",
+  "is_tier_pricing_available": false,
+  "is_tier_pricing_eligible": false,
+  "benefits": [
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/c5/37/ee/76c708d43e377343e82baee8a0340297.png",
+      "text": "Được đồng kiểm khi nhận hàng"
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/ea/02/b4/b024e431ec433e6c85d4734aaf35bd65.png",
+      "text": "<b>Được hoàn tiền 200%</b> nếu là hàng giả."
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/d8/c7/a5/1cd5bd2f27f9bd74b2c340b8e27c4d82.png",
+      "text": "Đổi trả miễn phí trong 30 ngày. Được đổi ý.",
+      "sub_text": [],
+      "cta": {
+        "text": "Chi tiết",
+        "type": "open_policy_return_modal"
+      }
+    }
+  ],
+  "return_policy": {
+    "body": [
+      {
+        "label": "",
+        "content": [
+          "Được đổi ý (sản phẩm phải còn nguyên hộp, tem, phụ kiện, chưa kích hoạt bảo hành, không áp dụng đơn hàng trả góp), hoặc",
+          "Sản phẩm không đúng cam kết (lỗi kỹ thuật, giao sai/thiếu, bể vỡ…)"
+        ]
+      }
+    ],
+    "cta": {
+      "link": "https://hotro.tiki.vn/s/article/chinh-sach-doi-tra-san-pham",
+      "text_button": "Tìm hiểu thêm"
+    },
+    "title": "Đổi trả miễn phí trong 30 ngày"
+  }
+}

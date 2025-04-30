@@ -1,0 +1,289 @@
+[
+  {
+    "id": 19966548,
+    "title": "Hài lòng",
+    "content": "Sách hay, tác giả cho bạn dọc thêm góc nhìn cho xu hướng công nghệ; giữa sự tiện ích và vấn đề rủi ro. Phù hợp với độc giả tìm hiểu về ngành công nghệ",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.05516937,
+    "new_score": 0.16669849,
+    "customer_id": 2100923,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1724901043,
+    "created_by": {
+      "id": 2100923,
+      "name": "Phuong Tong ",
+      "full_name": "Phuong Tong ",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/6a/f2/6f/648c112a34a2d432b5efcb03cb1ddf64.png",
+      "created_time": "2017-01-22 22:17:23",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1718787540,
+      "contribute_info": {
+        "id": 2100923,
+        "name": "Phuong Tong ",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/6a/f2/6f/648c112a34a2d432b5efcb03cb1ddf64.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 33,
+          "total_thank": 3
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Fahasa"
+    ],
+    "product_attributes": [],
+    "spid": 275263315,
+    "is_photo": false,
+    "seller": {
+      "id": 53660,
+      "name": "Nhà sách Fahasa",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/6e/22/e8/d93176a20c412291b6ce538508af25c2.jpg"
+    },
+    "product_id": 275263314,
+    "timeline": {
+      "review_created_date": "2024-08-29 10:10:43",
+      "delivery_date": "2024-06-20 15:25:24",
+      "current_date": "2025-04-30 06:33:43",
+      "content": "Đã dùng 2 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "Bìa đẹp, bắt mắt",
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "Nội dung bổ ích"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19907396,
+    "title": "Cực kì hài lòng",
+    "content": "Giao hàng không nhanh như bên *** nhưng đúng thời gian đã hẹn. Đóng gói rất cẩn thận",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 38.88888889,
+    "new_score": 0.16530678,
+    "customer_id": 12273666,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4362521,
+        "full_path": "https://salt.tikicdn.com/ts/review/b4/7b/a0/3cb11259b4a1a0c71e8798d78fbb247c.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4362522,
+        "full_path": "https://salt.tikicdn.com/ts/review/b8/a2/d5/6b1167766eebe4ffee9d7337a5d4909d.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1718942984,
+    "created_by": {
+      "id": 12273666,
+      "name": "Trần Mạnh Trung",
+      "full_name": "Trần Mạnh Trung",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2019-05-28 14:51:12",
+      "group_id": 7,
+      "purchased": true,
+      "purchased_at": 1718683253,
+      "contribute_info": {
+        "id": 12273666,
+        "name": "Trần Mạnh Trung",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 2,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Fahasa"
+    ],
+    "product_attributes": [],
+    "spid": 275263315,
+    "is_photo": true,
+    "seller": {
+      "id": 53660,
+      "name": "Nhà sách Fahasa",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/6e/22/e8/d93176a20c412291b6ce538508af25c2.jpg"
+    },
+    "product_id": 275263314,
+    "timeline": {
+      "review_created_date": "2024-06-21 11:09:44",
+      "delivery_date": "2024-06-21 09:56:16",
+      "current_date": "2025-04-30 06:33:43",
+      "content": "Đã dùng 1 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 20112600,
+    "title": "Cực kì hài lòng",
+    "content": "Chưa độc nhưng sách ổn",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 33.33333333,
+    "new_score": 0.16253905,
+    "customer_id": 30357332,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4403160,
+        "full_path": "https://salt.tikicdn.com/ts/review/4a/40/4c/af4c2002a6e212cd20e8f8e1d3a4b31a.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1744978900,
+    "created_by": {
+      "id": 30357332,
+      "name": "Thị Cám",
+      "full_name": "Thị Cám",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/d2/a4/a6/2dc62f32950d6914f5cc114608124b20.png",
+      "created_time": "2025-04-16 08:56:41",
+      "group_id": 7,
+      "purchased": true,
+      "purchased_at": 1744780435,
+      "contribute_info": {
+        "id": 30357332,
+        "name": "Thị Cám",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/d2/a4/a6/2dc62f32950d6914f5cc114608124b20.png",
+        "summary": {
+          "joined_time": "Đã tham gia 14 ngày",
+          "total_review": 2,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Fahasa"
+    ],
+    "product_attributes": [],
+    "spid": 275263315,
+    "is_photo": true,
+    "seller": {
+      "id": 53660,
+      "name": "Nhà sách Fahasa",
+      "logo": "f8/86/c0/12f7213bcdfd4d9a7a52e9b3a6704493.jpg"
+    },
+    "product_id": 275263314,
+    "timeline": {
+      "review_created_date": "2025-04-18 19:21:40",
+      "delivery_date": "2025-04-18 15:25:16",
+      "current_date": "2025-04-30 06:33:43",
+      "content": "Đã dùng 4 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20107469,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15733645,
+    "customer_id": 20243154,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1744019655,
+    "created_by": {
+      "id": 20243154,
+      "name": "kien nguyen",
+      "full_name": "kien nguyen",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-02-07 15:18:11",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1736856845,
+      "contribute_info": {
+        "id": 20243154,
+        "name": "kien nguyen",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 40,
+          "total_thank": 5
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Fahasa"
+    ],
+    "product_attributes": [],
+    "spid": 275263315,
+    "is_photo": false,
+    "seller": {
+      "id": 53660,
+      "name": "Nhà sách Fahasa",
+      "logo": "f8/86/c0/12f7213bcdfd4d9a7a52e9b3a6704493.jpg"
+    },
+    "product_id": 275263314,
+    "timeline": {
+      "review_created_date": "2025-04-07 16:54:15",
+      "delivery_date": "2025-01-20 08:56:20",
+      "current_date": "2025-04-30 06:33:43",
+      "content": "Đã dùng 3 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

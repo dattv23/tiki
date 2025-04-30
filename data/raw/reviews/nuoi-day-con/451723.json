@@ -1,0 +1,1298 @@
+[
+  {
+    "id": 19929247,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15251182,
+    "customer_id": 21764723,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1721176379,
+    "created_by": {
+      "id": 21764723,
+      "name": "A Dũng",
+      "full_name": "A Dũng",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-05-17 12:34:33",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1706351106,
+      "contribute_info": {
+        "id": 21764723,
+        "name": "A Dũng",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 12,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán THAIHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 51257842,
+    "is_photo": false,
+    "seller": {
+      "id": 101957,
+      "name": "THAIHABOOKS",
+      "logo": "3e/1d/c6/547fb1d868fa22ccd49fca20bc0d1ddb.jpg"
+    },
+    "product_id": 451723,
+    "timeline": {
+      "review_created_date": "2024-07-17 07:32:59",
+      "delivery_date": "2024-01-31 11:43:11",
+      "current_date": "2025-04-30 11:38:05",
+      "content": "Đã dùng 1 năm",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 năm."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17300432,
+    "title": "Cực kì hài lòng",
+    "content": "Ok ok ok",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 33.33333333,
+    "new_score": 0.14304357,
+    "customer_id": 631948,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [
+      {
+        "id": 3759249,
+        "full_path": "https://salt.tikicdn.com/ts/review/7d/e4/55/ca60c3377922755c11c88a4005f855d1.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1659617531,
+    "created_by": {
+      "id": 631948,
+      "name": "ngô nguyễn ngọc trâm",
+      "full_name": "ngô nguyễn ngọc trâm",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/af/47/d8/1d66af186b66e054d157bbc34e8ec725.png",
+      "created_time": "2015-05-13 18:21:37",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1659256555,
+      "contribute_info": {
+        "id": 631948,
+        "name": "ngô nguyễn ngọc trâm",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/af/47/d8/1d66af186b66e054d157bbc34e8ec725.png",
+        "summary": {
+          "joined_time": "Đã tham gia 10 năm",
+          "total_review": 7,
+          "total_thank": 4
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Moonbooks"
+    ],
+    "product_attributes": [],
+    "spid": 188128386,
+    "is_photo": true,
+    "seller": {
+      "id": 26892,
+      "name": "Moonbooks",
+      "logo": "24/e0/69/a55cdb7d9780e0e85c73f43086155ec3.png"
+    },
+    "product_id": 451723,
+    "timeline": {
+      "review_created_date": "2022-08-04 19:52:11",
+      "delivery_date": "2022-08-04 14:11:00",
+      "current_date": "2025-04-30 11:38:05",
+      "content": "Đã dùng 6 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 2771928,
+    "title": "Cực kì hài lòng",
+    "content": "Cuốn sách nói về những vấn đề mà t đang quan tâm, rất hay mà ngắn gọn, súc tích.\nSách không chỉ phù hợp với những bậc cha mẹ mà còn là một tài liệu tham khảo rất hay dành cho các sinh viên y khoa cũng như là bác sĩ quan tâm vấn đề này.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.01089325,
+    "new_score": 0.14222613,
+    "customer_id": 629931,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1577150828,
+    "created_by": {
+      "id": 629931,
+      "name": "Nguyễn  Hưng",
+      "full_name": "Nguyễn  Hưng",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "purchased": true,
+      "purchased_at": 1576771209,
+      "contribute_info": {
+        "id": 629931,
+        "name": "Nguyễn  Hưng",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 10 năm",
+          "total_review": 2,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán GOLD BOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 25881382,
+    "is_photo": false,
+    "seller": {
+      "id": 16979,
+      "name": "GOLD BOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/e0/bc/1c/775bd91abeb111189af37957a216ef43.png"
+    },
+    "product_id": 451723,
+    "timeline": {
+      "review_created_date": "2019-12-24 08:27:08",
+      "delivery_date": "2019-12-24 08:13:23",
+      "current_date": "2025-04-30 11:38:05",
+      "content": "Đã dùng 14 phút",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 14 phút."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 15320106,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13679071,
+    "customer_id": 1460444,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1646741326,
+    "created_by": {
+      "id": 1460444,
+      "name": "Lan Anhh",
+      "full_name": "Lan Anhh",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2016-06-24 20:29:03",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1646547135,
+      "contribute_info": {
+        "id": 1460444,
+        "name": "Lan Anhh",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 9 năm",
+          "total_review": 5,
+          "total_thank": 5
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán SÁCH NGHÉ"
+    ],
+    "product_attributes": [],
+    "spid": 88207714,
+    "is_photo": false,
+    "seller": {
+      "id": 81283,
+      "name": "SÁCH NGHÉ",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+    },
+    "product_id": 451723,
+    "timeline": {
+      "review_created_date": "2022-03-08 19:08:46",
+      "delivery_date": "2022-03-08 09:33:22",
+      "current_date": "2025-04-30 11:38:05",
+      "content": "Đã dùng 10 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 10 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 1434478,
+    "title": "hay",
+    "content": "nhiều kiến thức hay cũng như có cách giải quyết, riêng cái phần hỏi ý kiến bác sĩ nhi khoa thì khá nhiều, vì đây dịch theo nước ngoài, họ có bác sĩ nhi riêng, và dịch vụ y tế họ ok lắm. còn ở VN mình thì khó mà tìm được bác sĩ nhi có sdt riêng hay chuyên trả lời cho con mình, đến bênh viện thì phải ngồi mà chờ đợi...",
+    "status": "approved",
+    "thank_count": 2,
+    "score": 0.00337965,
+    "new_score": 0.13453943,
+    "customer_id": 5199868,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1525490138,
+    "created_by": {
+      "id": 5199868,
+      "name": "Oliu Hoang Dai",
+      "full_name": "Oliu Hoang Dai",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "purchased": true,
+      "purchased_at": 1519702117,
+      "contribute_info": {
+        "id": 5199868,
+        "name": "Oliu Hoang Dai",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 2,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 159018,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+    },
+    "product_id": 451723,
+    "timeline": {
+      "review_created_date": "2018-05-05 10:15:38",
+      "delivery_date": "2018-03-01 14:11:59",
+      "current_date": "2025-04-30 11:38:05",
+      "content": "Đã dùng 2 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 936942,
+    "title": "Sách bổ ích",
+    "content": "Sách có nhiều nội dung liên quan đến các bệnh lý thông thường gặp ở trẻ nhỏ lẫn người lớn và có hướng dẫn căn bản về cách xử lý đối với từng bệnh. Đọc quyển sách này, cha mẹ sẽ yên tâm hơn trong việc theo dõi tình hình sức khỏe của con cái tại nhà. Cuối sách có từ điển nữa, rất thuận tiện để tra cứu các bệnh lý, ví dụ như: Mắt, mũi, ho....",
+    "status": "approved",
+    "thank_count": 2,
+    "score": 0.00369621,
+    "new_score": 0.13103924,
+    "customer_id": 1299359,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1508917718,
+    "created_by": {
+      "id": 1299359,
+      "name": "Hong Nhung",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "purchased": true,
+      "purchased_at": 1478758523,
+      "contribute_info": {
+        "id": 1299359,
+        "name": "Hong Nhung",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 9 năm",
+          "total_review": 10,
+          "total_thank": 4
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 159018,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+    },
+    "product_id": 451723,
+    "timeline": {
+      "review_created_date": "2017-10-25 14:48:38",
+      "delivery_date": "2016-11-11 17:37:49",
+      "current_date": "2025-04-30 11:38:05",
+      "content": "Đã dùng 1 năm",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 năm."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 9234820,
+    "title": "Hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0,
+    "new_score": 0.13094687,
+    "customer_id": 8868187,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1619072387,
+    "created_by": {
+      "id": 8868187,
+      "name": "Cát",
+      "full_name": "Cát",
+      "region": null,
+      "avatar_url": "https://s120.avatar.talk.zdn.vn/6/e/c/6/25/120/a588ce211b22a7459f5a8f9ef873b34d.jpg",
+      "created_time": "2018-11-10 17:56:11",
+      "purchased": true,
+      "purchased_at": 1614217057,
+      "contribute_info": {
+        "id": 8868187,
+        "name": "Cát",
+        "avatar": "https://s120.avatar.talk.zdn.vn/6/e/c/6/25/120/a588ce211b22a7459f5a8f9ef873b34d.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 12,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán GOLD BOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 25881382,
+    "is_photo": false,
+    "seller": {
+      "id": 16979,
+      "name": "GOLD BOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/e0/bc/1c/775bd91abeb111189af37957a216ef43.png"
+    },
+    "product_id": 451723,
+    "timeline": {
+      "review_created_date": "2021-04-22 13:19:47",
+      "delivery_date": "2021-02-26 12:45:15",
+      "current_date": "2025-04-30 11:38:05",
+      "content": "Đã dùng 2 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 2976538,
+    "title": "Thiết thực",
+    "content": "Nội dung cụ thể. Trình bày có nhiểu bảng dễ hiểu. Áp dụng được và thấy an tâm hơn cho con.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 18.51851852,
+    "new_score": 0.13090754,
+    "customer_id": 5466701,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1581324058,
+    "created_by": {
+      "id": 5466701,
+      "name": "Võ Ngọc Lĩnh",
+      "full_name": "Võ Ngọc Lĩnh",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "purchased": true,
+      "purchased_at": 1580785624,
+      "contribute_info": {
+        "id": 5466701,
+        "name": "V N L",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 473,
+          "total_thank": 113
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán GOLD BOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 25881382,
+    "is_photo": false,
+    "seller": {
+      "id": 16979,
+      "name": "GOLD BOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/e0/bc/1c/775bd91abeb111189af37957a216ef43.png"
+    },
+    "product_id": 451723,
+    "timeline": {
+      "review_created_date": "2020-02-10 15:40:58",
+      "delivery_date": "2020-02-10 10:18:13",
+      "current_date": "2025-04-30 11:38:05",
+      "content": "Đã dùng 5 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 1944439,
+    "title": "Từ điển về bệnh nhi",
+    "content": "Tuyệt, lưu trữ khi cần muốn biết thông tin.\nSách đề cao tầm quan trọng của bác sĩ.\nCha mẹ được đưa cho những gợi ý/ lưu về hành vi của con trẻ để quyết định cho gặp bác sĩ.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.00946271,
+    "new_score": 0.13013694,
+    "customer_id": 352818,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1542954167,
+    "created_by": {
+      "id": 352818,
+      "name": "Trần ngọc Lợi",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "purchased": true,
+      "purchased_at": 1534065114,
+      "contribute_info": {
+        "id": 352818,
+        "name": "Trần ngọc Lợi",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 11 năm",
+          "total_review": 542,
+          "total_thank": 135
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 159018,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+    },
+    "product_id": 451723,
+    "timeline": {
+      "review_created_date": "2018-11-23 13:22:47",
+      "delivery_date": "2018-08-14 07:56:26",
+      "current_date": "2025-04-30 11:38:05",
+      "content": "Đã dùng 3 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 7477473,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.12951281,
+    "customer_id": 1261152,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1612282499,
+    "created_by": {
+      "id": 1261152,
+      "name": "Thanh Huyen",
+      "full_name": "Thanh Huyen",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2016-03-26 11:40:05",
+      "purchased": true,
+      "purchased_at": 1599122898,
+      "contribute_info": {
+        "id": 1261152,
+        "name": "Thanh Huyen",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 9 năm",
+          "total_review": 4,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [
+      "Chất lượng tốt",
+      "Giá tốt"
+    ],
+    "attributes": [
+      "Mua từ nhà bán THAIHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 51257842,
+    "is_photo": false,
+    "seller": {
+      "id": 101957,
+      "name": "THAIHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/3e/1d/c6/547fb1d868fa22ccd49fca20bc0d1ddb.jpg"
+    },
+    "product_id": 451723,
+    "timeline": {
+      "review_created_date": "2021-02-02 23:14:59",
+      "delivery_date": "2020-09-07 09:16:32",
+      "current_date": "2025-04-30 11:38:05",
+      "content": "Đã dùng 5 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 681213,
+    "title": "Bìa sách quá mỏng.",
+    "content": "Nội dung sách: hay giúp ích cho ba mẹ có con nhỏ. Tuy nhiên có 2 nhược điểm:\r\n1. Bìa sách quá mỏng: Sách này dùng để tra cứu trong nhiều năm từ lúc con mới sinh đến 15 tuổi nhưng bìa sách quá mỏng, dẫn đến bìa sách dễ quăn, không bảo quản lâu dài được. Gây khó chịu người dùng.\r\n2. Mục lục các bệnh trong sách không theo thứ tự: ABC theo tiếng Việt hay bệnh ngoại - nội khoa. Chưa có tính liên kết giữa các nghi vấn bệnh.",
+    "status": "approved",
+    "thank_count": 1,
+    "score": 0.003052,
+    "new_score": 0.12870597,
+    "customer_id": 980512,
+    "comment_count": 0,
+    "rating": 3,
+    "images": [],
+    "thanked": false,
+    "created_at": 1497927937,
+    "created_by": {
+      "id": 980512,
+      "name": "Hong Ha",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "purchased": true,
+      "purchased_at": 1517216899,
+      "contribute_info": {
+        "id": 980512,
+        "name": "Hong Ha",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 10 năm",
+          "total_review": 13,
+          "total_thank": 15
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 159018,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+    },
+    "product_id": 451723,
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 3389689,
+    "title": "Rất không hài lòng",
+    "content": "in giấy khó đọc quá \nNhiều kiến thức lan man",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 2.24444444,
+    "new_score": 0.12791895,
+    "customer_id": 12870302,
+    "comment_count": 1,
+    "rating": 1,
+    "images": [],
+    "thanked": false,
+    "created_at": 1586744082,
+    "created_by": {
+      "id": 12870302,
+      "name": "Thảo Nguyên",
+      "full_name": "Thảo Nguyên",
+      "region": null,
+      "avatar_url": "https://s120.avatar.talk.zdn.vn/0/5/f/3/11/120/a55a58443efb9ff95d7a01219f46cd9a.jpg",
+      "purchased": true,
+      "purchased_at": 1584235011,
+      "contribute_info": {
+        "id": 12870302,
+        "name": "Thảo Nguyên",
+        "avatar": "https://s120.avatar.talk.zdn.vn/0/5/f/3/11/120/a55a58443efb9ff95d7a01219f46cd9a.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 2,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán GOLD BOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 25881382,
+    "is_photo": false,
+    "seller": {
+      "id": 16979,
+      "name": "GOLD BOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/e0/bc/1c/775bd91abeb111189af37957a216ef43.png"
+    },
+    "product_id": 451723,
+    "timeline": {
+      "review_created_date": "2020-04-13 09:14:42",
+      "delivery_date": "2020-03-20 15:42:16",
+      "current_date": "2025-04-30 11:38:07",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [
+      {
+        "id": 598379,
+        "review_id": 3389689,
+        "commentator": "tikicare",
+        "customer_id": 0,
+        "fullname": "Tiki Care",
+        "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+        "content": "Thân chào bạn, Tiki cảm ơn bạn đã dành thời gian để gửi thông tin đánh giá về sản phẩm, cũng như rất tiếc vì chất lượng sản phẩm đã chưa được như mong đợi. Tiki đã ghi nhận thông tin từ bạn và rất hy vọng sẽ được phục vụ bạn thành công hơn với các sản phẩm tiếp theo. Trường hợp cần hỗ trợ thêm từ Tiki, bạn có thể liên hệ đến hộp thư hotro@tiki.vn hoặc hotline 1900-6035 để được phục vụ nhanh chóng nhất. Trân trọng",
+        "score": 0,
+        "create_at": 1586825844,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 1,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 3032596,
+    "title": "Hài lòng",
+    "content": "sách có nội dung hay, thiết thực.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 18.51851852,
+    "new_score": 0.12588996,
+    "customer_id": 15165954,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1582187758,
+    "created_by": {
+      "id": 15165954,
+      "name": "Bo Loan",
+      "full_name": "Bo Loan",
+      "region": null,
+      "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2270818779689292&height=200&width=200&ext=1577455661&hash=AeSSY-Idb84JZQW-",
+      "purchased": true,
+      "purchased_at": 1576721253,
+      "contribute_info": {
+        "id": 15165954,
+        "name": "Bo Loan",
+        "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2270818779689292&height=200&width=200&ext=1577455661&hash=AeSSY-Idb84JZQW-",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 2,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Vadata"
+    ],
+    "product_attributes": [],
+    "spid": 16187918,
+    "is_photo": false,
+    "seller": {
+      "id": 12628,
+      "name": "Vadata",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/63/b3/45/37b899f1d0677cdaf9451fb54ba67e21.png"
+    },
+    "product_id": 451723,
+    "timeline": {
+      "review_created_date": "2020-02-20 15:35:58",
+      "delivery_date": "2019-12-23 06:08:39",
+      "current_date": "2025-04-30 11:38:07",
+      "content": "Đã dùng 2 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 459158,
+    "title": "Bác sĩ của con",
+    "content": "Bác sỹ của con là cuốn cẩm nang để ba mẹ có thể tìm kiếm thông tin chăm sóc cho các bé nhà mình (từ 0 – 15 tuổi). Hệ thống kiến thức được đưa ra trong sách phần lớn là kiến thức khoa nhi đã được kiểm chứng bởi các bác sỹ nhi nổi tiếng của Hoa Kỳ. \r\nĐiểm trừ: cuốn sách mình mua có khá nhiều trang in bị mờ; và cuốn sách chưa có phần tra cứu từ khóa và bản chú thích thuật ngữ (index) gây khó khăn cho việc tự nghiên cứu thông tin. Hy vọng trong lần tái bản tiếp theo cuốn sách sẽ khắc phục được điểm này.",
+    "status": "approved",
+    "thank_count": 2,
+    "score": 0.00138719,
+    "new_score": 0.12215696,
+    "customer_id": 301718,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1466862616,
+    "created_by": {
+      "id": 301718,
+      "name": "Nguyễn Thị Hiền",
+      "full_name": "Nguyễn Thị Hiền",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2014-03-09 12:20:37",
+      "purchased": true,
+      "purchased_at": 1449853815,
+      "rank": 5,
+      "badge": "Bút mới nổi",
+      "badge_icon": "https://vcdn.tikicdn.com/assets/img/review-badge/badge-5.png",
+      "contribute_info": {
+        "id": 301718,
+        "name": "Nguyễn Thị Hiền",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 11 năm",
+          "total_review": 178,
+          "total_thank": 139
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 159018,
+    "is_photo": false,
+    "content_id": 459109,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+    },
+    "product_id": 451723,
+    "timeline": {
+      "review_created_date": "2016-06-25 20:50:16",
+      "delivery_date": "2016-01-23 11:04:59",
+      "current_date": "2025-04-30 11:38:07",
+      "content": "Đã dùng 5 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 434396,
+    "title": "dễ hiểu, hữu ích",
+    "content": "Cuốn sách có nhiều chương chia theo độ tuổi từ sơ sinh tới thành niên, ở mỗi chương lại đề cập đến các bệnh thường gặp, triệu chứng, nguyên nhân và cách xử lý, cuốn sách cũng đưa ra lời khuyên cho các mẹ khi nào thì kiên nhẫn ngồi đợi, khi nào cần đưa bé gặp bác sĩ.\r\nBên cạnh các bệnh thường gặp, có 1 số chương về huấn luyện hành vi, tâm lý của trẻ và hướng dẫn sơ cứu tại nhà. \r\nHiện tại mình chỉ mới đọc vài chương, về những vẫn đề mà bé nhà mình đang gặp phải. Cá nhân mình cảm thấy cuốn sách hữu ích, súc tích, dễ hiểu. Nên mình chia sẽ cuốn sách này, mẹ nào có thời gian thì nên đọc",
+    "status": "approved",
+    "thank_count": 4,
+    "score": 0.00138706,
+    "new_score": 0.12156902,
+    "customer_id": 1057701,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1463963647,
+    "created_by": {
+      "id": 1057701,
+      "name": "Bến Hà",
+      "full_name": "Bến Hà",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/f8/fa/7e/7d750114310d1d18624bb90d42237c17.png",
+      "created_time": "2015-12-16 21:52:33",
+      "purchased": true,
+      "purchased_at": 1477010986,
+      "contribute_info": {
+        "id": 1057701,
+        "name": "Hà Trương",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/f8/fa/7e/7d750114310d1d18624bb90d42237c17.png",
+        "summary": {
+          "joined_time": "Đã tham gia 10 năm",
+          "total_review": 88,
+          "total_thank": 130
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 159018,
+    "is_photo": false,
+    "content_id": 434357,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+    },
+    "product_id": 451723,
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 568413,
+    "title": "Hài lòng",
+    "content": "Mình mới mua sách khi con mình 3 tháng tuổi. Mặc dù hiện nay thông tin trên mạng rất nhiều nhưng mình vẫn thích mua sách. Sách gối đầu, như một cuốn từ điển tra các thông tin chăm sóc sức khỏe cho bé.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.00276355,
+    "new_score": 0.12085254,
+    "customer_id": 5127423,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1491735256,
+    "created_by": {
+      "id": 5127423,
+      "name": "Thuy Phan",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "purchased": true,
+      "purchased_at": 1491362474,
+      "contribute_info": {
+        "id": 5127423,
+        "name": "Thuy Phan",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 18,
+          "total_thank": 22
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 159018,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+    },
+    "product_id": 451723,
+    "timeline": {
+      "review_created_date": "2017-04-09 17:54:16",
+      "delivery_date": "2017-04-07 17:55:34",
+      "current_date": "2025-04-30 11:38:07",
+      "content": "Đã dùng 2 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 1248862,
+    "title": "nhiều thông tin hữu ích về chăm sóc trẻ em",
+    "content": "kiến thức y khoa gần gũi hơn khi đọc qua sách, trình bày ngắn gọn, rõ ràng, hình ảnh dễ theo dõi",
+    "status": "approved",
+    "thank_count": 1,
+    "score": 0.00457378,
+    "new_score": 0.11815994,
+    "customer_id": 55087,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1519963183,
+    "created_by": {
+      "id": 55087,
+      "name": "Nguyễn Nhung",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "purchased": true,
+      "purchased_at": 1484874631,
+      "contribute_info": {
+        "id": 55087,
+        "name": "Nguyễn Nhung",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 13 năm",
+          "total_review": 17,
+          "total_thank": 5
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 159018,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+    },
+    "product_id": 451723,
+    "timeline": {
+      "review_created_date": "2018-03-02 10:59:43",
+      "delivery_date": "2017-01-23 12:52:36",
+      "current_date": "2025-04-30 11:38:07",
+      "content": "Đã dùng 1 năm",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 năm."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 335805,
+    "title": "Hay!!!!",
+    "content": "Tôi mua cuốn sách này khi con tôi vừa tròn 4 tháng tuổi. Là một người mẹ tôi vẫn thường mong muốn có thể biết chính xác cần làm gì khi con mình bị đau hay ốm.  Cuốn sách này tiết kiệm cho chúng ta số tiền khám bệnh cho con. Cuốn sách tập trung viết về những nỗi lo của các bậc phụ huynh. Cuốn sách này quả thật là một chiếc phao cứu sinh hữu ích,  giúp các ông bố *** lí giải những trục trặc về thể chất ở trẻ... cũng như các vấn đề về hành vi.",
+    "status": "approved",
+    "thank_count": 8,
+    "score": 0.00130784,
+    "new_score": 0.11808378,
+    "customer_id": 389169,
+    "comment_count": 1,
+    "rating": 3,
+    "images": [],
+    "thanked": false,
+    "created_at": 1447231644,
+    "created_by": {
+      "id": 389169,
+      "name": "Quynhanh Vuong",
+      "full_name": "Quynhanh Vuong",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2014-08-02 09:54:24",
+      "purchased": true,
+      "purchased_at": 1445954269,
+      "contribute_info": {
+        "id": 389169,
+        "name": "Quynhanh Vuong",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 11 năm",
+          "total_review": 16,
+          "total_thank": 11
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 159018,
+    "is_photo": false,
+    "content_id": 335773,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+    },
+    "product_id": 451723,
+    "timeline": {
+      "review_created_date": "2015-11-11 15:47:24",
+      "delivery_date": "2015-10-29 17:10:37",
+      "current_date": "2025-04-30 11:38:07",
+      "content": "Đã dùng 13 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 13 ngày."
+    },
+    "comments": [
+      {
+        "id": 16468,
+        "review_id": 335805,
+        "commentator": "customer",
+        "customer_id": 350989,
+        "fullname": "Nguyen Trang",
+        "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+        "content": "Hay mà có 3 sao thôi hả mẹ cháu? :)",
+        "score": 0,
+        "create_at": 1455677882,
+        "badge": "",
+        "status": 1,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 820893,
+    "title": "Hài lòng",
+    "content": "Giao hàng nhanh chóng. Sách rất hữu ích đối với tất cả ai quan tâm tới sức khỏe của bé.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.00332827,
+    "new_score": 0.11424739,
+    "customer_id": 5572500,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1504021121,
+    "created_by": {
+      "id": 5572500,
+      "name": "Lê Hoàng Ái",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "purchased": true,
+      "purchased_at": 1503138201,
+      "contribute_info": {
+        "id": 5572500,
+        "name": "Lê Hoàng Ái",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 2,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 159018,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+    },
+    "product_id": 451723,
+    "timeline": {
+      "review_created_date": "2017-08-29 22:38:41",
+      "delivery_date": "2017-08-21 18:37:59",
+      "current_date": "2025-04-30 11:38:07",
+      "content": "Đã dùng 8 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 505785,
+    "title": "Rất bổ ích",
+    "content": "Quyền sách cần thiết cho tất cả các ***. Nó bao gồm cả kiến thức về thể chất và tinh thần của bé từ nhỏ đến lúc trưởng thành. ",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.00153494,
+    "new_score": 0.11407059,
+    "customer_id": 313727,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1483613856,
+    "created_by": {
+      "id": 313727,
+      "name": "Ta Nga",
+      "full_name": "Ta Nga",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2014-03-22 21:03:37",
+      "purchased": true,
+      "purchased_at": 1470977290,
+      "contribute_info": {
+        "id": 313727,
+        "name": "Ta Nga",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 11 năm",
+          "total_review": 51,
+          "total_thank": 28
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 159018,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+    },
+    "product_id": 451723,
+    "timeline": {
+      "review_created_date": "2017-01-05 17:57:36",
+      "delivery_date": "2016-08-17 01:16:00",
+      "current_date": "2025-04-30 11:38:07",
+      "content": "Đã dùng 5 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 702545,
+    "title": "chưa hài lòng",
+    "content": "chủ yếu nói về các bệnh. toàn khuyên nên đi khám bác sĩ",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.00306361,
+    "new_score": 0.11035067,
+    "customer_id": 755033,
+    "comment_count": 0,
+    "rating": 3,
+    "images": [],
+    "thanked": false,
+    "created_at": 1498828457,
+    "created_by": {
+      "id": 755033,
+      "name": "Dũng Trần",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "purchased": true,
+      "purchased_at": 1485847949,
+      "contribute_info": {
+        "id": 755033,
+        "name": "Dũng Trần",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 10 năm",
+          "total_review": 39,
+          "total_thank": 30
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 159018,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+    },
+    "product_id": 451723,
+    "timeline": {
+      "review_created_date": "2017-06-30 20:14:17",
+      "delivery_date": "2017-02-04 19:37:14",
+      "current_date": "2025-04-30 11:38:08",
+      "content": "Đã dùng 5 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

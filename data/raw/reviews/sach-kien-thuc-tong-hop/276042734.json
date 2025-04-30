@@ -1,0 +1,64 @@
+[
+  {
+    "id": 20075600,
+    "title": "Hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15620756,
+    "customer_id": 11730344,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1738674639,
+    "created_by": {
+      "id": 11730344,
+      "name": "Thủy Châu",
+      "full_name": "Thủy Châu",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/a0/b2/b2/d2caf3f413c048eddfc11f624808cd99.png",
+      "created_time": "2019-04-14 15:40:42",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1734486491,
+      "contribute_info": {
+        "id": 11730344,
+        "name": "Thủy Châu",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/a0/b2/b2/d2caf3f413c048eddfc11f624808cd99.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 31,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán SÁCH SBOOKS HÀ NỘI"
+    ],
+    "product_attributes": [],
+    "spid": 276042735,
+    "is_photo": false,
+    "seller": {
+      "id": 354790,
+      "name": "SÁCH SBOOKS HÀ NỘI",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/44/fe/8b/e8d66cf43e03b62b0e6e4da99d19475d.jpg"
+    },
+    "product_id": 276042734,
+    "timeline": {
+      "review_created_date": "2025-02-04 20:10:39",
+      "delivery_date": "2024-12-19 14:49:04",
+      "current_date": "2025-04-30 12:46:06",
+      "content": "Đã dùng 2 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

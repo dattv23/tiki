@@ -1,0 +1,299 @@
+[
+  {
+    "id": 20029328,
+    "title": "Cực kì hài lòng",
+    "content": "Sách mới, không bị móp méo,. đạt yêu cầu.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 2.00396825,
+    "new_score": 0.15834017,
+    "customer_id": 7330212,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1731411311,
+    "created_by": {
+      "id": 7330212,
+      "name": "Nguyen Quoc Dan",
+      "full_name": "Nguyen Quoc Dan",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-06-20 19:07:22",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1724197507,
+      "contribute_info": {
+        "id": 7330212,
+        "name": "Nguyen Quoc Dan",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 6,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Trustbooks"
+    ],
+    "product_attributes": [],
+    "spid": 271234420,
+    "is_photo": false,
+    "seller": {
+      "id": 238627,
+      "name": "Trustbooks",
+      "logo": "5f/ee/ed/990f3c3f180f53451233304473d0426a.jpg"
+    },
+    "product_id": 271234418,
+    "timeline": {
+      "review_created_date": "2024-11-12 18:35:11",
+      "delivery_date": "2024-08-24 14:28:11",
+      "current_date": "2025-04-30 12:46:21",
+      "content": "Đã dùng 3 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+    },
+    "comments": [
+      {
+        "id": 3280627,
+        "review_id": 20029328,
+        "commentator": "seller",
+        "customer_id": 238627,
+        "fullname": "Trustbooks",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/5f/ee/ed/990f3c3f180f53451233304473d0426a.jpg",
+        "content": "Trustbooks xin cảm ơn quý khách ạ.",
+        "score": 0,
+        "create_at": 1731462211,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20106582,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15729916,
+    "customer_id": 26963743,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1743843093,
+    "created_by": {
+      "id": 26963743,
+      "name": "Phạm Minh ",
+      "full_name": "Phạm Minh ",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2022-03-02 13:09:24",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1743743345,
+      "contribute_info": {
+        "id": 26963743,
+        "name": "Phạm Minh ",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 3 năm",
+          "total_review": 18,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Trustbooks"
+    ],
+    "product_attributes": [],
+    "spid": 271234420,
+    "is_photo": false,
+    "seller": {
+      "id": 238627,
+      "name": "Trustbooks",
+      "logo": "5f/ee/ed/990f3c3f180f53451233304473d0426a.jpg"
+    },
+    "product_id": 271234418,
+    "timeline": {
+      "review_created_date": "2025-04-05 15:51:33",
+      "delivery_date": "2025-04-05 14:01:43",
+      "current_date": "2025-04-30 12:46:21",
+      "content": "Đã dùng 2 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 19976639,
+    "title": "Hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15352782,
+    "customer_id": 14811567,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1725986839,
+    "created_by": {
+      "id": 14811567,
+      "name": "Đặng Anh Dũng",
+      "full_name": "Đặng Anh Dũng",
+      "region": null,
+      "avatar_url": "https://lh3.googleusercontent.com/a-/AAuE7mC-cXVKHHztOMX1scJBYDpPxcSbnDeYDi45KdL-",
+      "created_time": "2019-11-07 12:14:24",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1725716031,
+      "contribute_info": {
+        "id": 14811567,
+        "name": "Đặng Anh Dũng",
+        "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mC-cXVKHHztOMX1scJBYDpPxcSbnDeYDi45KdL-",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 197,
+          "total_thank": 3
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Trustbooks"
+    ],
+    "product_attributes": [],
+    "spid": 271234420,
+    "is_photo": false,
+    "seller": {
+      "id": 238627,
+      "name": "Trustbooks",
+      "logo": "5f/ee/ed/990f3c3f180f53451233304473d0426a.jpg"
+    },
+    "product_id": 271234418,
+    "timeline": {
+      "review_created_date": "2024-09-10 23:47:19",
+      "delivery_date": "2024-09-09 13:13:24",
+      "current_date": "2025-04-30 12:46:21",
+      "content": "Đã dùng 1 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19951549,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15297537,
+    "customer_id": 8818692,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1723371129,
+    "created_by": {
+      "id": 8818692,
+      "name": "Dương Văn Cảnh ",
+      "full_name": "Dương Văn Cảnh ",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-11-08 09:02:17",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1723088629,
+      "contribute_info": {
+        "id": 8818692,
+        "name": "Dương Văn Cảnh ",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 226,
+          "total_thank": 8
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Trustbooks"
+    ],
+    "product_attributes": [],
+    "spid": 271234420,
+    "is_photo": false,
+    "seller": {
+      "id": 238627,
+      "name": "Trustbooks",
+      "logo": "5f/ee/ed/990f3c3f180f53451233304473d0426a.jpg"
+    },
+    "product_id": 271234418,
+    "timeline": {
+      "review_created_date": "2024-08-11 17:12:09",
+      "delivery_date": "2024-08-11 16:58:06",
+      "current_date": "2025-04-30 12:46:21",
+      "content": "Đã dùng 14 phút",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 14 phút."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  }
+]

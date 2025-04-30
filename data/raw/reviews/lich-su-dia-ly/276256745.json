@@ -1,0 +1,625 @@
+[
+  {
+    "id": 20080792,
+    "title": "Cực kì hài lòng",
+    "content": "Giao hàng nhanh, sách đẹp, mới tinh. Hình ảnh chân thực như hình ở bảo tàng Hoàng thành Thăng Long",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 50,
+    "new_score": 0.17643391,
+    "customer_id": 30172627,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4396630,
+        "full_path": "https://salt.tikicdn.com/ts/review/b9/13/d7/f9c32d0c6916b5a377eda9f28ee0475f.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4396631,
+        "full_path": "https://salt.tikicdn.com/ts/review/07/42/1f/2e5a6a9bf5ee7df6d38c8c55ae3f3c19.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4396632,
+        "full_path": "https://salt.tikicdn.com/ts/review/61/ca/d0/8bb15a3e9c521f81b3b8a90abb966ee6.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4396633,
+        "full_path": "https://salt.tikicdn.com/ts/review/66/fd/05/203049fba53f274c8ba1f30199e68c29.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1739430733,
+    "created_by": {
+      "id": 30172627,
+      "name": "Phương Nam ",
+      "full_name": "Phương Nam ",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/86/46/d0/9cd0115ee7df0545df8ac8b7192234c6.png",
+      "created_time": "2024-10-17 17:12:14",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1739293926,
+      "contribute_info": {
+        "id": 30172627,
+        "name": "Phương Nam ",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/86/46/d0/9cd0115ee7df0545df8ac8b7192234c6.png",
+        "summary": {
+          "joined_time": "Đã tham gia 1 năm",
+          "total_review": 2,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Fahasa"
+    ],
+    "product_attributes": [],
+    "spid": 276256746,
+    "is_photo": true,
+    "seller": {
+      "id": 53660,
+      "name": "Nhà sách Fahasa",
+      "logo": "f8/86/c0/12f7213bcdfd4d9a7a52e9b3a6704493.jpg"
+    },
+    "product_id": 276256745,
+    "timeline": {
+      "review_created_date": "2025-02-13 14:12:13",
+      "delivery_date": "2025-02-13 13:56:15",
+      "current_date": "2025-04-30 12:57:57",
+      "content": "Đã dùng 16 phút",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 16 phút."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 20107949,
+    "title": "Cực kì hài lòng",
+    "content": "Sách mới 100%, có bọc seal và được tặng thêm postcard và bookmark nữa. Mình biết cuốn sách qua chương trình hoa xuân ca, nên mua nha mn",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 33.33333333,
+    "new_score": 0.17122427,
+    "customer_id": 23450577,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4402248,
+        "full_path": "https://salt.tikicdn.com/ts/review/f1/07/e1/7f985609108035320df821124efcd8ef.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1744119771,
+    "created_by": {
+      "id": 23450577,
+      "name": "Mỹ Linh",
+      "full_name": "Mỹ Linh",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-09-08 16:51:27",
+      "group_id": 7,
+      "purchased": true,
+      "purchased_at": 1743754832,
+      "contribute_info": {
+        "id": 23450577,
+        "name": "Mỹ Linh",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 1,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Fahasa"
+    ],
+    "product_attributes": [],
+    "spid": 276256746,
+    "is_photo": true,
+    "seller": {
+      "id": 53660,
+      "name": "Nhà sách Fahasa",
+      "logo": "f8/86/c0/12f7213bcdfd4d9a7a52e9b3a6704493.jpg"
+    },
+    "product_id": 276256745,
+    "timeline": {
+      "review_created_date": "2025-04-08 20:42:51",
+      "delivery_date": "2025-04-08 14:25:38",
+      "current_date": "2025-04-30 12:57:57",
+      "content": "Đã dùng 6 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 20092962,
+    "title": "Cực kì hài lòng",
+    "content": "Sách chất lượng, nhiều hình ảnh đẹp và thông tin bổ ích",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 33.33333333,
+    "new_score": 0.16472242,
+    "customer_id": 11443073,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4399152,
+        "full_path": "https://salt.tikicdn.com/ts/review/24/e1/05/d8c1c51d8998d5731f62772b0bf7a8c7.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1741428034,
+    "created_by": {
+      "id": 11443073,
+      "name": "Hoang Ngoc Son ",
+      "full_name": "Hoang Ngoc Son ",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2019-03-22 15:10:09",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1740849487,
+      "contribute_info": {
+        "id": 11443073,
+        "name": "Hoang Ngoc Son ",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 14,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Fahasa"
+    ],
+    "product_attributes": [],
+    "spid": 276256746,
+    "is_photo": true,
+    "seller": {
+      "id": 53660,
+      "name": "Nhà sách Fahasa",
+      "logo": "f8/86/c0/12f7213bcdfd4d9a7a52e9b3a6704493.jpg"
+    },
+    "product_id": 276256745,
+    "timeline": {
+      "review_created_date": "2025-03-08 17:00:34",
+      "delivery_date": "2025-03-05 13:25:19",
+      "current_date": "2025-04-30 12:57:57",
+      "content": "Đã dùng 3 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 20103018,
+    "title": "Cực kì hài lòng",
+    "content": "Chờ mua cuốn này lâu lắm rồi. Mua về mở đọc ngay",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 33.33333333,
+    "new_score": 0.16448728,
+    "customer_id": 17813674,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4401209,
+        "full_path": "https://salt.tikicdn.com/ts/review/27/22/b7/fb3c2bb2cfaae9e976fdac45974b09d9.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1743155546,
+    "created_by": {
+      "id": 17813674,
+      "name": "Vinh Thọ",
+      "full_name": "Vinh Thọ",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-07-17 00:29:56",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1742970416,
+      "contribute_info": {
+        "id": 17813674,
+        "name": "Vinh Thọ",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 212,
+          "total_thank": 37
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Fahasa"
+    ],
+    "product_attributes": [],
+    "spid": 276256746,
+    "is_photo": true,
+    "seller": {
+      "id": 53660,
+      "name": "Nhà sách Fahasa",
+      "logo": "f8/86/c0/12f7213bcdfd4d9a7a52e9b3a6704493.jpg"
+    },
+    "product_id": 276256745,
+    "timeline": {
+      "review_created_date": "2025-03-28 16:52:26",
+      "delivery_date": "2025-03-28 16:10:18",
+      "current_date": "2025-04-30 12:57:57",
+      "content": "Đã dùng 1 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 20102116,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15711926,
+    "customer_id": 11476110,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1742991284,
+    "created_by": {
+      "id": 11476110,
+      "name": "Phạm Trang",
+      "full_name": "Phạm Trang",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2019-03-24 21:31:49",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1742698526,
+      "contribute_info": {
+        "id": 11476110,
+        "name": "Phạm Trang",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 596,
+          "total_thank": 37
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Fahasa"
+    ],
+    "product_attributes": [],
+    "spid": 276256746,
+    "is_photo": false,
+    "seller": {
+      "id": 53660,
+      "name": "Nhà sách Fahasa",
+      "logo": "f8/86/c0/12f7213bcdfd4d9a7a52e9b3a6704493.jpg"
+    },
+    "product_id": 276256745,
+    "timeline": {
+      "review_created_date": "2025-03-26 19:14:44",
+      "delivery_date": "2025-03-25 14:56:16",
+      "current_date": "2025-04-30 12:57:57",
+      "content": "Đã dùng 1 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20089212,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15665634,
+    "customer_id": 29646950,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1740799515,
+    "created_by": {
+      "id": 29646950,
+      "name": "Trương Quốc Khánh ",
+      "full_name": "Trương Quốc Khánh ",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2023-12-06 15:46:39",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1739424638,
+      "contribute_info": {
+        "id": 29646950,
+        "name": "Trương Quốc Khánh ",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 1 năm",
+          "total_review": 1,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Fahasa"
+    ],
+    "product_attributes": [],
+    "spid": 276256746,
+    "is_photo": false,
+    "seller": {
+      "id": 53660,
+      "name": "Nhà sách Fahasa",
+      "logo": "f8/86/c0/12f7213bcdfd4d9a7a52e9b3a6704493.jpg"
+    },
+    "product_id": 276256745,
+    "timeline": {
+      "review_created_date": "2025-03-01 10:25:15",
+      "delivery_date": "2025-02-14 11:38:15",
+      "current_date": "2025-04-30 12:57:57",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "in ấn/màu sắc rõ nét",
+        "Nội dung sách hay, bổ ích và chính xác"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20080716,
+    "title": "Hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15636523,
+    "customer_id": 10903486,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1739421166,
+    "created_by": {
+      "id": 10903486,
+      "name": "Nguyễn Thành Luân",
+      "full_name": "Nguyễn Thành Luân",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/b3/76/6c/6628c1bc7d398ede7f78d7a61039447b.png",
+      "created_time": "2019-02-17 15:11:36",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1738850419,
+      "contribute_info": {
+        "id": 10903486,
+        "name": "Nguyễn Thành Luân",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/b3/76/6c/6628c1bc7d398ede7f78d7a61039447b.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 317,
+          "total_thank": 3
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Fahasa"
+    ],
+    "product_attributes": [],
+    "spid": 276256746,
+    "is_photo": false,
+    "seller": {
+      "id": 53660,
+      "name": "Nhà sách Fahasa",
+      "logo": "f8/86/c0/12f7213bcdfd4d9a7a52e9b3a6704493.jpg"
+    },
+    "product_id": 276256745,
+    "timeline": {
+      "review_created_date": "2025-02-13 11:32:46",
+      "delivery_date": "2025-02-13 10:56:15",
+      "current_date": "2025-04-30 12:57:57",
+      "content": "Đã dùng 1 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20080673,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15636456,
+    "customer_id": 15516390,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1739418013,
+    "created_by": {
+      "id": 15516390,
+      "name": "Bui Le Ngoc Anh",
+      "full_name": "Bui Le Ngoc Anh",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/84/44/c6/4cc424c01b54563ef2b5ccd26ad8e093.png",
+      "created_time": "2019-12-16 23:16:26",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1739157287,
+      "contribute_info": {
+        "id": 15516390,
+        "name": "Bui Le Ngoc Anh",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/84/44/c6/4cc424c01b54563ef2b5ccd26ad8e093.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 125,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Fahasa"
+    ],
+    "product_attributes": [],
+    "spid": 276256746,
+    "is_photo": false,
+    "seller": {
+      "id": 53660,
+      "name": "Nhà sách Fahasa",
+      "logo": "f8/86/c0/12f7213bcdfd4d9a7a52e9b3a6704493.jpg"
+    },
+    "product_id": 276256745,
+    "timeline": {
+      "review_created_date": "2025-02-13 10:40:13",
+      "delivery_date": "2025-02-12 19:38:09",
+      "current_date": "2025-04-30 12:57:57",
+      "content": "Đã dùng 1 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  }
+]

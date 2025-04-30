@@ -1,0 +1,107 @@
+[
+  {
+    "id": 20103840,
+    "title": "Cực kì hài lòng",
+    "content": "Sách bìa cứng nhìn đủ kích thích, hấp dẫn.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 38.88888889,
+    "new_score": 0.16692171,
+    "customer_id": 17813674,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4401357,
+        "full_path": "https://salt.tikicdn.com/ts/review/db/c4/01/f156d08491daf482792c55decaa3ddad.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4401358,
+        "full_path": "https://salt.tikicdn.com/ts/review/92/7d/e2/fc81e272025af08005d679153b8bb70d.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1743318537,
+    "created_by": {
+      "id": 17813674,
+      "name": "Vinh Thọ",
+      "full_name": "Vinh Thọ",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-07-17 00:29:56",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1742740742,
+      "contribute_info": {
+        "id": 17813674,
+        "name": "Vinh Thọ",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 212,
+          "total_thank": 37
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 274886195,
+    "is_photo": true,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+    },
+    "product_id": 274886192,
+    "timeline": {
+      "review_created_date": "2025-03-30 14:08:57",
+      "delivery_date": "2025-03-30 13:54:39",
+      "current_date": "2025-04-30 13:22:33",
+      "content": "Đã dùng 14 phút",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 14 phút."
+    },
+    "comments": [
+      {
+        "id": 3317987,
+        "review_id": 20103840,
+        "commentator": "seller",
+        "customer_id": 1,
+        "fullname": "Tiki Trading",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+        "content": "Cảm ơn anh Vinh Thọ đã tin tưởng Tiki và cho Tiki 5⭐️! Thật tuyệt vời khi Tiki có một khách hàng là anh ❤️",
+        "score": 0,
+        "create_at": 1743407081,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  }
+]

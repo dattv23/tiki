@@ -1,0 +1,126 @@
+[
+  {
+    "id": 20117195,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15773575,
+    "customer_id": 30363285,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1745910220,
+    "created_by": {
+      "id": 30363285,
+      "name": "Hoa phạm ",
+      "full_name": "Hoa phạm ",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2025-04-22 18:31:46",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1745571589,
+      "contribute_info": {
+        "id": 30363285,
+        "name": "Hoa phạm ",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 ngày",
+          "total_review": 1,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán VIETNAMBOOK"
+    ],
+    "product_attributes": [],
+    "spid": 277600560,
+    "is_photo": false,
+    "seller": {
+      "id": 197,
+      "name": "VIETNAMBOOK",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/4f/76/83/b453128caf6840d26472e85016de956c.jpg"
+    },
+    "product_id": 277375048,
+    "timeline": {
+      "review_created_date": "2025-04-29 14:03:40",
+      "delivery_date": "2025-04-29 13:58:11",
+      "current_date": "2025-04-30 12:57:44",
+      "content": "Đã dùng 5 phút",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 phút."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20108602,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15738667,
+    "customer_id": 29361602,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1744257437,
+    "created_by": {
+      "id": 29361602,
+      "name": "Như Diễn",
+      "full_name": "Như Diễn",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2023-08-18 18:25:34",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1744003038,
+      "contribute_info": {
+        "id": 29361602,
+        "name": "Như Diễn",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 2 năm",
+          "total_review": 126,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán VIETNAMBOOK"
+    ],
+    "product_attributes": [],
+    "spid": 277600560,
+    "is_photo": false,
+    "seller": {
+      "id": 197,
+      "name": "VIETNAMBOOK",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/4f/76/83/b453128caf6840d26472e85016de956c.jpg"
+    },
+    "product_id": 277375048,
+    "timeline": {
+      "review_created_date": "2025-04-10 10:57:17",
+      "delivery_date": "2025-04-10 10:02:53",
+      "current_date": "2025-04-30 12:57:44",
+      "content": "Đã dùng 1 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

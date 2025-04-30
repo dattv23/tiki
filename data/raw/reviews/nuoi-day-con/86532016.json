@@ -1,0 +1,63 @@
+[
+  {
+    "id": 12886749,
+    "title": "Cực kì hài lòng",
+    "content": "1 cuốn sách đáng để đọc, giúp mình có cái nhìn đa chiều hơn cho cùng 1 vấn đề, đứng từ phía giáo viên và phụ huynh, từ đó có cách ứng xử phù hợp hơn",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14766822,
+    "customer_id": 10490411,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1635429314,
+    "created_by": {
+      "id": 10490411,
+      "name": "pham huyen trang",
+      "full_name": "pham huyen trang",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2019-01-22 11:26:55",
+      "purchased": true,
+      "purchased_at": 1633943873,
+      "contribute_info": {
+        "id": 10490411,
+        "name": "pham huyen trang",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 63,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 86532017,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+    },
+    "product_id": 86532016,
+    "timeline": {
+      "review_created_date": "2021-10-28 20:55:14",
+      "delivery_date": "2021-10-27 00:51:38",
+      "current_date": "2025-04-30 11:34:52",
+      "content": "Đã dùng 2 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "id": 20047079,
+    "title": "Cực kì hài lòng",
+    "content": "Cách viết của tác giả khá đặc biệt, không đơn thuần chỉ là sử học.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.16135,
+    "customer_id": 11094236,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1733983070,
+    "created_by": {
+      "id": 11094236,
+      "name": "Duong Nguyen Ngoc",
+      "full_name": "Duong Nguyen Ngoc",
+      "region": null,
+      "avatar_url": "https://lh4.googleusercontent.com/-Is1RU1BKJFs/AAAAAAAAAAI/AAAAAAAABRs/4HFt-RRLgHs/photo.jpg",
+      "created_time": "2019-03-01 11:08:11",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1732606282,
+      "contribute_info": {
+        "id": 11094236,
+        "name": "Duong Nguyen Ngoc",
+        "avatar": "https://lh4.googleusercontent.com/-Is1RU1BKJFs/AAAAAAAAAAI/AAAAAAAABRs/4HFt-RRLgHs/photo.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 27,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 276148737,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+    },
+    "product_id": 276148735,
+    "timeline": {
+      "review_created_date": "2024-12-12 12:57:50",
+      "delivery_date": "2024-11-26 16:39:15",
+      "current_date": "2025-04-30 13:22:26",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [
+      {
+        "id": 3289281,
+        "review_id": 20047079,
+        "commentator": "seller",
+        "customer_id": 1,
+        "fullname": "Tiki Trading",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+        "content": "Cảm ơn bạn đã tin tưởng Tiki và cho Tiki 5⭐️! Tiki yêu bạn nhiều ❤️",
+        "score": 0,
+        "create_at": 1734169042,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [
+        "Hình ảnh đẹp",
+        "in ấn/màu sắc rõ nét",
+        "Nội dung dễ nhớ, dễ hiểu",
+        "Thông tin bổ ích"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

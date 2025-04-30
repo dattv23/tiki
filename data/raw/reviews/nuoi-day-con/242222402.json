@@ -1,0 +1,64 @@
+[
+  {
+    "id": 19129428,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14432052,
+    "customer_id": 12770866,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1682392847,
+    "created_by": {
+      "id": 12770866,
+      "name": "Hiền Phạm",
+      "full_name": "Hiền Phạm",
+      "region": null,
+      "avatar_url": "https://s120.avatar.talk.zdn.vn/1/d/5/9/8/120/ed1438d3c8f021fd00cf7d7324269d35.jpg",
+      "created_time": "2019-07-04 23:52:17",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1680773607,
+      "contribute_info": {
+        "id": 12770866,
+        "name": "Hiền Phạm",
+        "avatar": "https://s120.avatar.talk.zdn.vn/1/d/5/9/8/120/ed1438d3c8f021fd00cf7d7324269d35.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 8,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán THAIHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 242222403,
+    "is_photo": false,
+    "seller": {
+      "id": 101957,
+      "name": "THAIHABOOKS",
+      "logo": "3e/1d/c6/547fb1d868fa22ccd49fca20bc0d1ddb.jpg"
+    },
+    "product_id": 242222402,
+    "timeline": {
+      "review_created_date": "2023-04-25 10:20:47",
+      "delivery_date": "2023-04-10 11:14:40",
+      "current_date": "2025-04-30 11:34:23",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

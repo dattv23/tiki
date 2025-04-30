@@ -1,0 +1,64 @@
+[
+  {
+    "id": 20031661,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15473901,
+    "customer_id": 16614014,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1731721483,
+    "created_by": {
+      "id": 16614014,
+      "name": "Nguyễn Tấn Đức",
+      "full_name": "Nguyễn Tấn Đức",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-02-28 11:00:36",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1730331614,
+      "contribute_info": {
+        "id": 16614014,
+        "name": "Nguyễn Tấn Đức",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 123,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Fahasa"
+    ],
+    "product_attributes": [],
+    "spid": 274146225,
+    "is_photo": false,
+    "seller": {
+      "id": 53660,
+      "name": "Nhà sách Fahasa",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/6e/22/e8/d93176a20c412291b6ce538508af25c2.jpg"
+    },
+    "product_id": 274146224,
+    "timeline": {
+      "review_created_date": "2024-11-16 08:44:43",
+      "delivery_date": "2024-10-31 15:10:27",
+      "current_date": "2025-04-30 11:34:00",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

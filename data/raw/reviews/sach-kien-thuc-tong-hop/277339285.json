@@ -1,0 +1,275 @@
+[
+  {
+    "id": 20089115,
+    "title": "Không hài lòng",
+    "content": "Nội dung cuốn sách không có chiều sâu, sách giới thiệu đại khái những khái niệm cơ bản. Tên cuốn sách không toát được đúng những gì tên gốc tác phẩm truyền tải. Hàm lượng kiến thức thấp",
+    "status": "approved",
+    "thank_count": 2,
+    "score": 0.33116178,
+    "new_score": 0.18514034,
+    "customer_id": 641868,
+    "comment_count": 1,
+    "rating": 2,
+    "images": [
+      {
+        "id": 4398216,
+        "full_path": "https://salt.tikicdn.com/ts/review/71/10/43/a77031b88e3244d6c6dfbcb5542416f1.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4398217,
+        "full_path": "https://salt.tikicdn.com/ts/review/f6/c5/c0/a7fc8d797eb3bda5b9a66fdde5b164d9.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4398218,
+        "full_path": "https://salt.tikicdn.com/ts/review/2e/68/07/f921307439128ac804cfae09d9b744fc.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4398219,
+        "full_path": "https://salt.tikicdn.com/ts/review/cc/9a/38/14fa7c1a0d32ec036c77c19d63b2e221.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1740766237,
+    "created_by": {
+      "id": 641868,
+      "name": "Hung Nguyen Huu Huy",
+      "full_name": "Hung Nguyen Huu Huy",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2015-05-23 11:16:48",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1740367247,
+      "contribute_info": {
+        "id": 641868,
+        "name": "Hung Nguyen Huu Huy",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 10 năm",
+          "total_review": 59,
+          "total_thank": 9
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán 1980Books Official"
+    ],
+    "product_attributes": [],
+    "spid": 277339286,
+    "is_photo": true,
+    "seller": {
+      "id": 185035,
+      "name": "1980Books Official",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/32/ee/e4/4505ee614a797ffd941761b2673e670c.jpg"
+    },
+    "product_id": 277339285,
+    "timeline": {
+      "review_created_date": "2025-03-01 01:10:37",
+      "delivery_date": "2025-02-26 11:32:29",
+      "current_date": "2025-04-30 12:16:46",
+      "content": "Đã dùng 3 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+    },
+    "comments": [
+      {
+        "id": 3310073,
+        "review_id": 20089115,
+        "commentator": "tikicare",
+        "customer_id": 0,
+        "fullname": "Tiki Care",
+        "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+        "content": "Tiki cảm ơn những chia sẻ và góp ý từ anh Hùng. Thật tiếc khi nội dung sách Kỹ Thuật Đặt Câu Lệnh Cho Chat GPT chưa được như anh mong đợi. Rất hy vọng các tựa sách khác tại Tiki sẽ làm anh hài lòng hơn trong thời gian tới. Tiki cảm ơn anh nhiều.",
+        "score": 0,
+        "create_at": 1740792351,
+        "badge": "",
+        "status": 1,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 20111499,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15750006,
+    "customer_id": 1939069,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1744794299,
+    "created_by": {
+      "id": 1939069,
+      "name": "Nguyễn Thanh Tuấn",
+      "full_name": "Nguyễn Thanh Tuấn",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2016-12-02 09:22:01",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1744687954,
+      "contribute_info": {
+        "id": 1939069,
+        "name": "Nguyễn Thanh Tuấn",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 9 năm",
+          "total_review": 176,
+          "total_thank": 105
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán 1980 BOOKS HCM"
+    ],
+    "product_attributes": [],
+    "spid": 277396354,
+    "is_photo": false,
+    "seller": {
+      "id": 127920,
+      "name": "1980 BOOKS HCM",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/32/ee/e4/029d9bc223e36fb8f5ee1933e6ac9d47.jpg"
+    },
+    "product_id": 277339285,
+    "timeline": {
+      "review_created_date": "2025-04-16 16:04:59",
+      "delivery_date": "2025-04-16 14:00:51",
+      "current_date": "2025-04-30 12:16:46",
+      "content": "Đã dùng 2 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 20101488,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15709704,
+    "customer_id": 11156611,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1742886100,
+    "created_by": {
+      "id": 11156611,
+      "name": "Lê Bá Đức",
+      "full_name": "Lê Bá Đức",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2019-03-05 23:50:58",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1742061622,
+      "contribute_info": {
+        "id": 11156611,
+        "name": "Lê Bá Đức",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 85,
+          "total_thank": 4
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán 1980 BOOKS HCM"
+    ],
+    "product_attributes": [],
+    "spid": 277396354,
+    "is_photo": false,
+    "seller": {
+      "id": 127920,
+      "name": "1980 BOOKS HCM",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/32/ee/e4/029d9bc223e36fb8f5ee1933e6ac9d47.jpg"
+    },
+    "product_id": 277339285,
+    "timeline": {
+      "review_created_date": "2025-03-25 14:01:40",
+      "delivery_date": "2025-03-18 14:58:41",
+      "current_date": "2025-04-30 12:16:46",
+      "content": "Đã dùng 7 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 7 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  }
+]

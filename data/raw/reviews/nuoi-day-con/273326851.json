@@ -1,0 +1,85 @@
+[
+  {
+    "id": 19940713,
+    "title": "Cực kì hài lòng",
+    "content": "Sách hay, nội dung khỏi bàn",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 33.33333333,
+    "new_score": 0.15795864,
+    "customer_id": 29792556,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4369098,
+        "full_path": "https://salt.tikicdn.com/ts/review/73/91/1d/8ccc66fec780b5f8f144d1eb56871be0.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1722344979,
+    "created_by": {
+      "id": 29792556,
+      "name": "Đặng Phương Nam",
+      "full_name": "Đặng Phương Nam",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/b5/f7/2b/9d262be5822f40dcc909420a37e64ec6.png",
+      "created_time": "2024-02-19 14:10:07",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1722164583,
+      "contribute_info": {
+        "id": 29792556,
+        "name": "Đặng Phương Nam",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/b5/f7/2b/9d262be5822f40dcc909420a37e64ec6.png",
+        "summary": {
+          "joined_time": "Đã tham gia 1 năm",
+          "total_review": 7,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 273326852,
+    "is_photo": true,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/21/ce/5c/b52d0b8576680dc3666474ae31b091ec.jpg"
+    },
+    "product_id": 273326851,
+    "timeline": {
+      "review_created_date": "2024-07-30 20:09:39",
+      "delivery_date": "2024-07-29 11:49:17",
+      "current_date": "2025-04-30 11:24:37",
+      "content": "Đã dùng 1 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+    },
+    "comments": [
+      {
+        "id": 3232343,
+        "review_id": 19940713,
+        "commentator": "seller",
+        "customer_id": 1,
+        "fullname": "Tiki Trading",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+        "content": "Cảm ơn anh Nam đã tin tưởng Tiki và cho Tiki 5⭐️! Thật tuyệt vời khi Tiki có một khách hàng là anh ❤️",
+        "score": 0,
+        "create_at": 1722414947,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

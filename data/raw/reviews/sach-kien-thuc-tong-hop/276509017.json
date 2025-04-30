@@ -1,0 +1,79 @@
+[
+  {
+    "id": 20072399,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15601932,
+    "customer_id": 12805747,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1737783409,
+    "created_by": {
+      "id": 12805747,
+      "name": "Hieu Le Trung",
+      "full_name": "Hieu Le Trung",
+      "region": null,
+      "avatar_url": "https://lh3.googleusercontent.com/-ZEHeyXgvpsg/AAAAAAAAAAI/AAAAAAAAABQ/tvR5BcHuUJI/photo.jpg",
+      "created_time": "2019-07-07 16:00:52",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1734299913,
+      "contribute_info": {
+        "id": 12805747,
+        "name": "Hieu Le Trung",
+        "avatar": "https://lh3.googleusercontent.com/-ZEHeyXgvpsg/AAAAAAAAAAI/AAAAAAAAABQ/tvR5BcHuUJI/photo.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 36,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official"
+    ],
+    "product_attributes": [],
+    "spid": 276582868,
+    "is_photo": false,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg"
+    },
+    "product_id": 276509017,
+    "timeline": {
+      "review_created_date": "2025-01-25 12:36:49",
+      "delivery_date": "2024-12-18 10:29:19",
+      "current_date": "2025-04-30 12:36:24",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [
+      {
+        "id": 3302706,
+        "review_id": 20072399,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và mua sách tại shop. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa, đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nhé. Hy vọng sẽ được tiếp tục phục vụ bạn trong tương lai!",
+        "score": 0,
+        "create_at": 1738547351,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

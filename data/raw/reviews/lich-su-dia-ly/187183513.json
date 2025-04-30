@@ -1,0 +1,428 @@
+[
+  {
+    "id": 20110118,
+    "title": "Cực kì hài lòng",
+    "content": "Tư liệu rất hay và quý... Tiếc là các lần xuất bản trước Tôi không biết nên không mua... Nay mua cũng được. Cám ơn Nhà Xuất bản",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.16844368,
+    "customer_id": 30235617,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1744527342,
+    "created_by": {
+      "id": 30235617,
+      "name": "Nguyen Ai Quoc",
+      "full_name": "Nguyen Ai Quoc",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2024-12-12 19:35:33",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1744202669,
+      "contribute_info": {
+        "id": 30235617,
+        "name": "Nguyen Ai Quoc",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 tháng",
+          "total_review": 9,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán BÌNH BÁN BOOK"
+    ],
+    "product_attributes": [],
+    "spid": 187183514,
+    "is_photo": false,
+    "seller": {
+      "id": 223928,
+      "name": "BÌNH BÁN BOOK",
+      "logo": "f9/47/41/5047162e827ef55d6ea989bc88036345.jpg"
+    },
+    "product_id": 187183513,
+    "timeline": {
+      "review_created_date": "2025-04-13 13:55:42",
+      "delivery_date": "2025-04-13 11:10:53",
+      "current_date": "2025-04-30 13:04:00",
+      "content": "Đã dùng 3 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 giờ."
+    },
+    "comments": [
+      {
+        "id": 3319298,
+        "review_id": 20110118,
+        "commentator": "seller",
+        "customer_id": 223928,
+        "fullname": "BÌNH BÁN BOOK",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/f9/47/41/5047162e827ef55d6ea989bc88036345.jpg",
+        "content": "cảm ơn bạn, thi thoảng ủng hộ Bình Book!",
+        "score": 0,
+        "create_at": 1744530816,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 20111845,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15751478,
+    "customer_id": 2027372,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1744863990,
+    "created_by": {
+      "id": 2027372,
+      "name": "Nguyễn Thị Thu Hoài",
+      "full_name": "Nguyễn Thị Thu Hoài",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2016-12-31 09:33:32",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1744077439,
+      "contribute_info": {
+        "id": 2027372,
+        "name": "Nguyễn Thị Thu Hoài",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 36,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán BÌNH BÁN BOOK"
+    ],
+    "product_attributes": [],
+    "spid": 187183514,
+    "is_photo": false,
+    "seller": {
+      "id": 223928,
+      "name": "BÌNH BÁN BOOK",
+      "logo": "f9/47/41/5047162e827ef55d6ea989bc88036345.jpg"
+    },
+    "product_id": 187183513,
+    "timeline": {
+      "review_created_date": "2025-04-17 11:26:30",
+      "delivery_date": "2025-04-14 21:36:50",
+      "current_date": "2025-04-30 13:04:00",
+      "content": "Đã dùng 3 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+    },
+    "comments": [
+      {
+        "id": 3319620,
+        "review_id": 20111845,
+        "commentator": "seller",
+        "customer_id": 223928,
+        "fullname": "BÌNH BÁN BOOK",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/f9/47/41/5047162e827ef55d6ea989bc88036345.jpg",
+        "content": "cảm ơn bạn, thi thoảng ủng hộ Bình Book!",
+        "score": 0,
+        "create_at": 1744945530,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 20110413,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15745889,
+    "customer_id": 30158798,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1744599346,
+    "created_by": {
+      "id": 30158798,
+      "name": "Đinh Tiến Hoàng",
+      "full_name": "Đinh Tiến Hoàng",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/15/2d/ee/6f2060ffb28aa5a62ba5ec21e1f6ed5b.png",
+      "created_time": "2024-10-07 16:08:27",
+      "group_id": 7,
+      "purchased": true,
+      "purchased_at": 1743304915,
+      "contribute_info": {
+        "id": 30158798,
+        "name": "Đinh Tiến Hoàng",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/15/2d/ee/6f2060ffb28aa5a62ba5ec21e1f6ed5b.png",
+        "summary": {
+          "joined_time": "Đã tham gia 1 năm",
+          "total_review": 6,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán BÌNH BÁN BOOK"
+    ],
+    "product_attributes": [],
+    "spid": 187183514,
+    "is_photo": false,
+    "seller": {
+      "id": 223928,
+      "name": "BÌNH BÁN BOOK",
+      "logo": "f9/47/41/5047162e827ef55d6ea989bc88036345.jpg"
+    },
+    "product_id": 187183513,
+    "timeline": {
+      "review_created_date": "2025-04-14 09:55:46",
+      "delivery_date": "2025-04-03 12:07:59",
+      "current_date": "2025-04-30 13:04:01",
+      "content": "Đã dùng 11 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 11 ngày."
+    },
+    "comments": [
+      {
+        "id": 3319353,
+        "review_id": 20110413,
+        "commentator": "seller",
+        "customer_id": 223928,
+        "fullname": "BÌNH BÁN BOOK",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/f9/47/41/5047162e827ef55d6ea989bc88036345.jpg",
+        "content": "cảm ơn bạn, thi thoảng ủng hộ Bình Book!",
+        "score": 0,
+        "create_at": 1744612943,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18945162,
+    "title": "Cực kì hài lòng",
+    "content": "sách tuyệt",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14438526,
+    "customer_id": 756291,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1678595933,
+    "created_by": {
+      "id": 756291,
+      "name": "Trần Đoàn Thiện Vũ",
+      "full_name": "Trần Đoàn Thiện Vũ",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/d5/45/0c/43ade12e29b5f7e94612276fbb382734.jpg",
+      "created_time": "2015-08-16 23:58:42",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1674290170,
+      "contribute_info": {
+        "id": 756291,
+        "name": "Trần Đoàn Thiện Vũ",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/d5/45/0c/43ade12e29b5f7e94612276fbb382734.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 10 năm",
+          "total_review": 53,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán BÌNH BÁN BOOK"
+    ],
+    "product_attributes": [],
+    "spid": 187183514,
+    "is_photo": false,
+    "seller": {
+      "id": 223928,
+      "name": "BÌNH BÁN BOOK",
+      "logo": "f9/47/41/5047162e827ef55d6ea989bc88036345.jpg"
+    },
+    "product_id": 187183513,
+    "timeline": {
+      "review_created_date": "2023-03-12 11:38:53",
+      "delivery_date": "2023-01-31 08:35:31",
+      "current_date": "2025-04-30 13:04:01",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [
+      {
+        "id": 2921152,
+        "review_id": 18945162,
+        "commentator": "seller",
+        "customer_id": 223928,
+        "fullname": "BÌNH BÁN BOOK",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/f9/47/41/5047162e827ef55d6ea989bc88036345.jpg",
+        "content": "Cảm ơn bạn, thi thoảng ủng hộ Bình Book!",
+        "score": 0,
+        "create_at": 1679133212,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "Nội dung sách hay, bổ ích và chính xác",
+        "Trình bày/Bố cục dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17052942,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13910595,
+    "customer_id": 1425478,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1657703303,
+    "created_by": {
+      "id": 1425478,
+      "name": "Đoàn Hùng Vũ Hưng",
+      "full_name": "Đoàn Hùng Vũ Hưng",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2016-06-10 22:56:07",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1657176988,
+      "contribute_info": {
+        "id": 1425478,
+        "name": "Đoàn Hùng Vũ Hưng",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 9 năm",
+          "total_review": 14,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [
+      "Giao hàng nhanh"
+    ],
+    "attributes": [
+      "Mua từ nhà bán BÌNH BÁN BOOK"
+    ],
+    "product_attributes": [],
+    "spid": 187183514,
+    "is_photo": false,
+    "seller": {
+      "id": 223928,
+      "name": "BÌNH BÁN BOOK",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/f9/47/41/5047162e827ef55d6ea989bc88036345.jpg"
+    },
+    "product_id": 187183513,
+    "timeline": {
+      "review_created_date": "2022-07-13 16:08:23",
+      "delivery_date": "2022-07-13 15:27:58",
+      "current_date": "2025-04-30 13:04:01",
+      "content": "Đã dùng 1 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+    },
+    "comments": [
+      {
+        "id": 2500156,
+        "review_id": 17052942,
+        "commentator": "seller",
+        "customer_id": 223928,
+        "fullname": "BÌNH BÁN BOOK",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/f9/47/41/5047162e827ef55d6ea989bc88036345.jpg",
+        "content": "Shop cám ơn quý khách đã ủng hộ Bình Books ạ. Chúc quý khách và gia đình một ngày thật an lành ạ!!!",
+        "score": 0,
+        "create_at": 1657712527,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

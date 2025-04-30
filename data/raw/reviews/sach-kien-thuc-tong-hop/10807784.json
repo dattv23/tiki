@@ -1,0 +1,1680 @@
+[
+  {
+    "id": 20071014,
+    "title": "Rất không hài lòng",
+    "content": "Đóng gói quá tệ. Bìa bị rách, giao hàng lâu",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 4.12280702,
+    "new_score": 0.16563398,
+    "customer_id": 1836242,
+    "comment_count": 1,
+    "rating": 1,
+    "images": [
+      {
+        "id": 4394714,
+        "full_path": "https://salt.tikicdn.com/ts/review/97/66/69/68b37654be042f2e14f8282194d57681.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4394715,
+        "full_path": "https://salt.tikicdn.com/ts/review/05/45/b7/7fb24ab22b6680d44889b934da3a45ce.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1737537152,
+    "created_by": {
+      "id": 1836242,
+      "name": "nguyễn tuyết",
+      "full_name": "nguyễn tuyết",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2016-11-01 22:42:23",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1736606181,
+      "contribute_info": {
+        "id": 1836242,
+        "name": "nguyễn tuyết",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 9 năm",
+          "total_review": 25,
+          "total_thank": 4
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": true,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2025-01-22 16:12:32",
+      "delivery_date": "2025-01-22 15:44:58",
+      "current_date": "2025-04-30 12:55:13",
+      "content": "Đã dùng 28 phút",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 28 phút."
+    },
+    "comments": [
+      {
+        "id": 3301040,
+        "review_id": 20071014,
+        "commentator": "tikicare",
+        "customer_id": 0,
+        "fullname": "Tiki Care",
+        "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+        "content": "Tiki cảm ơn chị Tuyết đã gửi nhận xét đến Tiki. Qua kiểm tra, Tiki thấy đơn hàng đang được xử lý tại mã hỗ trợ 04283996. Tiki cảm ơn nhiều.",
+        "score": 0,
+        "create_at": 1737538146,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 1,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 16312414,
+    "title": "Cực kì hài lòng",
+    "content": "Bộ sách Nho Giáo quý hiếm và biên khảo công phu của cụ TRẦN TRỌNG KIM. Chúng ta nên thành kính và cảm ơn những nhà giáo dục chân chính cho đời như các Cụ NHƯỢNG TỐNG _ Nam Hoa Kinh; TRẦN TRỌNG KIM _ Nho Giáo; NGUYỄN DUY CẦN _ LÃO TRANG, DỊCH LÝ; HÙYNH NGỌC CHIẾN _Dịch lý, Thiền Tông, Kim Dung học; ĐỖ LONG VÂN, BÙI GIÁNG _ bình phẩm văn học & thi ca.🍓🍓🍓🍓🍓",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 33.33333333,
+    "new_score": 0.16432574,
+    "customer_id": 717344,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [
+      {
+        "id": 3472951,
+        "full_path": "https://salt.tikicdn.com/ts/review/c5/4e/ed/f956ea56d29ad382b99d8f41efe93ab9.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1652431023,
+    "created_by": {
+      "id": 717344,
+      "name": "Phan Vũ",
+      "full_name": "Phan Vũ",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2015-07-23 14:23:31",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1651928401,
+      "contribute_info": {
+        "id": 717344,
+        "name": "Phan Vũ",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 10 năm",
+          "total_review": 19,
+          "total_thank": 21
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": true,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2022-05-13 15:37:03",
+      "delivery_date": "2022-05-10 10:45:24",
+      "current_date": "2025-04-30 12:55:13",
+      "content": "Đã dùng 3 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19233350,
+    "title": "Cực kì hài lòng",
+    "content": "Ok hên ship không bị gì",
+    "status": "approved",
+    "thank_count": 1,
+    "score": 0.0074469,
+    "new_score": 0.15877688,
+    "customer_id": 5544427,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4219893,
+        "full_path": "https://salt.tikicdn.com/ts/review/48/d0/7c/2e4971f9c5fbbb7674f2babcac50a700.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4219894,
+        "full_path": "https://salt.tikicdn.com/ts/review/5a/f7/f0/2ba2f2d19e041c83ca34a9f2cf758c8f.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4219895,
+        "full_path": "https://salt.tikicdn.com/ts/review/9a/62/5c/ecb8efcc723c49c7908cee48d1471ec5.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4219896,
+        "full_path": "https://salt.tikicdn.com/ts/review/25/bc/ca/fbe76ed6d43e97147764dca3d3f9f54d.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1685127236,
+    "created_by": {
+      "id": 5544427,
+      "name": "Nguyễn Tấn Toàn",
+      "full_name": "Nguyễn Tấn Toàn",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2017-08-04 12:03:10",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1682658009,
+      "contribute_info": {
+        "id": 5544427,
+        "name": "Nguyễn Tấn Toàn",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 22,
+          "total_thank": 3
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": true,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2023-05-27 01:53:56",
+      "delivery_date": "2023-05-05 12:27:30",
+      "current_date": "2025-04-30 12:55:13",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20008208,
+    "title": "Cực kì hài lòng",
+    "content": "Bìa cứng, giấy in rõ.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15599091,
+    "customer_id": 5929523,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1729126368,
+    "created_by": {
+      "id": 5929523,
+      "name": "Trần Hải Yến",
+      "full_name": "Trần Hải Yến",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2017-10-15 11:09:50",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1728897266,
+      "contribute_info": {
+        "id": 5929523,
+        "name": "Trần Hải Yến",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 121,
+          "total_thank": 7
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": false,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2024-10-17 07:52:48",
+      "delivery_date": "2024-10-16 20:58:55",
+      "current_date": "2025-04-30 12:55:13",
+      "content": "Đã dùng 11 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 11 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 20049117,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.1552689,
+    "customer_id": 12178922,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1734230358,
+    "created_by": {
+      "id": 12178922,
+      "name": "Lệnh Hồ Xung",
+      "full_name": "Lệnh Hồ Xung",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2019-05-21 14:00:49",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1734016667,
+      "contribute_info": {
+        "id": 12178922,
+        "name": "Lệnh Hồ Xung",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 333,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": false,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2024-12-15 09:39:18",
+      "delivery_date": "2024-12-14 21:32:46",
+      "current_date": "2025-04-30 12:55:13",
+      "content": "Đã dùng 1 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20000274,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.1540381,
+    "customer_id": 13056052,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1728402868,
+    "created_by": {
+      "id": 13056052,
+      "name": "Nguyễn TKV",
+      "full_name": "Nguyễn TKV",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2019-07-24 06:24:31",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1727273877,
+      "contribute_info": {
+        "id": 13056052,
+        "name": "Nguyễn TKV",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 30,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": false,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2024-10-08 22:54:28",
+      "delivery_date": "2024-09-29 14:51:44",
+      "current_date": "2025-04-30 12:55:13",
+      "content": "Đã dùng 9 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 9 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17834801,
+    "title": "Cực kì hài lòng",
+    "content": "Bìa cứng, nguyên seal. Chất lượng giấy ok, giá rẻ",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 33.33333333,
+    "new_score": 0.14774646,
+    "customer_id": 5171969,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [
+      {
+        "id": 3905472,
+        "full_path": "https://salt.tikicdn.com/ts/review/d0/95/2a/66feb72ed1fff1dd7322dfbfbb3d9ca8.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1664523728,
+    "created_by": {
+      "id": 5171969,
+      "name": "dương ngọc tiền",
+      "full_name": "dương ngọc tiền",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/ef/99/24/23a0c1df0351b303ae648e6e276f7646.png",
+      "created_time": "2017-04-07 19:40:26",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1664304241,
+      "contribute_info": {
+        "id": 5171969,
+        "name": "dương ngọc tiền",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/ef/99/24/23a0c1df0351b303ae648e6e276f7646.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 68,
+          "total_thank": 12
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": true,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2022-09-30 14:42:08",
+      "delivery_date": "2022-09-29 21:40:59",
+      "current_date": "2025-04-30 12:55:13",
+      "content": "Đã dùng 1 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18415272,
+    "title": "Cực kì hài lòng",
+    "content": "Good",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.07092199,
+    "new_score": 0.1451792,
+    "customer_id": 6565460,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4088572,
+        "full_path": "https://salt.tikicdn.com/ts/review/16/bb/67/878c7d3f516908a8f96f12729de5b677.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1670991703,
+    "created_by": {
+      "id": 6565460,
+      "name": "Võ Phúc",
+      "full_name": "Võ Phúc",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-02-23 00:55:56",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1670815566,
+      "contribute_info": {
+        "id": 6565460,
+        "name": "Võ Phúc",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 25,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": true,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2022-12-14 11:21:43",
+      "delivery_date": "2022-12-14 10:57:36",
+      "current_date": "2025-04-30 12:55:13",
+      "content": "Đã dùng 24 phút",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 24 phút."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17940325,
+    "title": "Cực kì hài lòng",
+    "content": "Sách của cụ luôn uy tín",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14276704,
+    "customer_id": 12361567,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1665568113,
+    "created_by": {
+      "id": 12361567,
+      "name": "mcmu cvdt",
+      "full_name": "mcmu cvdt",
+      "region": null,
+      "avatar_url": "https://lh3.googleusercontent.com/-c1ONPGBr8l4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfm28cxWdWAYuMwy1RiN-0D7jM3vg/mo/photo.jpg",
+      "created_time": "2019-06-04 09:06:37",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1656899094,
+      "contribute_info": {
+        "id": 12361567,
+        "name": "mcmu cvdt",
+        "avatar": "https://lh3.googleusercontent.com/-c1ONPGBr8l4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfm28cxWdWAYuMwy1RiN-0D7jM3vg/mo/photo.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 13,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": false,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2022-10-12 16:48:33",
+      "delivery_date": "2022-07-08 10:26:16",
+      "current_date": "2025-04-30 12:55:13",
+      "content": "Đã dùng 3 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "nhiều kiến thức bổ ích"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 9968486,
+    "title": "Cực kì hài lòng",
+    "content": "jshskahsbsiznshzkz JB hsjshs",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 1.34680135,
+    "new_score": 0.14243342,
+    "customer_id": 9764995,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [
+      {
+        "id": 2032349,
+        "full_path": "https://salt.tikicdn.com/ts/review/80/c2/28/cf235b57ff1e99f3dc57a65a326a0ad2.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 2032350,
+        "full_path": "https://salt.tikicdn.com/ts/review/01/2c/6b/2658b1539312653c9b03982124d641f1.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 2032351,
+        "full_path": "https://salt.tikicdn.com/ts/review/fc/ce/87/87040a49d74c340dc4eff92720588487.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1622007338,
+    "created_by": {
+      "id": 9764995,
+      "name": "Lê Thị Diệu Trang",
+      "full_name": "Lê Thị Diệu Trang",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-12-10 15:20:20",
+      "purchased": true,
+      "purchased_at": 1615851976,
+      "contribute_info": {
+        "id": 9764995,
+        "name": "Lê Thị Diệu Trang",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 6,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": true,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2021-05-26 12:35:38",
+      "delivery_date": "2021-03-19 10:48:16",
+      "current_date": "2025-04-30 12:55:13",
+      "content": "Đã dùng 2 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18618304,
+    "title": "Hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14242667,
+    "customer_id": 8872002,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1673426004,
+    "created_by": {
+      "id": 8872002,
+      "name": "Xuân Lương",
+      "full_name": "Xuân Lương",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/db/d6/ce/8e7ea93cf5e4b9bd3ea223d42324aadd.png",
+      "created_time": "2018-11-10 21:00:18",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1669314347,
+      "contribute_info": {
+        "id": 8872002,
+        "name": "Tô Mạc Sơn",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/db/d6/ce/8e7ea93cf5e4b9bd3ea223d42324aadd.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 54,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": false,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2023-01-11 15:33:24",
+      "delivery_date": "2022-11-28 14:28:48",
+      "current_date": "2025-04-30 12:55:14",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18036480,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14098619,
+    "customer_id": 5859998,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1666605722,
+    "created_by": {
+      "id": 5859998,
+      "name": "Nguyễn Thiện Nam",
+      "full_name": "Nguyễn Thiện Nam",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/d4/3a/0b/47eb1955c98fd3924166f022e9e37a7a.jpg",
+      "created_time": "2017-10-04 12:51:08",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1666393582,
+      "contribute_info": {
+        "id": 5859998,
+        "name": "Nguyễn Thiện Nam",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/d4/3a/0b/47eb1955c98fd3924166f022e9e37a7a.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 32,
+          "total_thank": 8
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": false,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2022-10-24 17:02:02",
+      "delivery_date": "2022-10-24 16:52:52",
+      "current_date": "2025-04-30 12:55:14",
+      "content": "Đã dùng 9 phút",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 9 phút."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17584592,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14003973,
+    "customer_id": 8420777,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1662124521,
+    "created_by": {
+      "id": 8420777,
+      "name": "CAO VĂN NAM",
+      "full_name": "CAO VĂN NAM",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-10-13 22:13:40",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1655134212,
+      "contribute_info": {
+        "id": 8420777,
+        "name": "CAO VĂN NAM",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 52,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": false,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2022-09-02 20:15:21",
+      "delivery_date": "2022-06-17 10:15:13",
+      "current_date": "2025-04-30 12:55:14",
+      "content": "Đã dùng 3 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "nhiều kiến thức bổ ích",
+        "Nội dung dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 8622618,
+    "title": "Cực kì hài lòng",
+    "content": "sách đẹp giá rẻ, nội dung hay, đáng mua để tham khảo và sưu tầm",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 1.51515152,
+    "new_score": 0.13894898,
+    "customer_id": 20352086,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [
+      {
+        "id": 1738354,
+        "full_path": "https://salt.tikicdn.com/ts/review/bc/b5/e9/d265c23951c227a97828c1ae034079c2.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1616557159,
+    "created_by": {
+      "id": 20352086,
+      "name": "lương đức huy",
+      "full_name": "lương đức huy",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-02-18 11:12:17",
+      "purchased": true,
+      "purchased_at": 1616220836,
+      "contribute_info": {
+        "id": 20352086,
+        "name": "lương đức huy",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 12,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": true,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2021-03-24 10:39:19",
+      "delivery_date": "2021-03-24 10:18:14",
+      "current_date": "2025-04-30 12:55:14",
+      "content": "Đã dùng 21 phút",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 21 phút."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 16923917,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13892106,
+    "customer_id": 18551393,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1656827903,
+    "created_by": {
+      "id": 18551393,
+      "name": "Cao Nguyen Kim Ngan",
+      "full_name": "Cao Nguyen Kim Ngan",
+      "region": null,
+      "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=772735790232445&height=200&width=200&ext=1603421066&hash=AeTxh1148L_mZJzY",
+      "created_time": "2020-09-23 09:45:20",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1656645676,
+      "contribute_info": {
+        "id": 18551393,
+        "name": "Cao Nguyen Kim Ngan",
+        "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=772735790232445&height=200&width=200&ext=1603421066&hash=AeTxh1148L_mZJzY",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 78,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [
+      "Chất lượng tốt",
+      "Đóng gói tốt",
+      "Giá tốt",
+      "Nhà bán phục vụ tốt"
+    ],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": false,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2022-07-03 12:58:23",
+      "delivery_date": "2022-07-03 11:13:56",
+      "current_date": "2025-04-30 12:55:14",
+      "content": "Đã dùng 2 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 15395008,
+    "title": "Hài lòng",
+    "content": "Sách bìa bị trầy",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13834438,
+    "customer_id": 23657659,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1647153254,
+    "created_by": {
+      "id": 23657659,
+      "name": "ngân trần",
+      "full_name": "ngân trần",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-09-20 02:15:43",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1647007706,
+      "contribute_info": {
+        "id": 23657659,
+        "name": "ngân trần",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 9,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": false,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2022-03-13 13:34:14",
+      "delivery_date": "2022-03-13 13:23:30",
+      "current_date": "2025-04-30 12:55:14",
+      "content": "Đã dùng 11 phút",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 11 phút."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 15840463,
+    "title": "Cực kì hài lòng",
+    "content": "Khá nặng",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13809263,
+    "customer_id": 80055,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1649433405,
+    "created_by": {
+      "id": 80055,
+      "name": "Phan  Nam",
+      "full_name": "Phan  Nam",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2012-12-14 08:09:31",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1648445107,
+      "contribute_info": {
+        "id": 80055,
+        "name": "Phan  Nam",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 13 năm",
+          "total_review": 29,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": false,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2022-04-08 22:56:45",
+      "delivery_date": "2022-04-01 10:19:01",
+      "current_date": "2025-04-30 12:55:14",
+      "content": "Đã dùng 8 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 15817917,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13733574,
+    "customer_id": 21745857,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1649321853,
+    "created_by": {
+      "id": 21745857,
+      "name": "lê đăng mạnh",
+      "full_name": "lê đăng mạnh",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-05-16 07:25:49",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1646036625,
+      "contribute_info": {
+        "id": 21745857,
+        "name": "lê đăng mạnh",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 13,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": false,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2022-04-07 15:57:33",
+      "delivery_date": "2022-03-04 13:23:03",
+      "current_date": "2025-04-30 12:55:14",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 14149841,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13553192,
+    "customer_id": 18611778,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1640781270,
+    "created_by": {
+      "id": 18611778,
+      "name": "Nguyễn Anh Đức",
+      "full_name": "Nguyễn Anh Đức",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-09-29 09:49:05",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1636978067,
+      "contribute_info": {
+        "id": 18611778,
+        "name": "Nguyễn Anh Đức",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 35,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": false,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2021-12-29 19:34:30",
+      "delivery_date": "2021-11-22 09:20:24",
+      "current_date": "2025-04-30 12:55:14",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 3941787,
+    "title": "Cực kì hài lòng",
+    "content": "Sách do Lệ thần Trần Trọng Kim biên soạn thì chất lượng khỏi phải bàn rồi.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.00396095,
+    "new_score": 0.13513048,
+    "customer_id": 5399042,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [
+      {
+        "id": 3531413,
+        "full_path": "https://salt.tikicdn.com/ts/review/d0/95/bd/99bb50fcca477674d3febcd645a79bba.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1593427258,
+    "created_by": {
+      "id": 5399042,
+      "name": "TUNG DUY NGUYEN",
+      "full_name": "TUNG DUY NGUYEN",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2017-06-23 19:20:45",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1593073214,
+      "contribute_info": {
+        "id": 5399042,
+        "name": "TUNG DUY NGUYEN",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 403,
+          "total_thank": 44
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 10807785,
+    "is_photo": true,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2020-06-29 17:40:58",
+      "delivery_date": "2020-06-29 12:36:09",
+      "current_date": "2025-04-30 12:55:14",
+      "content": "Đã dùng 5 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 10792709,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0,
+    "new_score": 0.13222481,
+    "customer_id": 11593042,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1625123051,
+    "created_by": {
+      "id": 11593042,
+      "name": "Vu Tran",
+      "full_name": "Vu Tran",
+      "region": null,
+      "avatar_url": "https://lh3.googleusercontent.com/-f0ijSqa4rOM/AAAAAAAAAAI/AAAAAAAAAD0/37_xjU6BmXI/photo.jpg",
+      "created_time": "2019-04-02 10:58:09",
+      "purchased": true,
+      "purchased_at": 1620484686,
+      "contribute_info": {
+        "id": 11593042,
+        "name": "Vu Tran",
+        "avatar": "https://lh3.googleusercontent.com/-f0ijSqa4rOM/AAAAAAAAAAI/AAAAAAAAAD0/37_xjU6BmXI/photo.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 115,
+          "total_thank": 3
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": false,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2021-07-01 14:04:11",
+      "delivery_date": "2021-05-11 15:01:07",
+      "current_date": "2025-04-30 12:55:16",
+      "content": "Đã dùng 2 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 10113095,
+    "title": "Cực kì hài lòng",
+    "content": "Good",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.01032631,
+    "new_score": 0.13196172,
+    "customer_id": 19471652,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1622614789,
+    "created_by": {
+      "id": 19471652,
+      "name": "Huan Vu",
+      "full_name": "Huan Vu",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-12-10 20:16:36",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1617633615,
+      "contribute_info": {
+        "id": 19471652,
+        "name": "Huan Vu",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 84,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Fahasa"
+    ],
+    "product_attributes": [],
+    "spid": 20450193,
+    "is_photo": false,
+    "seller": {
+      "id": 53660,
+      "name": "Nhà sách Fahasa",
+      "logo": "cc/7c/e0/ca7c0e7cf59847c63c8792af9e9304f2.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2021-06-02 13:19:49",
+      "delivery_date": "2021-04-07 12:26:13",
+      "current_date": "2025-04-30 12:55:16",
+      "content": "Đã dùng 2 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 9420397,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0,
+    "new_score": 0.13108106,
+    "customer_id": 82526,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1619707716,
+    "created_by": {
+      "id": 82526,
+      "name": "Hai Trieu",
+      "full_name": "Hai Trieu",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2012-12-26 01:18:46",
+      "purchased": true,
+      "purchased_at": 1616744766,
+      "contribute_info": {
+        "id": 82526,
+        "name": "Hai Trieu",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 13 năm",
+          "total_review": 42,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": false,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2021-04-29 21:48:36",
+      "delivery_date": "2021-03-29 14:24:08",
+      "current_date": "2025-04-30 12:55:16",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 7233609,
+    "title": "Không hài lòng",
+    "content": "ok!",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.01034878,
+    "new_score": 0.12955963,
+    "customer_id": 2237857,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1611557208,
+    "created_by": {
+      "id": 2237857,
+      "name": "Trần Hoàng Linh",
+      "full_name": "Trần Hoàng Linh",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2017-03-04 23:30:51",
+      "purchased": true,
+      "purchased_at": 1611387790,
+      "contribute_info": {
+        "id": 2237857,
+        "name": "Trần Hoàng Linh",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 14,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 10807785,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2021-01-25 13:46:48",
+      "delivery_date": "2021-01-25 13:25:14",
+      "current_date": "2025-04-30 12:55:16",
+      "content": "Đã dùng 22 phút",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 22 phút."
+    },
+    "comments": [
+      {
+        "id": 948316,
+        "review_id": 7233609,
+        "commentator": "tikicare",
+        "customer_id": 0,
+        "fullname": "Tiki Care",
+        "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+        "content": "Mến chào bạn, Tiki đã nhận được nhận xét từ bạn, Tiki rất tiếc vì sản phẩm nhận được chưa đáp ứng như kỳ vọng từ bạn. Tiki đã có gửi email mã #9282412 đến bạn nhưng vẫn chưa nhận được thông tin phản hồi từ bạn. Nhờ bạn kiểm tra và phản hồi nếu cần hỗ trợ về sản phẩm này nhé. Trường hợp cần hỗ trợ thêm thông tin bạn có thể liên hệ với Tiki tại đây - https://hotro.tiki.vn/hc/vi để được hỗ trợ nhanh chóng. Trân trọng.\n",
+        "score": 0,
+        "create_at": 1611829439,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 1,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 6504972,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.12880318,
+    "customer_id": 10535123,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1608922612,
+    "created_by": {
+      "id": 10535123,
+      "name": "Dinh Thuc",
+      "full_name": "Dinh Thuc",
+      "region": null,
+      "avatar_url": "https://lh4.googleusercontent.com/-vmnC60Yj0uA/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaxTcRGnmtJIosL-ZT_F1plqws4Ug/s80/photo.jpg",
+      "purchased": true,
+      "purchased_at": 1604359552,
+      "contribute_info": {
+        "id": 10535123,
+        "name": "Dinh Thuc",
+        "avatar": "https://lh4.googleusercontent.com/-vmnC60Yj0uA/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaxTcRGnmtJIosL-ZT_F1plqws4Ug/s80/photo.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 41,
+          "total_thank": 14
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán khangvietbook"
+    ],
+    "product_attributes": [],
+    "spid": 19383055,
+    "is_photo": false,
+    "seller": {
+      "id": 48511,
+      "name": "khangvietbook",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/fc/ac/f8/b55ac850d09b73df4bd34832fdf90325.png"
+    },
+    "product_id": 10807784,
+    "timeline": {
+      "review_created_date": "2020-12-26 01:56:52",
+      "delivery_date": "2020-11-08 17:55:51",
+      "current_date": "2025-04-30 12:55:16",
+      "content": "Đã dùng 2 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

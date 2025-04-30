@@ -1,0 +1,533 @@
+[
+  {
+    "id": 19991797,
+    "title": "Bình thường",
+    "content": "Quyển AI 5.0 nội dung quá hàn lâm, mơ hồ đọc chả hiểu gì phí tiền.\r\nQuyển ChatGPT thực chiến thì nội dung rất sát với nhu cầu của người đọc.",
+    "status": "approved",
+    "thank_count": 1,
+    "score": 0.02678009,
+    "new_score": 0.16619492,
+    "customer_id": 7674760,
+    "comment_count": 1,
+    "rating": 3,
+    "images": [],
+    "thanked": false,
+    "created_at": 1727509452,
+    "created_by": {
+      "id": 7674760,
+      "name": "Vo Ngoc Thien",
+      "full_name": "Vo Ngoc Thien",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-08-16 09:27:35",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1725246532,
+      "contribute_info": {
+        "id": 7674760,
+        "name": "Vo Ngoc Thien",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 13,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán 1980 BOOKS HCM"
+    ],
+    "product_attributes": [],
+    "spid": 275852687,
+    "is_photo": false,
+    "seller": {
+      "id": 127920,
+      "name": "1980 BOOKS HCM",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/32/ee/e4/029d9bc223e36fb8f5ee1933e6ac9d47.jpg"
+    },
+    "product_id": 275844089,
+    "timeline": {
+      "review_created_date": "2024-09-28 14:44:12",
+      "delivery_date": "2024-09-05 13:52:47",
+      "current_date": "2025-04-30 06:33:42",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [
+      {
+        "id": 3259273,
+        "review_id": 19991797,
+        "commentator": "tikicare",
+        "customer_id": 0,
+        "fullname": "Tiki Care",
+        "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+        "content": "Tiki cảm ơn những chia sẻ và góp ý từ anh Thiện. Thật tiếc khi nội dung sách chưa được như anh mong đợi. Rất hy vọng các tựa sách khác tại Tiki sẽ làm anh hài lòng hơn trong thời gian tới. Tiki cảm ơn anh nhiều.",
+        "score": 0,
+        "create_at": 1727510238,
+        "badge": "",
+        "status": 1,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20080883,
+    "title": "Cực kì hài lòng",
+    "content": "Sách tốt lại có cả quà tặng. Cho 5 sao",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15963581,
+    "customer_id": 19044264,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1739439731,
+    "created_by": {
+      "id": 19044264,
+      "name": "Phan Việt",
+      "full_name": "Phan Việt",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-11-01 13:42:24",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1739272160,
+      "contribute_info": {
+        "id": 19044264,
+        "name": "Phan Việt",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 8,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán 1980Books Official"
+    ],
+    "product_attributes": [],
+    "spid": 275844090,
+    "is_photo": false,
+    "seller": {
+      "id": 185035,
+      "name": "1980Books Official",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/32/ee/e4/4505ee614a797ffd941761b2673e670c.jpg"
+    },
+    "product_id": 275844089,
+    "timeline": {
+      "review_created_date": "2025-02-13 16:42:11",
+      "delivery_date": "2025-02-13 13:26:12",
+      "current_date": "2025-04-30 06:33:42",
+      "content": "Đã dùng 3 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 20111576,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.1575029,
+    "customer_id": 20327151,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1744807754,
+    "created_by": {
+      "id": 20327151,
+      "name": "Đỗ Toàn",
+      "full_name": "Đỗ Toàn",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-02-16 16:36:29",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1744653103,
+      "contribute_info": {
+        "id": 20327151,
+        "name": "Đỗ Toàn",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 21,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 277480500,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+    },
+    "product_id": 275844089,
+    "timeline": {
+      "review_created_date": "2025-04-16 19:49:14",
+      "delivery_date": "2025-04-15 15:46:23",
+      "current_date": "2025-04-30 06:33:42",
+      "content": "Đã dùng 1 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20090736,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15670977,
+    "customer_id": 21829681,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1741052486,
+    "created_by": {
+      "id": 21829681,
+      "name": "Ngo Anh Tinh",
+      "full_name": "Ngo Anh Tinh",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-05-20 15:15:55",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1735895016,
+      "contribute_info": {
+        "id": 21829681,
+        "name": "Ngo Anh Tinh",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 8,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán 1980Books Official"
+    ],
+    "product_attributes": [],
+    "spid": 275844090,
+    "is_photo": false,
+    "seller": {
+      "id": 185035,
+      "name": "1980Books Official",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/32/ee/e4/4505ee614a797ffd941761b2673e670c.jpg"
+    },
+    "product_id": 275844089,
+    "timeline": {
+      "review_created_date": "2025-03-04 08:41:26",
+      "delivery_date": "2025-01-06 12:04:55",
+      "current_date": "2025-04-30 06:33:42",
+      "content": "Đã dùng 2 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20073995,
+    "title": "Hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.1561514,
+    "customer_id": 8575588,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1738408752,
+    "created_by": {
+      "id": 8575588,
+      "name": "Mạnh Ứng Văn",
+      "full_name": "Mạnh Ứng Văn",
+      "region": null,
+      "avatar_url": "https://s120.avatar.talk.zdn.vn/3/4/2/6/33/120/e7254679fa2266f059c6231a9d011f34.jpg",
+      "created_time": "2018-10-23 12:18:43",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1736429565,
+      "contribute_info": {
+        "id": 8575588,
+        "name": "Mạnh Ứng Văn",
+        "avatar": "https://s120.avatar.talk.zdn.vn/3/4/2/6/33/120/e7254679fa2266f059c6231a9d011f34.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 88,
+          "total_thank": 12
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán 1980Books Official"
+    ],
+    "product_attributes": [],
+    "spid": 275844090,
+    "is_photo": false,
+    "seller": {
+      "id": 185035,
+      "name": "1980Books Official",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/32/ee/e4/4505ee614a797ffd941761b2673e670c.jpg"
+    },
+    "product_id": 275844089,
+    "timeline": {
+      "review_created_date": "2025-02-01 18:19:12",
+      "delivery_date": "2025-01-11 14:30:53",
+      "current_date": "2025-04-30 06:33:42",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20050760,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15531084,
+    "customer_id": 19537669,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1734428924,
+    "created_by": {
+      "id": 19537669,
+      "name": "Ngô Phát",
+      "full_name": "Ngô Phát",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-12-14 13:37:52",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1734018770,
+      "contribute_info": {
+        "id": 19537669,
+        "name": "Ngô Phát",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 48,
+          "total_thank": 11
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán 1980Books Official"
+    ],
+    "product_attributes": [],
+    "spid": 275844090,
+    "is_photo": false,
+    "seller": {
+      "id": 185035,
+      "name": "1980Books Official",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/32/ee/e4/4505ee614a797ffd941761b2673e670c.jpg"
+    },
+    "product_id": 275844089,
+    "timeline": {
+      "review_created_date": "2024-12-17 16:48:44",
+      "delivery_date": "2024-12-17 16:25:04",
+      "current_date": "2025-04-30 06:33:42",
+      "content": "Đã dùng 24 phút",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 24 phút."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19988108,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15377114,
+    "customer_id": 132245,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1727138889,
+    "created_by": {
+      "id": 132245,
+      "name": "Tran Tuan Nghia",
+      "full_name": "Tran Tuan Nghia",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2013-07-03 09:59:06",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1725094903,
+      "contribute_info": {
+        "id": 132245,
+        "name": "Tran Tuan Nghia",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 12 năm",
+          "total_review": 163,
+          "total_thank": 3
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán 1980 BOOKS HCM"
+    ],
+    "product_attributes": [],
+    "spid": 275852687,
+    "is_photo": false,
+    "seller": {
+      "id": 127920,
+      "name": "1980 BOOKS HCM",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/32/ee/e4/029d9bc223e36fb8f5ee1933e6ac9d47.jpg"
+    },
+    "product_id": 275844089,
+    "timeline": {
+      "review_created_date": "2024-09-24 07:48:09",
+      "delivery_date": "2024-09-07 15:23:51",
+      "current_date": "2025-04-30 06:33:42",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19984487,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15368705,
+    "customer_id": 14432397,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1726740726,
+    "created_by": {
+      "id": 14432397,
+      "name": "Trương Nhuận Xương",
+      "full_name": "Trương Nhuận Xương",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/d9/32/3c/8a6920c71f41504a67c176c6cb410b8c.png",
+      "created_time": "2019-10-13 22:03:53",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1725421931,
+      "contribute_info": {
+        "id": 14432397,
+        "name": "Trương Nhuận Xương",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/d9/32/3c/8a6920c71f41504a67c176c6cb410b8c.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 16,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán 1980Books Official"
+    ],
+    "product_attributes": [],
+    "spid": 275844090,
+    "is_photo": false,
+    "seller": {
+      "id": 185035,
+      "name": "1980Books Official",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/32/ee/e4/4505ee614a797ffd941761b2673e670c.jpg"
+    },
+    "product_id": 275844089,
+    "timeline": {
+      "review_created_date": "2024-09-19 17:12:06",
+      "delivery_date": "2024-09-07 11:10:41",
+      "current_date": "2025-04-30 06:33:42",
+      "content": "Đã dùng 12 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 12 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "Dễ hiểu, dễ tiếp cận",
+        "Nội dung hay, hữu ích"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

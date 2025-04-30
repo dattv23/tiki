@@ -1,0 +1,79 @@
+[
+  {
+    "id": 20115057,
+    "title": "Rất không hài lòng",
+    "content": "Mình đã yêu cầu shop xuất hóa đơn VAT nhưng shop ko xuất và Tiki cũng ko hỗ trợ cho mình.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 28.05555556,
+    "new_score": 0.16497615,
+    "customer_id": 17237826,
+    "comment_count": 1,
+    "rating": 1,
+    "images": [],
+    "thanked": false,
+    "created_at": 1745470213,
+    "created_by": {
+      "id": 17237826,
+      "name": "Kim Ngân",
+      "full_name": "Kim Ngân",
+      "region": null,
+      "avatar_url": "https://s120.avatar.talk.zdn.vn/5/b/e/2/93/120/6c52931292effc15b9f9b95cdd7c2d47.jpg",
+      "created_time": "2020-04-28 14:13:31",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1744180169,
+      "contribute_info": {
+        "id": 17237826,
+        "name": "Kim Ngân",
+        "avatar": "https://s120.avatar.talk.zdn.vn/5/b/e/2/93/120/6c52931292effc15b9f9b95cdd7c2d47.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 1,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Times Books"
+    ],
+    "product_attributes": [],
+    "spid": 270267804,
+    "is_photo": false,
+    "seller": {
+      "id": 127989,
+      "name": "Times Books",
+      "logo": "a6/11/12/d2b1e40937a3a9953075558b8a80ff2c.png"
+    },
+    "product_id": 262080389,
+    "timeline": {
+      "review_created_date": "2025-04-24 11:50:13",
+      "delivery_date": "2025-04-12 11:18:29",
+      "current_date": "2025-04-30 11:38:24",
+      "content": "Đã dùng 12 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 12 ngày."
+    },
+    "comments": [
+      {
+        "id": 3320407,
+        "review_id": 20115057,
+        "commentator": "tikicare",
+        "customer_id": 0,
+        "fullname": "Tiki Care",
+        "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+        "content": "Cảm ơn bạn Ngân đã gửi nhận xét đến Tiki. Qua kiểm tra, Tiki thấy đơn hàng đã được xử lý tại mã hỗ trợ 04326393 . Tiki cảm ơn bạn nhiều.",
+        "score": 0,
+        "create_at": 1745470608,
+        "badge": "",
+        "status": 1,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

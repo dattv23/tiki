@@ -1,0 +1,81 @@
+[
+  {
+    "id": 20112986,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15755588,
+    "customer_id": 524851,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1745058574,
+    "created_by": {
+      "id": 524851,
+      "name": "Nguyễn Bùi Hiền Ngọc",
+      "full_name": "Nguyễn Bùi Hiền Ngọc",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/36/34/4a/8d510bb04f3c00e9039e09a553a89c88.png",
+      "created_time": "2014-12-29 14:18:39",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1744942727,
+      "contribute_info": {
+        "id": 524851,
+        "name": "Nguyễn Bùi Hiền Ngọc",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/36/34/4a/8d510bb04f3c00e9039e09a553a89c88.png",
+        "summary": {
+          "joined_time": "Đã tham gia 11 năm",
+          "total_review": 23,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 277504508,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+    },
+    "product_id": 277504506,
+    "timeline": {
+      "review_created_date": "2025-04-19 17:29:34",
+      "delivery_date": "2025-04-18 11:25:11",
+      "current_date": "2025-04-30 12:45:59",
+      "content": "Đã dùng 1 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  }
+]

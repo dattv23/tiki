@@ -1,0 +1,141 @@
+[
+  {
+    "id": 19935662,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15264677,
+    "customer_id": 6748618,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1721815327,
+    "created_by": {
+      "id": 6748618,
+      "name": "Lê Sỹ Hoà",
+      "full_name": "Lê Sỹ Hoà",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/96/d9/40/fbbe5b370c06eae0059391a77884c603.png",
+      "created_time": "2018-03-19 20:29:38",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1720047177,
+      "contribute_info": {
+        "id": 6748618,
+        "name": "Lê Sỹ Hoà",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/96/d9/40/fbbe5b370c06eae0059391a77884c603.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 16,
+          "total_thank": 13
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 272267677,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/21/ce/5c/b52d0b8576680dc3666474ae31b091ec.jpg"
+    },
+    "product_id": 272267675,
+    "timeline": {
+      "review_created_date": "2024-07-24 17:02:07",
+      "delivery_date": "2024-07-05 11:09:31",
+      "current_date": "2025-04-30 11:24:41",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [
+      {
+        "id": 3229362,
+        "review_id": 19935662,
+        "commentator": "seller",
+        "customer_id": 1,
+        "fullname": "Tiki Trading",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+        "content": "Tiki rất vui khi nhận được đánh giá 5⭐️từ bạn. Hy vọng bạn sẽ tiếp tục ủng hộ Tiki nha!",
+        "score": 0,
+        "create_at": 1721884820,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19610353,
+    "title": "Hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.1476595,
+    "customer_id": 16399820,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1698202001,
+    "created_by": {
+      "id": 16399820,
+      "name": "Nguyễn Tiki Ninh",
+      "full_name": "Nguyễn Tiki Ninh",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-02-13 14:02:01",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1696661892,
+      "contribute_info": {
+        "id": 16399820,
+        "name": "Nguyễn Tiki Ninh",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 73,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 272267677,
+    "is_photo": false,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/21/ce/5c/b52d0b8576680dc3666474ae31b091ec.jpg"
+    },
+    "product_id": 272267675,
+    "timeline": {
+      "review_created_date": "2023-10-25 09:46:41",
+      "delivery_date": "2023-10-08 08:35:19",
+      "current_date": "2025-04-30 11:24:41",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

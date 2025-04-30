@@ -1,0 +1,102 @@
+[
+  {
+    "id": 19986900,
+    "title": "Cực kì hài lòng",
+    "content": "Quá hay các bác ạ, anh Chánh Văn viết gần gũi quá, mình gạch đỏ cả sách rồi, phải mua thêm 5 cuốn để tặng bạn bè.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 33.33333333,
+    "new_score": 0.16674065,
+    "customer_id": 8326939,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4378248,
+        "full_path": "https://salt.tikicdn.com/ts/review/a2/2a/5e/db42d60efddc7c2126bd694aa6f52693.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1726994507,
+    "created_by": {
+      "id": 8326939,
+      "name": "Luong Pham",
+      "full_name": "Luong Pham",
+      "region": null,
+      "avatar_url": "https://lh3.googleusercontent.com/-cyv2Blunprg/AAAAAAAAAAI/AAAAAAAAJho/lq-Qdfa1pDY/photo.jpg",
+      "created_time": "2018-10-10 13:20:07",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1726922233,
+      "contribute_info": {
+        "id": 8326939,
+        "name": "Luong Pham",
+        "avatar": "https://lh3.googleusercontent.com/-cyv2Blunprg/AAAAAAAAAAI/AAAAAAAAJho/lq-Qdfa1pDY/photo.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 2,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 275503305,
+    "is_photo": true,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+    },
+    "product_id": 275503303,
+    "timeline": {
+      "review_created_date": "2024-09-22 15:41:47",
+      "delivery_date": "2024-09-22 09:18:47",
+      "current_date": "2025-04-30 11:24:27",
+      "content": "Đã dùng 6 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 giờ."
+    },
+    "comments": [
+      {
+        "id": 3255523,
+        "review_id": 19986900,
+        "commentator": "seller",
+        "customer_id": 1,
+        "fullname": "Tiki Trading",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+        "content": "Tiki rất vui khi nhận được đánh giá 5⭐️ từ bạn. Sự hài lòng của bạn là động lực to lớn với Tiki đó ạ. Hy vọng bạn sẽ tiếp tục ủng hộ Tiki nha!",
+        "score": 0,
+        "create_at": 1727070866,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  }
+]

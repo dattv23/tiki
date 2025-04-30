@@ -1,0 +1,64 @@
+[
+  {
+    "id": 20108855,
+    "title": "Cực kì hài lòng",
+    "content": "tốt",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15772523,
+    "customer_id": 1777071,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1744282184,
+    "created_by": {
+      "id": 1777071,
+      "name": "Tuan Anh Vu",
+      "full_name": "Tuan Anh Vu",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/01/5d/3d/65484a2c46b47b7998ad87a8f332d5d2.png",
+      "created_time": "2016-10-12 15:21:30",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1744082689,
+      "contribute_info": {
+        "id": 1777071,
+        "name": "Tuan Anh Vu",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/01/5d/3d/65484a2c46b47b7998ad87a8f332d5d2.png",
+        "summary": {
+          "joined_time": "Đã tham gia 9 năm",
+          "total_review": 87,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách Fahasa"
+    ],
+    "product_attributes": [],
+    "spid": 149778536,
+    "is_photo": false,
+    "seller": {
+      "id": 53660,
+      "name": "Nhà sách Fahasa",
+      "logo": "f8/86/c0/12f7213bcdfd4d9a7a52e9b3a6704493.jpg"
+    },
+    "product_id": 149778535,
+    "timeline": {
+      "review_created_date": "2025-04-10 17:49:44",
+      "delivery_date": "2025-04-10 11:38:17",
+      "current_date": "2025-04-30 11:38:49",
+      "content": "Đã dùng 6 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

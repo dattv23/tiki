@@ -1,0 +1,231 @@
+[
+  {
+    "id": 20095097,
+    "title": "Rất không hài lòng",
+    "content": "Shop giao nhầm sản phẩm , vui lòng hướng dẫn để đổi lại",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 3.56060606,
+    "new_score": 0.16786253,
+    "customer_id": 20691262,
+    "comment_count": 1,
+    "rating": 1,
+    "images": [
+      {
+        "id": 4399643,
+        "full_path": "https://salt.tikicdn.com/ts/review/d1/4c/2e/f8a7b17582011bb105d7dfa873cdeada.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4399644,
+        "full_path": "https://salt.tikicdn.com/ts/review/75/be/87/c636683e68314523d9d170a3a38c3141.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1741775761,
+    "created_by": {
+      "id": 20691262,
+      "name": "Trần Hùng",
+      "full_name": "Trần Hùng",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-03-10 21:20:40",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1741527757,
+      "contribute_info": {
+        "id": 20691262,
+        "name": "Trần Hùng",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 7,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán SÁCH SBOOKS HÀ NỘI"
+    ],
+    "product_attributes": [],
+    "spid": 275833056,
+    "is_photo": true,
+    "seller": {
+      "id": 354790,
+      "name": "SÁCH SBOOKS HÀ NỘI",
+      "logo": "44/fe/8b/e8d66cf43e03b62b0e6e4da99d19475d.jpg"
+    },
+    "product_id": 275833055,
+    "timeline": {
+      "review_created_date": "2025-03-12 17:36:01",
+      "delivery_date": "2025-03-12 16:06:01",
+      "current_date": "2025-04-30 12:36:29",
+      "content": "Đã dùng 2 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+    },
+    "comments": [
+      {
+        "id": 3313377,
+        "review_id": 20095097,
+        "commentator": "tikicare",
+        "customer_id": 0,
+        "fullname": "Tiki Care",
+        "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+        "content": "Chào bạn, cám ơn bạn đã để lại nhận xét qua kiểm tra Tiki thấy yêu cầu của bạn đang được hỗ trợ tại mã yêu cầu #04308273 nhờ bạn kiểm tra giúp Tiki nhé, cám ơn bạn.\n",
+        "score": 0,
+        "create_at": 1741775875,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 1,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 20057249,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15552273,
+    "customer_id": 8447381,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1735432170,
+    "created_by": {
+      "id": 8447381,
+      "name": "Minh Phúc",
+      "full_name": "Minh Phúc",
+      "region": null,
+      "avatar_url": "http://s120.avatar.talk.zdn.vn/b/2/6/9/37/120/0873918e852c434ef43fb02524dd1eb6.jpg",
+      "created_time": "2018-10-15 12:12:05",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1735100214,
+      "contribute_info": {
+        "id": 8447381,
+        "name": "Minh Phúc",
+        "avatar": "http://s120.avatar.talk.zdn.vn/b/2/6/9/37/120/0873918e852c434ef43fb02524dd1eb6.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 7,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán SÁCH SBOOKS HÀ NỘI"
+    ],
+    "product_attributes": [],
+    "spid": 275833056,
+    "is_photo": false,
+    "seller": {
+      "id": 354790,
+      "name": "SÁCH SBOOKS HÀ NỘI",
+      "logo": "44/fe/8b/e8d66cf43e03b62b0e6e4da99d19475d.jpg"
+    },
+    "product_id": 275833055,
+    "timeline": {
+      "review_created_date": "2024-12-29 07:29:30",
+      "delivery_date": "2024-12-27 09:51:55",
+      "current_date": "2025-04-30 12:36:29",
+      "content": "Đã dùng 2 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 20038009,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15493921,
+    "customer_id": 7715186,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1732669398,
+    "created_by": {
+      "id": 7715186,
+      "name": "Huỳnh Thanh Tân",
+      "full_name": "Huỳnh Thanh Tân",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/73/d1/27/f761a40cdce75434da9553c0f45d2794.png",
+      "created_time": "2018-08-21 14:00:30",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1729437299,
+      "contribute_info": {
+        "id": 7715186,
+        "name": "Huỳnh Thanh Tân",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/73/d1/27/f761a40cdce75434da9553c0f45d2794.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 19,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán SÁCH SBOOKS HÀ NỘI"
+    ],
+    "product_attributes": [],
+    "spid": 275833056,
+    "is_photo": false,
+    "seller": {
+      "id": 354790,
+      "name": "SÁCH SBOOKS HÀ NỘI",
+      "logo": "44/fe/8b/e8d66cf43e03b62b0e6e4da99d19475d.jpg"
+    },
+    "product_id": 275833055,
+    "timeline": {
+      "review_created_date": "2024-11-27 08:03:18",
+      "delivery_date": "2024-10-22 13:36:26",
+      "current_date": "2025-04-30 12:36:29",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

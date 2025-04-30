@@ -1,0 +1,96 @@
+[
+  {
+    "id": 20104991,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15723181,
+    "customer_id": 30296330,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1743524180,
+    "created_by": {
+      "id": 30296330,
+      "name": "Kiều Tùng Lâm",
+      "full_name": "Kiều Tùng Lâm",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/6e/7f/e0/61c7d580128564ea3b4bfcb8ee83e1d5.png",
+      "created_time": "2025-02-16 18:14:04",
+      "group_id": 7,
+      "purchased": true,
+      "purchased_at": 1743159729,
+      "contribute_info": {
+        "id": 30296330,
+        "name": "Kiều Tùng Lâm",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/6e/7f/e0/61c7d580128564ea3b4bfcb8ee83e1d5.png",
+        "summary": {
+          "joined_time": "Đã tham gia 2 tháng",
+          "total_review": 14,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sống Official"
+    ],
+    "product_attributes": [],
+    "spid": 277515696,
+    "is_photo": false,
+    "seller": {
+      "id": 111899,
+      "name": "Sống Official",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/15/9e/ba/9e738b2510a755e5f27423ffb62aa0c7.jpg"
+    },
+    "product_id": 277515695,
+    "timeline": {
+      "review_created_date": "2025-04-01 23:16:20",
+      "delivery_date": "2025-03-31 16:04:16",
+      "current_date": "2025-04-30 13:09:35",
+      "content": "Đã dùng 1 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+    },
+    "comments": [
+      {
+        "id": 3318767,
+        "review_id": 20104991,
+        "commentator": "seller",
+        "customer_id": 111899,
+        "fullname": "Sống Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/15/9e/ba/9e738b2510a755e5f27423ffb62aa0c7.jpg",
+        "content": "Cảm ơn bạn đã mua sách tại shop. Rất vui vì bạn đã có những trải nghiệm tốt đẹp với sản phẩm của shop. Hy vọng được tiếp tục phục vụ bạn trong tương lai",
+        "score": 0,
+        "create_at": 1744081967,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "id": 19952654,
+    "title": "Hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15299534,
+    "customer_id": 5633843,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1723465679,
+    "created_by": {
+      "id": 5633843,
+      "name": "Ananda Nguyễn ",
+      "full_name": "Ananda Nguyễn ",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2017-08-25 20:59:58",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1723078691,
+      "contribute_info": {
+        "id": 5633843,
+        "name": "Ananda Nguyễn ",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 121,
+          "total_thank": 5
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Nhà sách NetaBooks"
+    ],
+    "product_attributes": [],
+    "spid": 274863518,
+    "is_photo": false,
+    "seller": {
+      "id": 57167,
+      "name": "Nhà sách NetaBooks",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/33/f2/97/e245fe4d226f0e26fb1cc7ba3741d661.jpg"
+    },
+    "product_id": 274863517,
+    "timeline": {
+      "review_created_date": "2024-08-12 19:27:59",
+      "delivery_date": "2024-08-12 14:51:43",
+      "current_date": "2025-04-30 13:17:04",
+      "content": "Đã dùng 5 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": 20060603,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15564337,
+    "customer_id": 10204578,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1736003388,
+    "created_by": {
+      "id": 10204578,
+      "name": "Mai Kiều",
+      "full_name": "Mai Kiều",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/af/08/98/7d7931f4ec4168256b185652d7484a7b.png",
+      "created_time": "2019-01-06 01:17:21",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1735313103,
+      "contribute_info": {
+        "id": 10204578,
+        "name": "Mai Kiều",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/af/08/98/7d7931f4ec4168256b185652d7484a7b.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 2,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Puma Books Việt Nam"
+    ],
+    "product_attributes": [],
+    "spid": 274364834,
+    "is_photo": false,
+    "seller": {
+      "id": 351069,
+      "name": "Puma Books Việt Nam",
+      "logo": "2d/d4/8b/fcf34169dcb40fa59c780f806ac052b7.jpg"
+    },
+    "product_id": 274364833,
+    "timeline": {
+      "review_created_date": "2025-01-04 22:09:48",
+      "delivery_date": "2025-01-02 14:58:06",
+      "current_date": "2025-04-30 11:24:32",
+      "content": "Đã dùng 2 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+    },
+    "comments": [
+      {
+        "id": 3296486,
+        "review_id": 20060603,
+        "commentator": "seller",
+        "customer_id": 351069,
+        "fullname": "Puma Books Việt Nam",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/2d/d4/8b/fcf34169dcb40fa59c780f806ac052b7.jpg",
+        "content": "Cảm ơn ý kiến đóng góp của anh/chị dành cho bộ sách. Mong anh chị sẽ tiếp tục ủng hộ ấn phẩm của Pumabooks trong tương lai! Trân trọng, Pumabooks",
+        "score": 0,
+        "create_at": 1736159425,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

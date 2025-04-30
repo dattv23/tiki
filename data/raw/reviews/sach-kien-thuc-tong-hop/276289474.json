@@ -1,0 +1,102 @@
+[
+  {
+    "id": 20091403,
+    "title": "Hài lòng",
+    "content": "Cuốn sách về sự hình thành của AI, không chỉ về mặt khoa học mà còn xung đột và khát vọng.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 33.33333333,
+    "new_score": 0.16766508,
+    "customer_id": 21014494,
+    "comment_count": 1,
+    "rating": 4,
+    "images": [
+      {
+        "id": 4398699,
+        "full_path": "https://salt.tikicdn.com/ts/review/97/9b/de/50aae8f40b0e986dc04e3d1a666c85d8.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1741156557,
+    "created_by": {
+      "id": 21014494,
+      "name": "Hoàng Quốc Khánh",
+      "full_name": "Hoàng Quốc Khánh",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/fd/bc/ee/6898ae1e9ebda7e86b70d76fe0664c38.png",
+      "created_time": "2021-03-24 20:26:22",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1741078646,
+      "contribute_info": {
+        "id": 21014494,
+        "name": "Hoàng Quốc Khánh",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/fd/bc/ee/6898ae1e9ebda7e86b70d76fe0664c38.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 236,
+          "total_thank": 32
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiki Trading"
+    ],
+    "product_attributes": [],
+    "spid": 276289477,
+    "is_photo": true,
+    "seller": {
+      "id": 1,
+      "name": "Tiki Trading",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+    },
+    "product_id": 276289474,
+    "timeline": {
+      "review_created_date": "2025-03-05 13:35:57",
+      "delivery_date": "2025-03-05 09:09:47",
+      "current_date": "2025-04-30 12:16:51",
+      "content": "Đã dùng 4 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 giờ."
+    },
+    "comments": [
+      {
+        "id": 3311454,
+        "review_id": 20091403,
+        "commentator": "seller",
+        "customer_id": 1,
+        "fullname": "Tiki Trading",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+        "content": "Cảm ơn bạn đã phản hồi và bên cạnh đó Tiki cũng rất cảm ơn những góp ý chân thành từ bạn. Tiki sẽ nỗ lực hơn trong việc mang đến những trải nghiệm tốt nhất cho người dùng cũng như ghi nhận những thiếu sót để hoàn thiện hơn trong tương lai. Mong bạn sẽ tiếp tục tin tưởng và đồng hành cùng Tiki nhé.",
+        "score": 0,
+        "create_at": 1741252848,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  }
+]

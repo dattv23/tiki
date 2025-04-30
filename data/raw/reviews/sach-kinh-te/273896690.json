@@ -1,0 +1,1185 @@
+[
+  {
+    "id": 18728373,
+    "title": "Cực kì hài lòng",
+    "content": "Sách hình thức tốt, nội dung hay, dịch vụ Tiki tốt, chấm cho 09 điểm. Mình lười up hình thông cảm và cho thưởng hé.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.01095193,
+    "new_score": 0.16164138,
+    "customer_id": 5335406,
+    "comment_count": 2,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4100482,
+        "full_path": "https://salt.tikicdn.com/ts/review/e7/72/09/ec33d68610be23cb0c1ba5a9330a3f29.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4100483,
+        "full_path": "https://salt.tikicdn.com/ts/review/04/93/97/b3cd3308850a4b65718fa1ae13203ffe.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4100484,
+        "full_path": "https://salt.tikicdn.com/ts/review/6a/a4/e2/733d5364001ca4b5e45faf1eedb21571.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1675389534,
+    "created_by": {
+      "id": 5335406,
+      "name": "Duy Anh Phạm",
+      "full_name": "Duy Anh Phạm",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/dd/c7/ab/fe6e4a64adaf4449c45bfed4433257e1.png",
+      "created_time": "2017-06-01 10:17:24",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1668144431,
+      "contribute_info": {
+        "id": 5335406,
+        "name": "Duy Anh Phạm",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/dd/c7/ab/fe6e4a64adaf4449c45bfed4433257e1.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 201,
+          "total_thank": 11
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official",
+      "Năm tái bản Tái Bản Mới Nhất"
+    ],
+    "product_attributes": [
+      "Năm tái bản: Tái Bản Mới Nhất"
+    ],
+    "spid": 59323688,
+    "is_photo": true,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "fe/30/be/e4571a635a63796eee9b2ae1fe7e687a.jpg"
+    },
+    "product_id": 273896690,
+    "timeline": {
+      "review_created_date": "2023-02-03 08:58:54",
+      "delivery_date": "2022-11-14 08:23:25",
+      "current_date": "2025-04-30 06:48:54",
+      "content": "Đã dùng 3 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+    },
+    "comments": [
+      {
+        "id": 3190221,
+        "review_id": 18728373,
+        "commentator": "customer",
+        "customer_id": 1340,
+        "fullname": "Mai Trang",
+        "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+        "content": "Sách dịch rất cẩu thả, sai vô số kể, tái bản lần 3 mà vẫn như vậy, chất lượng của alpha books thể hiện rõ qua sản phẩm",
+        "score": 0,
+        "create_at": 1714971073,
+        "badge": "",
+        "status": 1,
+        "is_reported": false
+      },
+      {
+        "id": 2868440,
+        "review_id": 18728373,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và mua sách tại shop. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa, đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nhé. Hy vọng sẽ được tiếp tục phục vụ bạn trong tương lai!",
+        "score": 0,
+        "create_at": 1675666784,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "Nội dung bổ ích",
+        "Trình bày/Bố cục dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19669139,
+    "title": "Hài lòng",
+    "content": "Dịch không sát nghĩa lắm nên khó đọc , phải đọc mấy lần 1 đoạn mới nắm được ý .",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.06033453,
+    "new_score": 0.15581082,
+    "customer_id": 6757004,
+    "comment_count": 1,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1701443638,
+    "created_by": {
+      "id": 6757004,
+      "name": "Dương Xuân Danh",
+      "full_name": "Dương Xuân Danh",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-03-20 19:42:04",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1701155735,
+      "contribute_info": {
+        "id": 6757004,
+        "name": "Dương Xuân Danh",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 61,
+          "total_thank": 10
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official",
+      "Năm tái bản Tái Bản Mới Nhất"
+    ],
+    "product_attributes": [
+      "Năm tái bản: Tái Bản Mới Nhất"
+    ],
+    "spid": 59323688,
+    "is_photo": false,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "fe/30/be/e4571a635a63796eee9b2ae1fe7e687a.jpg"
+    },
+    "product_id": 273896690,
+    "timeline": {
+      "review_created_date": "2023-12-01 22:13:58",
+      "delivery_date": "2023-11-30 11:01:38",
+      "current_date": "2025-04-30 06:48:54",
+      "content": "Đã dùng 1 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+    },
+    "comments": [
+      {
+        "id": 3090000,
+        "review_id": 19669139,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và ủng hộ chúng mình nha. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa và thật nhiều kiến thức bổ ích nhé. Đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nè. Hy vọng được phục vụ bạn trong tương lai!",
+        "score": 0,
+        "create_at": 1701478743,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 19939998,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15274168,
+    "customer_id": 12029622,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1722264706,
+    "created_by": {
+      "id": 12029622,
+      "name": "Gia Bao Truong Thanh",
+      "full_name": "Gia Bao Truong Thanh",
+      "region": null,
+      "avatar_url": "https://lh4.googleusercontent.com/-bD9_Bwf9THI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfJQ0vAGG0UwsHGQwpCNH9kWVjL7g/mo/photo.jpg",
+      "created_time": "2019-05-10 11:22:28",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1720286507,
+      "contribute_info": {
+        "id": 12029622,
+        "name": "Gia Bao Truong Thanh",
+        "avatar": "https://lh4.googleusercontent.com/-bD9_Bwf9THI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfJQ0vAGG0UwsHGQwpCNH9kWVjL7g/mo/photo.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 119,
+          "total_thank": 5
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official",
+      "Năm tái bản Tái Bản Mới Nhất"
+    ],
+    "product_attributes": [
+      "Năm tái bản: Tái Bản Mới Nhất"
+    ],
+    "spid": 59323688,
+    "is_photo": false,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg"
+    },
+    "product_id": 273896690,
+    "timeline": {
+      "review_created_date": "2024-07-29 21:51:46",
+      "delivery_date": "2024-07-09 16:29:08",
+      "current_date": "2025-04-30 06:48:54",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [
+      {
+        "id": 3232186,
+        "review_id": 19939998,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và ủng hộ chúng mình nha. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa và thật nhiều kiến thức bổ ích nhé. Đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nè. Hy vọng được phục vụ bạn trong tương lai!",
+        "score": 0,
+        "create_at": 1722397089,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 1,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "Nội dung bổ ích",
+        "Trình bày/Bố cục dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19679718,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.09988443,
+    "new_score": 0.15153948,
+    "customer_id": 216401,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4318669,
+        "full_path": "https://salt.tikicdn.com/ts/review/f0/05/61/9be20d745fe856161f5f98f7ec568e7b.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1702368466,
+    "created_by": {
+      "id": 216401,
+      "name": "Clovis Ruan",
+      "full_name": "Clovis Ruan",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2013-11-27 16:52:03",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1700836746,
+      "contribute_info": {
+        "id": 216401,
+        "name": "Clovis Ruan",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 12 năm",
+          "total_review": 11,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official",
+      "Năm tái bản Tái Bản Mới Nhất"
+    ],
+    "product_attributes": [
+      "Năm tái bản: Tái Bản Mới Nhất"
+    ],
+    "spid": 59323688,
+    "is_photo": true,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "fe/30/be/e4571a635a63796eee9b2ae1fe7e687a.jpg"
+    },
+    "product_id": 273896690,
+    "timeline": {
+      "review_created_date": "2023-12-12 15:07:46",
+      "delivery_date": "2023-11-27 14:44:52",
+      "current_date": "2025-04-30 06:48:54",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [
+      {
+        "id": 3094403,
+        "review_id": 19679718,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và ủng hộ chúng mình nha. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa và thật nhiều kiến thức bổ ích nhé. Đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nè. Hy vọng được phục vụ bạn trong tương lai!",
+        "score": 0,
+        "create_at": 1702431168,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "Nội dung bổ ích",
+        "Trình bày/Bố cục dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19621715,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.0333796,
+    "new_score": 0.14777328,
+    "customer_id": 13552453,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1698740688,
+    "created_by": {
+      "id": 13552453,
+      "name": "Tô Ngọc Huyền Thi",
+      "full_name": "Tô Ngọc Huyền Thi",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2019-08-19 21:17:36",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1687720178,
+      "contribute_info": {
+        "id": 13552453,
+        "name": "Tô Ngọc Huyền Thi",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 4,
+          "total_thank": 3
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official",
+      "Năm tái bản Tái Bản Mới Nhất"
+    ],
+    "product_attributes": [
+      "Năm tái bản: Tái Bản Mới Nhất"
+    ],
+    "spid": 59323688,
+    "is_photo": false,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "fe/30/be/e4571a635a63796eee9b2ae1fe7e687a.jpg"
+    },
+    "product_id": 273896690,
+    "timeline": {
+      "review_created_date": "2023-10-31 15:24:48",
+      "delivery_date": "2023-06-28 13:12:34",
+      "current_date": "2025-04-30 06:48:54",
+      "content": "Đã dùng 4 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 tháng."
+    },
+    "comments": [
+      {
+        "id": 3070097,
+        "review_id": 19621715,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và mua sách tại shop. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa, đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nhé. Hy vọng sẽ được tiếp tục phục vụ bạn trong tương lai!",
+        "score": 0,
+        "create_at": 1698765373,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19325105,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.01180541,
+    "new_score": 0.14543692,
+    "customer_id": 8966245,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1687678679,
+    "created_by": {
+      "id": 8966245,
+      "name": "Chính Nguyễn",
+      "full_name": "Chính Nguyễn",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-11-13 21:25:43",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1686976796,
+      "contribute_info": {
+        "id": 8966245,
+        "name": "Chính Nguyễn",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 225,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official",
+      "Năm tái bản Tái Bản Mới Nhất"
+    ],
+    "product_attributes": [
+      "Năm tái bản: Tái Bản Mới Nhất"
+    ],
+    "spid": 59323688,
+    "is_photo": false,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "fe/30/be/e4571a635a63796eee9b2ae1fe7e687a.jpg"
+    },
+    "product_id": 273896690,
+    "timeline": {
+      "review_created_date": "2023-06-25 14:37:59",
+      "delivery_date": "2023-06-21 14:49:10",
+      "current_date": "2025-04-30 06:48:54",
+      "content": "Đã dùng 4 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 ngày."
+    },
+    "comments": [
+      {
+        "id": 3002351,
+        "review_id": 19325105,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và mua sách tại shop. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa, đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nhé. Hy vọng sẽ được tiếp tục phục vụ bạn trong tương lai!",
+        "score": 0,
+        "create_at": 1687684687,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19324575,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.01179548,
+    "new_score": 0.14543438,
+    "customer_id": 113690,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1687666652,
+    "created_by": {
+      "id": 113690,
+      "name": "Phan Đình Tuấn Anh",
+      "full_name": "Phan Đình Tuấn Anh",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2013-04-19 22:00:22",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1687527334,
+      "contribute_info": {
+        "id": 113690,
+        "name": "Phan Đình Tuấn Anh",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 12 năm",
+          "total_review": 152,
+          "total_thank": 7
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official",
+      "Năm tái bản Tái Bản Mới Nhất"
+    ],
+    "product_attributes": [
+      "Năm tái bản: Tái Bản Mới Nhất"
+    ],
+    "spid": 59323688,
+    "is_photo": false,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "fe/30/be/e4571a635a63796eee9b2ae1fe7e687a.jpg"
+    },
+    "product_id": 273896690,
+    "timeline": {
+      "review_created_date": "2023-06-25 11:17:32",
+      "delivery_date": "2023-06-25 09:55:10",
+      "current_date": "2025-04-30 06:48:54",
+      "content": "Đã dùng 1 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+    },
+    "comments": [
+      {
+        "id": 3002313,
+        "review_id": 19324575,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và mua sách tại shop. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa, đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nhé. Hy vọng sẽ được tiếp tục phục vụ bạn trong tương lai!",
+        "score": 0,
+        "create_at": 1687669390,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19308277,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.0114606,
+    "new_score": 0.1453287,
+    "customer_id": 11476110,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1687166301,
+    "created_by": {
+      "id": 11476110,
+      "name": "Phạm Trang",
+      "full_name": "Phạm Trang",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2019-03-24 21:31:49",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1686722012,
+      "contribute_info": {
+        "id": 11476110,
+        "name": "Phạm Trang",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 596,
+          "total_thank": 37
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official",
+      "Năm tái bản Tái Bản Mới Nhất"
+    ],
+    "product_attributes": [
+      "Năm tái bản: Tái Bản Mới Nhất"
+    ],
+    "spid": 59323688,
+    "is_photo": false,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "fe/30/be/e4571a635a63796eee9b2ae1fe7e687a.jpg"
+    },
+    "product_id": 273896690,
+    "timeline": {
+      "review_created_date": "2023-06-19 16:18:21",
+      "delivery_date": "2023-06-17 16:18:23",
+      "current_date": "2025-04-30 06:48:54",
+      "content": "Đã dùng 2 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+    },
+    "comments": [
+      {
+        "id": 2995858,
+        "review_id": 19308277,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và mua sách tại shop. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa, đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nhé. Hy vọng sẽ được tiếp tục phục vụ bạn trong tương lai!",
+        "score": 0,
+        "create_at": 1687234210,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18159355,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.0054871,
+    "new_score": 0.14127591,
+    "customer_id": 1382299,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1667977490,
+    "created_by": {
+      "id": 1382299,
+      "name": "The Tran",
+      "full_name": "The Tran",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2016-05-25 11:19:57",
+      "group_id": 30,
+      "purchased": true,
+      "purchased_at": 1667109786,
+      "contribute_info": {
+        "id": 1382299,
+        "name": "The Tran",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 9 năm",
+          "total_review": 55,
+          "total_thank": 17
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official",
+      "Năm tái bản Tái Bản Mới Nhất"
+    ],
+    "product_attributes": [
+      "Năm tái bản: Tái Bản Mới Nhất"
+    ],
+    "spid": 59323688,
+    "is_photo": false,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "fe/30/be/e4571a635a63796eee9b2ae1fe7e687a.jpg"
+    },
+    "product_id": 273896690,
+    "timeline": {
+      "review_created_date": "2022-11-09 14:04:50",
+      "delivery_date": "2022-11-01 13:10:07",
+      "current_date": "2025-04-30 06:48:55",
+      "content": "Đã dùng 8 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 ngày."
+    },
+    "comments": [
+      {
+        "id": 2747456,
+        "review_id": 18159355,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và mua sách tại shop. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa, đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nhé. Hy vọng sẽ được tiếp tục phục vụ bạn trong tương lai!!!",
+        "score": 0,
+        "create_at": 1668066893,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 1,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 15981525,
+    "title": "Cực kì hài lòng",
+    "content": "Sp ok",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.00370542,
+    "new_score": 0.13787057,
+    "customer_id": 8165661,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1650275883,
+    "created_by": {
+      "id": 8165661,
+      "name": "Q Ivan",
+      "full_name": "Q Ivan",
+      "region": null,
+      "avatar_url": "https://lh5.googleusercontent.com/-UvVAVx9ONVc/AAAAAAAAAAI/AAAAAAAAAzA/LTGScSsfvtQ/photo.jpg",
+      "created_time": "2018-10-01 16:33:50",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1650040342,
+      "contribute_info": {
+        "id": 8165661,
+        "name": "Q Ivan",
+        "avatar": "https://lh5.googleusercontent.com/-UvVAVx9ONVc/AAAAAAAAAAI/AAAAAAAAAzA/LTGScSsfvtQ/photo.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 9,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official",
+      "Năm tái bản Tái Bản Mới Nhất"
+    ],
+    "product_attributes": [
+      "Năm tái bản: Tái Bản Mới Nhất"
+    ],
+    "spid": 59323688,
+    "is_photo": false,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "fe/30/be/e4571a635a63796eee9b2ae1fe7e687a.jpg"
+    },
+    "product_id": 273896690,
+    "timeline": {
+      "review_created_date": "2022-04-18 16:58:03",
+      "delivery_date": "2022-04-17 08:45:34",
+      "current_date": "2025-04-30 06:48:55",
+      "content": "Đã dùng 1 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+    },
+    "comments": [
+      {
+        "id": 2301706,
+        "review_id": 15981525,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và mua sách tại shop...Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa, đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nhé. Hy vọng sẽ được tiếp tục phục vụ bạn trong tương lai!!!",
+        "score": 0,
+        "create_at": 1650595705,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 14435661,
+    "title": "Cực kì hài lòng",
+    "content": "Sách hay",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.00322107,
+    "new_score": 0.13640564,
+    "customer_id": 26315757,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1642077271,
+    "created_by": {
+      "id": 26315757,
+      "name": "Hoàng Huỳnh",
+      "full_name": "Hoàng Huỳnh",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2022-01-02 15:40:08",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1641614716,
+      "contribute_info": {
+        "id": 26315757,
+        "name": "Hoàng Huỳnh",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 3 năm",
+          "total_review": 3,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official",
+      "Năm tái bản Tái Bản Mới Nhất"
+    ],
+    "product_attributes": [
+      "Năm tái bản: Tái Bản Mới Nhất"
+    ],
+    "spid": 59323688,
+    "is_photo": false,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "fe/30/be/e4571a635a63796eee9b2ae1fe7e687a.jpg"
+    },
+    "product_id": 273896690,
+    "timeline": {
+      "review_created_date": "2022-01-13 19:34:31",
+      "delivery_date": "2022-01-13 13:05:07",
+      "current_date": "2025-04-30 06:48:56",
+      "content": "Đã dùng 6 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 giờ."
+    },
+    "comments": [
+      {
+        "id": 2013003,
+        "review_id": 14435661,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn, rất vui vì đã được phục vụ bạn!!!",
+        "score": 0,
+        "create_at": 1642122834,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 14895706,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.00335332,
+    "new_score": 0.13632846,
+    "customer_id": 7786634,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1644552697,
+    "created_by": {
+      "id": 7786634,
+      "name": "Jiahui Huang",
+      "full_name": "Jiahui Huang",
+      "region": null,
+      "avatar_url": "https://s120.avatar.talk.zdn.vn/0/9/5/1/15/120/c189a5f1cbda723dfb2c35bc9efb5906.jpg",
+      "created_time": "2018-08-24 16:14:00",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1636593988,
+      "contribute_info": {
+        "id": 7786634,
+        "name": "Jiahui Huang",
+        "avatar": "https://s120.avatar.talk.zdn.vn/0/9/5/1/15/120/c189a5f1cbda723dfb2c35bc9efb5906.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 3,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [
+      "Chất lượng tốt"
+    ],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official",
+      "Năm tái bản Tái Bản Mới Nhất"
+    ],
+    "product_attributes": [
+      "Năm tái bản: Tái Bản Mới Nhất"
+    ],
+    "spid": 59323688,
+    "is_photo": false,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "fe/30/be/e4571a635a63796eee9b2ae1fe7e687a.jpg"
+    },
+    "product_id": 273896690,
+    "timeline": {
+      "review_created_date": "2022-02-11 11:11:37",
+      "delivery_date": "2021-11-14 11:20:30",
+      "current_date": "2025-04-30 06:48:56",
+      "content": "Đã dùng 3 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+    },
+    "comments": [
+      {
+        "id": 2140896,
+        "review_id": 14895706,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn, rất vui được phục vụ bạn. Đừng quên tiếp tục ủng hộ shop khi có nhu cầu mua sách nhé🧡",
+        "score": 0,
+        "create_at": 1646193922,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 12447702,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.00283004,
+    "new_score": 0.13397572,
+    "customer_id": 7478213,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1633413109,
+    "created_by": {
+      "id": 7478213,
+      "name": "Nguyên Lê",
+      "full_name": "Nguyên Lê",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-07-16 17:45:52",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1631295542,
+      "contribute_info": {
+        "id": 7478213,
+        "name": "Nguyên Lê",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 128,
+          "total_thank": 11
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official",
+      "Năm tái bản Tái Bản Mới Nhất"
+    ],
+    "product_attributes": [
+      "Năm tái bản: Tái Bản Mới Nhất"
+    ],
+    "spid": 59323688,
+    "is_photo": false,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "fe/30/be/e4571a635a63796eee9b2ae1fe7e687a.jpg"
+    },
+    "product_id": 273896690,
+    "timeline": {
+      "review_created_date": "2021-10-05 12:51:49",
+      "delivery_date": "2021-10-05 09:37:03",
+      "current_date": "2025-04-30 06:48:57",
+      "content": "Đã dùng 3 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 giờ."
+    },
+    "comments": [
+      {
+        "id": 1626311,
+        "review_id": 12447702,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alphabooks Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn, sự hài lòng của bạn chính là nguồn động lực lớn để chúng tôi tiếp tục cải thiện chất lượng phục vụ, nếu có nhu cầu, rất mong bạn tiếp tục ủng hộ shop nhé!!",
+        "score": 0,
+        "create_at": 1633537108,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 1,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 11490179,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.00261213,
+    "new_score": 0.13271812,
+    "customer_id": 6670601,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1627458746,
+    "created_by": {
+      "id": 6670601,
+      "name": "Ái Lan Tôn Nữ",
+      "full_name": "Ái Lan Tôn Nữ",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-03-09 15:19:29",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1622711026,
+      "contribute_info": {
+        "id": 6670601,
+        "name": "Ái Lan Tôn Nữ",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 285,
+          "total_thank": 3
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official",
+      "Năm tái bản Tái Bản Mới Nhất"
+    ],
+    "product_attributes": [
+      "Năm tái bản: Tái Bản Mới Nhất"
+    ],
+    "spid": 59323688,
+    "is_photo": false,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "fe/30/be/e4571a635a63796eee9b2ae1fe7e687a.jpg"
+    },
+    "product_id": 273896690,
+    "comments": [
+      {
+        "id": 1463075,
+        "review_id": 11490179,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alphabooks Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và mua sách tại shop...Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa, đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nhé. Hy vọng sẽ được tiếp tục phục vụ bạn trong tương lai!!!",
+        "score": 0,
+        "create_at": 1628273766,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 1,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

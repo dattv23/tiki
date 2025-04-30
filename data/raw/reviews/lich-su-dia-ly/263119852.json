@@ -1,0 +1,226 @@
+[
+  {
+    "id": 20101305,
+    "title": "Cực kì hài lòng",
+    "content": "Một quyển sách rất thú vị và có ích cho chuyến du lịch Ai Cập sắp tới của tôi. Sách đẹp, giấy in in tốt.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 33.33333333,
+    "new_score": 0.1692913,
+    "customer_id": 199819,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4400867,
+        "full_path": "https://salt.tikicdn.com/ts/review/09/e2/77/0f7c5be1f1027843014c38293b27211c.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1742858929,
+    "created_by": {
+      "id": 199819,
+      "name": "Mai Quỳnh",
+      "full_name": "Mai Quỳnh",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/95/bb/49/43d0dd26f6bd1d2fb8da4f6724ae99b0.png",
+      "created_time": "2013-11-11 09:50:25",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1742037949,
+      "contribute_info": {
+        "id": 199819,
+        "name": "Mai Quỳnh",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/95/bb/49/43d0dd26f6bd1d2fb8da4f6724ae99b0.png",
+        "summary": {
+          "joined_time": "Đã tham gia 12 năm",
+          "total_review": 15,
+          "total_thank": 4
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Korichi Official"
+    ],
+    "product_attributes": [],
+    "spid": 263119853,
+    "is_photo": true,
+    "seller": {
+      "id": 243183,
+      "name": "Korichi Official",
+      "logo": "0a/f8/b4/ea153d8d87e8a1527af84503e7f56de7.png"
+    },
+    "product_id": 263119852,
+    "timeline": {
+      "review_created_date": "2025-03-25 06:28:49",
+      "delivery_date": "2025-03-20 11:09:14",
+      "current_date": "2025-04-30 13:11:06",
+      "content": "Đã dùng 5 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19456092,
+    "title": "Cực kì hài lòng",
+    "content": "Sách giao sớm hơn dự kiến. Bìa sách cứng, đóng gáy chắc chắn, thông tin bổ ích, hình ảnh minh họa đẹp, giúp người đọc dễ tiếp nhận và khắc sâu kiến thức.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.16000186,
+    "customer_id": 16908122,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1691931777,
+    "created_by": {
+      "id": 16908122,
+      "name": "Nguyễn Xuân Lâm",
+      "full_name": "Nguyễn Xuân Lâm",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-03-24 09:13:39",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1691506867,
+      "contribute_info": {
+        "id": 16908122,
+        "name": "Nguyễn Xuân Lâm",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 14,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Korichi Official"
+    ],
+    "product_attributes": [],
+    "spid": 263119853,
+    "is_photo": false,
+    "seller": {
+      "id": 243183,
+      "name": "Korichi Official",
+      "logo": "0a/f8/b4/ea153d8d87e8a1527af84503e7f56de7.png"
+    },
+    "product_id": 263119852,
+    "timeline": {
+      "review_created_date": "2023-08-13 20:02:57",
+      "delivery_date": "2023-08-12 10:03:33",
+      "current_date": "2025-04-30 13:11:06",
+      "content": "Đã dùng 1 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 19758761,
+    "title": "Bình thường",
+    "content": "Nội dung đơn giản, không quá hấp dẫn",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 3.74074074,
+    "new_score": 0.15271142,
+    "customer_id": 137221,
+    "comment_count": 1,
+    "rating": 3,
+    "images": [],
+    "thanked": false,
+    "created_at": 1706970310,
+    "created_by": {
+      "id": 137221,
+      "name": "Hoàng Thanh Tùng",
+      "full_name": "Hoàng Thanh Tùng",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2013-07-21 22:51:14",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1692459529,
+      "contribute_info": {
+        "id": 137221,
+        "name": "Hoàng Thanh Tùng",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 12 năm",
+          "total_review": 20,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Korichi Official"
+    ],
+    "product_attributes": [],
+    "spid": 263119853,
+    "is_photo": false,
+    "seller": {
+      "id": 243183,
+      "name": "Korichi Official",
+      "logo": "0a/f8/b4/ea153d8d87e8a1527af84503e7f56de7.png"
+    },
+    "product_id": 263119852,
+    "timeline": {
+      "review_created_date": "2024-02-03 21:25:10",
+      "delivery_date": "2023-08-23 14:56:34",
+      "current_date": "2025-04-30 13:11:06",
+      "content": "Đã dùng 5 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 tháng."
+    },
+    "comments": [
+      {
+        "id": 3134170,
+        "review_id": 19758761,
+        "commentator": "tikicare",
+        "customer_id": 0,
+        "fullname": "Tiki Care",
+        "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+        "content": "Tiki cảm ơn những chia sẻ và góp ý từ anh Tùng. Thật tiếc khi nội dung sách Sách Ai Cập Cổ Đại - Ancient Egypt - Câu chuyện về nền văn mình bên bờ sông Nile chưa được như anh mong đợi. Rất hy vọng các tựa sách khác tại Tiki sẽ làm anh hài lòng hơn trong thời gian tới. Tiki cảm ơn anh nhiều.\n",
+        "score": 0,
+        "create_at": 1707015795,
+        "badge": "",
+        "status": 1,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

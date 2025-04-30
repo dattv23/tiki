@@ -1,0 +1,2624 @@
+[
+  {
+    "id": 19537392,
+    "title": "Cực kì hài lòng",
+    "content": "Giao nhanh. Đủ bộ. Sách hay, từ từ nghiền ngẫm hi hi. Bọc sách cẩn thận.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 44.44444444,
+    "new_score": 0.16218723,
+    "customer_id": 468498,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4286539,
+        "full_path": "https://salt.tikicdn.com/ts/review/04/08/9e/c02f86093219a7e82b5f72e7a0e60f95.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4286540,
+        "full_path": "https://salt.tikicdn.com/ts/review/bc/cc/df/5518a9a7d713c52c3729739297c96163.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4286541,
+        "full_path": "https://salt.tikicdn.com/ts/review/68/62/1b/75c77361e85909b6e70ff40aff0eff50.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1695018983,
+    "created_by": {
+      "id": 468498,
+      "name": "Nguyễn Hiếu",
+      "full_name": "Nguyễn Hiếu",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/bb/a0/28/1e1ca8b37c403d114321d68c50d9a2b2.png",
+      "created_time": "2014-11-04 16:42:52",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1694755389,
+      "contribute_info": {
+        "id": 468498,
+        "name": "Nguyễn Hiếu",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/bb/a0/28/1e1ca8b37c403d114321d68c50d9a2b2.png",
+        "summary": {
+          "joined_time": "Đã tham gia 11 năm",
+          "total_review": 154,
+          "total_thank": 87
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official"
+    ],
+    "product_attributes": [],
+    "spid": 213974947,
+    "is_photo": true,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/fe/30/be/e4571a635a63796eee9b2ae1fe7e687a.jpg"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-09-18 13:36:23",
+      "delivery_date": "2023-09-18 08:31:19",
+      "current_date": "2025-04-30 06:35:14",
+      "content": "Đã dùng 5 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 giờ."
+    },
+    "comments": [
+      {
+        "id": 3048296,
+        "review_id": 19537392,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và mua sách tại shop. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa, đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nhé. Hy vọng sẽ được tiếp tục phục vụ bạn trong tương lai!",
+        "score": 0,
+        "create_at": 1695089109,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Không hẹn trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 19952460,
+    "title": "Hài lòng",
+    "content": "Một cuốn bị rách nhẹ ở bìa",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 33.33333333,
+    "new_score": 0.15852665,
+    "customer_id": 13046851,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [
+      {
+        "id": 4371490,
+        "full_path": "https://salt.tikicdn.com/ts/review/66/d4/d4/a87efcac646b0e6efaea16ae8f1f51fd.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1723456139,
+    "created_by": {
+      "id": 13046851,
+      "name": "Vu Du",
+      "full_name": "Vu Du",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2019-07-23 14:24:03",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1722826352,
+      "contribute_info": {
+        "id": 13046851,
+        "name": "Vu Du",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 129,
+          "total_thank": 3
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": true,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2024-08-12 16:48:59",
+      "delivery_date": "2024-08-07 15:09:44",
+      "current_date": "2025-04-30 06:35:14",
+      "content": "Đã dùng 5 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19986228,
+    "title": "Cực kì hài lòng",
+    "content": "Có vẻ ổn, chọn nơi bán giá cao để nhận hàng sớm.",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15812448,
+    "customer_id": 13735748,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1726917961,
+    "created_by": {
+      "id": 13735748,
+      "name": "Mr Anh",
+      "full_name": "Mr Anh",
+      "region": null,
+      "avatar_url": "https://lh3.googleusercontent.com/a-/AAuE7mBMs-EObNr-cW_zFdWQYgv0DUzjGrxpUk2_OzQ95g",
+      "created_time": "2019-08-30 20:42:17",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1726904344,
+      "contribute_info": {
+        "id": 13735748,
+        "name": "Mr Anh",
+        "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mBMs-EObNr-cW_zFdWQYgv0DUzjGrxpUk2_OzQ95g",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 3,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": false,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2024-09-21 18:26:01",
+      "delivery_date": "2024-09-21 16:58:06",
+      "current_date": "2025-04-30 06:35:14",
+      "content": "Đã dùng 1 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19390104,
+    "title": "Cực kì hài lòng",
+    "content": "Giao hàng cực nhanh. Sách đống gói đẹp, chất lượng in tốt",
+    "status": "approved",
+    "thank_count": 1,
+    "score": 0.01384226,
+    "new_score": 0.15687403,
+    "customer_id": 16330872,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4255622,
+        "full_path": "https://salt.tikicdn.com/ts/review/3c/10/ac/c9abc32d4587a7620094a9d4d8600181.jpg",
+        "status": "approved"
+      },
+      {
+        "id": 4255623,
+        "full_path": "https://salt.tikicdn.com/ts/review/5e/a0/49/5a601eb4f1274fea9066b6c6b8f8149e.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1689690619,
+    "created_by": {
+      "id": 16330872,
+      "name": "Đỗ Thị Viền",
+      "full_name": "Đỗ Thị Viền",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-02-09 10:00:59",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1688788276,
+      "contribute_info": {
+        "id": 16330872,
+        "name": "Đỗ Thị Viền",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 8,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": true,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-07-18 21:30:19",
+      "delivery_date": "2023-07-08 11:52:16",
+      "current_date": "2025-04-30 06:35:14",
+      "content": "Đã dùng 10 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 10 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19914776,
+    "title": "Cực kì hài lòng",
+    "content": "Sách hay và nhiều kiến thức",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15453798,
+    "customer_id": 5341798,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1719721972,
+    "created_by": {
+      "id": 5341798,
+      "name": "Kim Phượng",
+      "full_name": "Kim Phượng",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2017-06-04 02:54:00",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1707800441,
+      "contribute_info": {
+        "id": 5341798,
+        "name": "Kim Phượng",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 19,
+          "total_thank": 5
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official"
+    ],
+    "product_attributes": [],
+    "spid": 213974947,
+    "is_photo": false,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2024-06-30 11:32:52",
+      "delivery_date": "2024-02-17 09:51:20",
+      "current_date": "2025-04-30 06:35:14",
+      "content": "Đã dùng 4 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 tháng."
+    },
+    "comments": [
+      {
+        "id": 3219139,
+        "review_id": 19914776,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và ủng hộ chúng mình nha. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa và thật nhiều kiến thức bổ ích nhé. Đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nè. Hy vọng được phục vụ bạn trong tương lai!",
+        "score": 0,
+        "create_at": 1719894258,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19981181,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15361679,
+    "customer_id": 29894154,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1726408073,
+    "created_by": {
+      "id": 29894154,
+      "name": "Su Feliz",
+      "full_name": "Su Feliz",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2024-04-14 14:00:59",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1714298111,
+      "contribute_info": {
+        "id": 29894154,
+        "name": "Su Feliz",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 1 năm",
+          "total_review": 1,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Phương Đông Books"
+    ],
+    "product_attributes": [],
+    "spid": 214072937,
+    "is_photo": false,
+    "seller": {
+      "id": 26874,
+      "name": "Phương Đông Books",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/2e/85/b7/e76104ae5f1beaf244f319e2f0d2d413.jpg"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2024-09-15 20:47:53",
+      "delivery_date": "2024-05-04 14:50:47",
+      "current_date": "2025-04-30 06:35:14",
+      "content": "Đã dùng 4 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19976924,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.1535368,
+    "customer_id": 19061529,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1726029381,
+    "created_by": {
+      "id": 19061529,
+      "name": "Nguyen Ba Hoang Oanh",
+      "full_name": "Nguyen Ba Hoang Oanh",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/e7/bb/d0/a74bd2c5d3a0cab8051b627d4f633f88.png",
+      "created_time": "2020-11-03 16:32:28",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1715058328,
+      "contribute_info": {
+        "id": 19061529,
+        "name": "Nguyen Ba Hoang Oanh",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/e7/bb/d0/a74bd2c5d3a0cab8051b627d4f633f88.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 5,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official"
+    ],
+    "product_attributes": [],
+    "spid": 213974947,
+    "is_photo": false,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2024-09-11 11:36:21",
+      "delivery_date": "2024-05-09 10:37:32",
+      "current_date": "2025-04-30 06:35:14",
+      "content": "Đã dùng 4 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 tháng."
+    },
+    "comments": [
+      {
+        "id": 3250352,
+        "review_id": 19976924,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và mua sách tại shop. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa, đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nhé. Hy vọng sẽ được tiếp tục phục vụ bạn trong tương lai!",
+        "score": 0,
+        "create_at": 1726040605,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19088470,
+    "title": "Cực kì hài lòng",
+    "content": "Nên mua và đọc, quá nhiều kiến thức bổ ích, cực kỳ hữu ích cho các bạn học kinh tế tài chính",
+    "status": "approved",
+    "thank_count": 1,
+    "score": 0.00423672,
+    "new_score": 0.15232472,
+    "customer_id": 3720,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1681408147,
+    "created_by": {
+      "id": 3720,
+      "name": "Kate Lo",
+      "full_name": "Kate Lo",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2011-03-19 09:02:33",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1678738553,
+      "contribute_info": {
+        "id": 3720,
+        "name": "Kate Lo",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 14 năm",
+          "total_review": 260,
+          "total_thank": 80
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": false,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-04-14 00:49:07",
+      "delivery_date": "2023-03-16 16:46:15",
+      "current_date": "2025-04-30 06:35:14",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nội dung hay, dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19441670,
+    "title": "Cực kì hài lòng",
+    "content": "Giao sớm + đóng gói bao bì cẩn thận",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 33.33333333,
+    "new_score": 0.15223663,
+    "customer_id": 18677035,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4266983,
+        "full_path": "https://salt.tikicdn.com/ts/review/cd/14/2a/c5e50a6593b61b95e39c10673d36b100.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1691465098,
+    "created_by": {
+      "id": 18677035,
+      "name": "Kha Minh",
+      "full_name": "Kha Minh",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-10-05 11:44:53",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1691374126,
+      "contribute_info": {
+        "id": 18677035,
+        "name": "Quảng Minh Kha",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 43,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official"
+    ],
+    "product_attributes": [],
+    "spid": 213974947,
+    "is_photo": true,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/fe/30/be/e4571a635a63796eee9b2ae1fe7e687a.jpg"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-08-08 10:24:58",
+      "delivery_date": "2023-08-08 08:50:58",
+      "current_date": "2025-04-30 06:35:14",
+      "content": "Đã dùng 2 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+    },
+    "comments": [
+      {
+        "id": 3028688,
+        "review_id": 19441670,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Alpha Books Official\nCảm ơn bạn đã quan tâm và mua sách tại shop. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa, đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nhé. Hy vọng sẽ được tiếp tục phục vụ bạn trong tương lai!",
+        "score": 0,
+        "create_at": 1691476440,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 19909751,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.1520941,
+    "customer_id": 6943209,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1719198574,
+    "created_by": {
+      "id": 6943209,
+      "name": "Bùi Tuệ Minh",
+      "full_name": "Bùi Tuệ Minh",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/78/cd/be/c57733fc89b703a5af689c1f0759139a.png",
+      "created_time": "2018-04-16 16:59:24",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1718414505,
+      "contribute_info": {
+        "id": 6943209,
+        "name": "Bùi Tuệ Minh",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/78/cd/be/c57733fc89b703a5af689c1f0759139a.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 41,
+          "total_thank": 7
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán MHbooks"
+    ],
+    "product_attributes": [],
+    "spid": 207941854,
+    "is_photo": false,
+    "seller": {
+      "id": 47795,
+      "name": "MHbooks",
+      "logo": "34/76/bf/58812d495e07178b1be4004ba0f56657.jpg"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2024-06-24 10:09:34",
+      "delivery_date": "2024-06-16 14:00:58",
+      "current_date": "2025-04-30 06:35:14",
+      "content": "Đã dùng 8 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19908336,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15206063,
+    "customer_id": 8325319,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1719040128,
+    "created_by": {
+      "id": 8325319,
+      "name": "Đinh Khắc Hai",
+      "full_name": "Đinh Khắc Hai",
+      "region": null,
+      "avatar_url": "https://graph.facebook.com/1162455303893971/picture?type=large&return_ssl_resources=1",
+      "created_time": "2018-10-10 12:39:29",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1714141164,
+      "contribute_info": {
+        "id": 8325319,
+        "name": "Đinh Khắc Hai",
+        "avatar": "https://graph.facebook.com/1162455303893971/picture?type=large&return_ssl_resources=1",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 73,
+          "total_thank": 61
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": false,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2024-06-22 14:08:48",
+      "delivery_date": "2024-05-01 12:22:44",
+      "current_date": "2025-04-30 06:35:16",
+      "content": "Đã dùng 2 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19882587,
+    "title": "Cực kì hài lòng",
+    "content": "Ok",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15168593,
+    "customer_id": 22115616,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1716634699,
+    "created_by": {
+      "id": 22115616,
+      "name": "Phượng Xồ",
+      "full_name": "Phượng Xồ",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/a5/a6/c1/fbe653f31f3bdc3f64abc306446d4562.png",
+      "created_time": "2021-06-10 23:05:50",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1716469542,
+      "contribute_info": {
+        "id": 22115616,
+        "name": "Phượng Xồ",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/a5/a6/c1/fbe653f31f3bdc3f64abc306446d4562.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 73,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": false,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2024-05-25 17:58:19",
+      "delivery_date": "2024-05-24 16:40:10",
+      "current_date": "2025-04-30 06:35:16",
+      "content": "Đã dùng 1 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19874911,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15138631,
+    "customer_id": 17615216,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1715847376,
+    "created_by": {
+      "id": 17615216,
+      "name": "Trần Văn Đạt",
+      "full_name": "Trần Văn Đạt",
+      "region": null,
+      "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=695032018018839&height=200&width=200&ext=1595334387&hash=AeRxG6mH9MlswQtl",
+      "created_time": "2020-06-21 19:27:18",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1706614713,
+      "contribute_info": {
+        "id": 17615216,
+        "name": "Trần Văn Đạt",
+        "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=695032018018839&height=200&width=200&ext=1595334387&hash=AeRxG6mH9MlswQtl",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 5,
+          "total_thank": 7
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": false,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2024-05-16 15:16:16",
+      "delivery_date": "2024-01-31 09:30:02",
+      "current_date": "2025-04-30 06:35:16",
+      "content": "Đã dùng 4 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19864935,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15120632,
+    "customer_id": 29709079,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1714995184,
+    "created_by": {
+      "id": 29709079,
+      "name": "Thiện bùi",
+      "full_name": "Thiện bùi",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2024-01-05 16:19:38",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1714923579,
+      "contribute_info": {
+        "id": 29709079,
+        "name": "Thiện bùi",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 1 năm",
+          "total_review": 1,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": false,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2024-05-06 18:33:04",
+      "delivery_date": "2024-05-06 10:33:45",
+      "current_date": "2025-04-30 06:35:16",
+      "content": "Đã dùng 8 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19823117,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.1504893,
+    "customer_id": 8322689,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1711600291,
+    "created_by": {
+      "id": 8322689,
+      "name": "Đỗ Văn Hoàng",
+      "full_name": "Đỗ Văn Hoàng",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-10-10 11:37:40",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1709879282,
+      "contribute_info": {
+        "id": 8322689,
+        "name": "Đỗ Văn Hoàng",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 13,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Phương Đông Books"
+    ],
+    "product_attributes": [],
+    "spid": 214072937,
+    "is_photo": false,
+    "seller": {
+      "id": 26874,
+      "name": "Phương Đông Books",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/2e/85/b7/e76104ae5f1beaf244f319e2f0d2d413.jpg"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2024-03-28 11:31:31",
+      "delivery_date": "2024-03-12 14:54:37",
+      "current_date": "2025-04-30 06:35:16",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19732986,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14921196,
+    "customer_id": 6667733,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1705552435,
+    "created_by": {
+      "id": 6667733,
+      "name": "gold brainf",
+      "full_name": "gold brainf",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-03-09 03:17:16",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1702298019,
+      "contribute_info": {
+        "id": 6667733,
+        "name": "gold brainf",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 2,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": false,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2024-01-18 11:33:55",
+      "delivery_date": "2023-12-13 12:09:36",
+      "current_date": "2025-04-30 06:35:16",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "Bìa đẹp, bắt mắt",
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nội dung hay, dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19721573,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14908847,
+    "customer_id": 23918400,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1704967772,
+    "created_by": {
+      "id": 23918400,
+      "name": "Nguyễn Thu Hằng",
+      "full_name": "Nguyễn Thu Hằng",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/4d/6f/1f/3c0073fa9aec0f5f7954f5d2a40a01c4.png",
+      "created_time": "2021-10-05 16:17:46",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1704906237,
+      "contribute_info": {
+        "id": 23918400,
+        "name": "Nguyễn Thu Hằng",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/4d/6f/1f/3c0073fa9aec0f5f7954f5d2a40a01c4.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 9,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": false,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2024-01-11 17:09:32",
+      "delivery_date": "2024-01-11 15:31:32",
+      "current_date": "2025-04-30 06:35:16",
+      "content": "Đã dùng 2 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19641282,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14797587,
+    "customer_id": 29583215,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1699699924,
+    "created_by": {
+      "id": 29583215,
+      "name": "Đỗ Hoàng Anh",
+      "full_name": "Đỗ Hoàng Anh",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2023-11-10 10:20:49",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1699587739,
+      "contribute_info": {
+        "id": 29583215,
+        "name": "Đỗ Hoàng Anh",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 2 năm",
+          "total_review": 1,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": false,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-11-11 17:52:04",
+      "delivery_date": "2023-11-10 12:44:51",
+      "current_date": "2025-04-30 06:35:16",
+      "content": "Đã dùng 1 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19618523,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14774093,
+    "customer_id": 12420099,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1698587558,
+    "created_by": {
+      "id": 12420099,
+      "name": "Nguyen Linh",
+      "full_name": "Nguyen Linh",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/54/5d/22/ffb0d4bf35fa3f405b6ad2e177e3371c.png",
+      "created_time": "2019-06-08 13:54:49",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1695187573,
+      "contribute_info": {
+        "id": 12420099,
+        "name": "Nguyen Linh",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/54/5d/22/ffb0d4bf35fa3f405b6ad2e177e3371c.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 10,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official"
+    ],
+    "product_attributes": [],
+    "spid": 213974947,
+    "is_photo": false,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/fe/30/be/e4571a635a63796eee9b2ae1fe7e687a.jpg"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-10-29 20:52:38",
+      "delivery_date": "2023-09-22 10:25:38",
+      "current_date": "2025-04-30 06:35:16",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [
+      {
+        "id": 3068822,
+        "review_id": 19618523,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và mua sách tại shop. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa, đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nhé. Hy vọng sẽ được tiếp tục phục vụ bạn trong tương lai!",
+        "score": 0,
+        "create_at": 1698630089,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18823296,
+    "title": "Hài lòng",
+    "content": "Khi đọc các trang bị rời ra, đóng gáy không chắc chắn",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.0644496,
+    "new_score": 0.14771855,
+    "customer_id": 6332145,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1676701875,
+    "created_by": {
+      "id": 6332145,
+      "name": "do tri dung",
+      "full_name": "do tri dung",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-01-09 17:32:24",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1676691498,
+      "contribute_info": {
+        "id": 6332145,
+        "name": "do tri dung",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 115,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": false,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-02-18 13:31:15",
+      "delivery_date": "2023-02-18 13:02:41",
+      "current_date": "2025-04-30 06:35:16",
+      "content": "Đã dùng 29 phút",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 29 phút."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19029316,
+    "title": "Cực kì hài lòng",
+    "content": "Rất tốt",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 33.33333333,
+    "new_score": 0.14758248,
+    "customer_id": 28991914,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4172712,
+        "full_path": "https://salt.tikicdn.com/ts/review/69/7c/5f/99f6d937cb07cbff4b0befb2e89f786c.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1680161033,
+    "created_by": {
+      "id": 28991914,
+      "name": "Lê Tài Khôi",
+      "full_name": "Lê Tài Khôi",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2023-03-26 23:29:36",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1679893962,
+      "contribute_info": {
+        "id": 28991914,
+        "name": "Lê Tài Khôi",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 2 năm",
+          "total_review": 1,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Times Books"
+    ],
+    "product_attributes": [],
+    "spid": 205808262,
+    "is_photo": true,
+    "seller": {
+      "id": 127989,
+      "name": "Times Books",
+      "logo": "a6/11/12/d2b1e40937a3a9953075558b8a80ff2c.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-03-30 14:23:53",
+      "delivery_date": "2023-03-30 14:19:43",
+      "current_date": "2025-04-30 06:35:17",
+      "content": "Đã dùng 4 phút",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 phút."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19508233,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14675576,
+    "customer_id": 8758258,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1693923055,
+    "created_by": {
+      "id": 8758258,
+      "name": "Phong Nguyễn",
+      "full_name": "Phong Nguyễn",
+      "region": null,
+      "avatar_url": "https://lh5.googleusercontent.com/-16FMBmfnXdo/AAAAAAAAAAI/AAAAAAAAAAA/ABtNlbBMl0IMgZI6YtfNjCOy4N5wmUOLUg/mo/photo.jpg",
+      "created_time": "2018-11-04 13:21:03",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1691627662,
+      "contribute_info": {
+        "id": 8758258,
+        "name": "Phong Nguyễn",
+        "avatar": "https://lh5.googleusercontent.com/-16FMBmfnXdo/AAAAAAAAAAI/AAAAAAAAAAA/ABtNlbBMl0IMgZI6YtfNjCOy4N5wmUOLUg/mo/photo.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 1,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": false,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-09-05 21:10:55",
+      "delivery_date": "2023-08-14 11:36:11",
+      "current_date": "2025-04-30 06:35:17",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18792703,
+    "title": "Cực kì hài lòng",
+    "content": "Huu ich",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 33.33333333,
+    "new_score": 0.14649329,
+    "customer_id": 10781891,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [
+      {
+        "id": 4114957,
+        "full_path": "https://salt.tikicdn.com/ts/review/a4/a7/f9/68cfdbc4453eec000535eb612ab81e19.jpg",
+        "status": "approved"
+      }
+    ],
+    "thanked": false,
+    "created_at": 1676266632,
+    "created_by": {
+      "id": 10781891,
+      "name": "Nguyễn Thị Giang",
+      "full_name": "Nguyễn Thị Giang",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2019-02-11 13:28:10",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1676170587,
+      "contribute_info": {
+        "id": 10781891,
+        "name": "Nguyễn Thị Giang",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 227,
+          "total_thank": 5
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": true,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-02-13 12:37:12",
+      "delivery_date": "2023-02-13 09:17:56",
+      "current_date": "2025-04-30 06:35:17",
+      "content": "Đã dùng 3 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19401163,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14593551,
+    "customer_id": 11596459,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1690039387,
+    "created_by": {
+      "id": 11596459,
+      "name": "Hoàng Hoài Nam",
+      "full_name": "Hoàng Hoài Nam",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2019-04-02 15:48:36",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1678379941,
+      "contribute_info": {
+        "id": 11596459,
+        "name": "Hoàng Hoài Nam",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 11,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": false,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-07-22 22:23:07",
+      "delivery_date": "2023-03-10 16:37:20",
+      "current_date": "2025-04-30 06:35:17",
+      "content": "Đã dùng 4 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19262602,
+    "title": "Cực kì hài lòng",
+    "content": "Giao đúng",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14580636,
+    "customer_id": 18829174,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1685955781,
+    "created_by": {
+      "id": 18829174,
+      "name": "Tư Hồng",
+      "full_name": "Tư Hồng",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-10-13 09:18:51",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1677744304,
+      "contribute_info": {
+        "id": 18829174,
+        "name": "Tư Hồng",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 21,
+          "total_thank": 3
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Alpha Books Official"
+    ],
+    "product_attributes": [],
+    "spid": 213974947,
+    "is_photo": false,
+    "seller": {
+      "id": 7247,
+      "name": "Alpha Books Official",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/fe/30/be/e4571a635a63796eee9b2ae1fe7e687a.jpg"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-06-05 16:03:01",
+      "delivery_date": "2023-03-07 11:23:50",
+      "current_date": "2025-04-30 06:35:17",
+      "content": "Đã dùng 3 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+    },
+    "comments": [
+      {
+        "id": 2986484,
+        "review_id": 19262602,
+        "commentator": "seller",
+        "customer_id": 7247,
+        "fullname": "Alpha Books Official",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/38/74/f3/f9cf41005697c643397d9b09d335f4c4.jpg",
+        "content": "Cảm ơn bạn đã quan tâm và mua sách tại shop. Hy vọng cuốn sách sẽ đem đến cho bạn khoảng thời gian ý nghĩa, đừng quên ấn theo dõi shop để cập nhật những cuốn sách hay nhất, mới nhất và những khuyến mãi hấp dẫn nhất nhé. Hy vọng sẽ được tiếp tục phục vụ bạn trong tương lai!",
+        "score": 0,
+        "create_at": 1686020893,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [
+        "Bìa đẹp, bắt mắt",
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nội dung hay, dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19243684,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14496164,
+    "customer_id": 8610687,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1685428360,
+    "created_by": {
+      "id": 8610687,
+      "name": "Phuong Quynh Tran",
+      "full_name": "Phuong Quynh Tran",
+      "region": null,
+      "avatar_url": "http://s120.avatar.talk.zdn.vn/6/d/a/4/2/120/99bb31f82ec2ac85219630b61ecccf1b.jpg",
+      "created_time": "2018-10-25 19:35:14",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1678010407,
+      "contribute_info": {
+        "id": 8610687,
+        "name": "Phuong Quynh Tran",
+        "avatar": "http://s120.avatar.talk.zdn.vn/6/d/a/4/2/120/99bb31f82ec2ac85219630b61ecccf1b.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 6,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Times Books"
+    ],
+    "product_attributes": [],
+    "spid": 205808262,
+    "is_photo": false,
+    "seller": {
+      "id": 127989,
+      "name": "Times Books",
+      "logo": "a6/11/12/d2b1e40937a3a9953075558b8a80ff2c.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-05-30 13:32:40",
+      "delivery_date": "2023-03-08 12:27:24",
+      "current_date": "2025-04-30 06:35:17",
+      "content": "Đã dùng 3 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "Bìa đẹp, bắt mắt",
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nội dung hay, dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19181669,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14461067,
+    "customer_id": 9143901,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1683766625,
+    "created_by": {
+      "id": 9143901,
+      "name": "Nguyễn LƯU TÂM NHƯ ",
+      "full_name": "Nguyễn LƯU TÂM NHƯ ",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-11-23 18:08:09",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1679374478,
+      "contribute_info": {
+        "id": 9143901,
+        "name": "Nguyễn LƯU TÂM NHƯ ",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 20,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": false,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-05-11 07:57:05",
+      "delivery_date": "2023-03-23 12:46:57",
+      "current_date": "2025-04-30 06:35:17",
+      "content": "Đã dùng 2 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "Bìa đẹp, bắt mắt",
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nội dung hay, dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18846604,
+    "title": "Cực kì hài lòng",
+    "content": "Bọc cẩn thận",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14439131,
+    "customer_id": 20131279,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1677046379,
+    "created_by": {
+      "id": 20131279,
+      "name": "Phạm Tuấn Nghĩa",
+      "full_name": "Phạm Tuấn Nghĩa",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-01-31 10:42:34",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1674822865,
+      "contribute_info": {
+        "id": 20131279,
+        "name": "Phạm Tuấn Nghĩa",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 22,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Times Books"
+    ],
+    "product_attributes": [],
+    "spid": 205808262,
+    "is_photo": false,
+    "seller": {
+      "id": 127989,
+      "name": "Times Books",
+      "logo": "a6/11/12/d2b1e40937a3a9953075558b8a80ff2c.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-02-22 13:12:59",
+      "delivery_date": "2023-02-02 09:54:35",
+      "current_date": "2025-04-30 06:35:17",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "Bìa đẹp, bắt mắt",
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nội dung hay, dễ hiểu"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19023879,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14382826,
+    "customer_id": 13884261,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1680062125,
+    "created_by": {
+      "id": 13884261,
+      "name": "Hoàng Phạm Ngọc Ánh",
+      "full_name": "Hoàng Phạm Ngọc Ánh",
+      "region": null,
+      "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2400094153611850&height=200&width=200&ext=1570501682&hash=AeT167VgiapHzQVm",
+      "created_time": "2019-09-08 09:28:44",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1679931221,
+      "contribute_info": {
+        "id": 13884261,
+        "name": "Hoàng Phạm Ngọc Ánh",
+        "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2400094153611850&height=200&width=200&ext=1570501682&hash=AeT167VgiapHzQVm",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 1,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": false,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-03-29 10:55:25",
+      "delivery_date": "2023-03-29 10:13:55",
+      "current_date": "2025-04-30 06:35:17",
+      "content": "Đã dùng 1 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19004294,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14373976,
+    "customer_id": 17762003,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1679643112,
+    "created_by": {
+      "id": 17762003,
+      "name": "Phạm Tiến Long",
+      "full_name": "Phạm Tiến Long",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-07-11 07:50:12",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1679149687,
+      "contribute_info": {
+        "id": 17762003,
+        "name": "Phạm Tiến Long",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 3,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": false,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-03-24 14:31:52",
+      "delivery_date": "2023-03-21 13:37:45",
+      "current_date": "2025-04-30 06:35:17",
+      "content": "Đã dùng 3 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18678324,
+    "title": "Cực kì hài lòng",
+    "content": "Rất ổn",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14334284,
+    "customer_id": 27708815,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1674607337,
+    "created_by": {
+      "id": 27708815,
+      "name": "ĐOÀN VĂN HƯỞNG",
+      "full_name": "ĐOÀN VĂN HƯỞNG",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/13/54/b3/505b2ead8f44e2967e6bd405476aa3b6.jpg",
+      "created_time": "2022-06-20 12:45:13",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1673817279,
+      "contribute_info": {
+        "id": 27708815,
+        "name": "ĐOÀN VĂN HƯỞNG",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/13/54/b3/505b2ead8f44e2967e6bd405476aa3b6.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 3 năm",
+          "total_review": 13,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": false,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-01-25 07:42:17",
+      "delivery_date": "2023-01-20 09:02:33",
+      "current_date": "2025-04-30 06:35:19",
+      "content": "Đã dùng 5 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18891078,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.1433405,
+    "customer_id": 24131676,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1677752729,
+    "created_by": {
+      "id": 24131676,
+      "name": "khuc xuan vuong",
+      "full_name": "khuc xuan vuong",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-10-14 19:30:33",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1673248654,
+      "contribute_info": {
+        "id": 24131676,
+        "name": "khuc xuan vuong",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 74,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiệm sách Minh Hằng"
+    ],
+    "product_attributes": [],
+    "spid": 207941896,
+    "is_photo": false,
+    "seller": {
+      "id": 279977,
+      "name": "Tiệm sách Minh Hằng",
+      "logo": "72/e9/31/97b276a4c1d9e00bf2bac4f286c5b7c9.jpg"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-03-02 17:25:29",
+      "delivery_date": "2023-01-14 10:58:15",
+      "current_date": "2025-04-30 06:35:19",
+      "content": "Đã dùng 2 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18887845,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14332881,
+    "customer_id": 2036927,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1677697406,
+    "created_by": {
+      "id": 2036927,
+      "name": "Thành Luân",
+      "full_name": "Thành Luân",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2017-01-03 22:19:45",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1671793662,
+      "contribute_info": {
+        "id": 2036927,
+        "name": "Thành Luân",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 69,
+          "total_thank": 3
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": false,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-03-02 02:03:26",
+      "delivery_date": "2022-12-29 08:18:31",
+      "current_date": "2025-04-30 06:35:19",
+      "content": "Đã dùng 2 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18641399,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14249308,
+    "customer_id": 16729998,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1673740432,
+    "created_by": {
+      "id": 16729998,
+      "name": "HUỲNH THỊ NGỌC MAI ",
+      "full_name": "HUỲNH THỊ NGỌC MAI ",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/94/56/14/07bde3cf9b718a14db8e8728867e5069.png",
+      "created_time": "2020-03-08 18:19:47",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1673131554,
+      "contribute_info": {
+        "id": 16729998,
+        "name": "HUỲNH THỊ NGỌC MAI ",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/94/56/14/07bde3cf9b718a14db8e8728867e5069.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 80,
+          "total_thank": 5
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiệm sách Minh Hằng"
+    ],
+    "product_attributes": [],
+    "spid": 207941896,
+    "is_photo": false,
+    "seller": {
+      "id": 279977,
+      "name": "Tiệm sách Minh Hằng",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/72/e9/31/97b276a4c1d9e00bf2bac4f286c5b7c9.jpg"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-01-15 06:53:52",
+      "delivery_date": "2023-01-13 18:32:35",
+      "current_date": "2025-04-30 06:35:19",
+      "content": "Đã dùng 2 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18616949,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14242428,
+    "customer_id": 12628316,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1673414675,
+    "created_by": {
+      "id": 12628316,
+      "name": "Come Back",
+      "full_name": "Come Back",
+      "region": null,
+      "avatar_url": "https://s120.avatar.talk.zdn.vn/a/0/f/4/6/120/bac523c68e2cfe99808345fd3fe33f55.jpg",
+      "created_time": "2019-06-24 13:32:24",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1672904373,
+      "contribute_info": {
+        "id": 12628316,
+        "name": "Come Back",
+        "avatar": "https://s120.avatar.talk.zdn.vn/a/0/f/4/6/120/bac523c68e2cfe99808345fd3fe33f55.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 5,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": false,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-01-11 12:24:35",
+      "delivery_date": "2023-01-11 12:11:40",
+      "current_date": "2025-04-30 06:35:19",
+      "content": "Đã dùng 13 phút",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 13 phút."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18604259,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14239028,
+    "customer_id": 14564687,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1673253706,
+    "created_by": {
+      "id": 14564687,
+      "name": "Hiếu Nt",
+      "full_name": "Hiếu Nt",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/4b/3e/1b/57fa94826d759253ac8069f376e9865d.png",
+      "created_time": "2019-10-21 21:19:25",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1671067745,
+      "contribute_info": {
+        "id": 14564687,
+        "name": "Hiếu Nt",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/4b/3e/1b/57fa94826d759253ac8069f376e9865d.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 7,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": false,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-01-09 15:41:46",
+      "delivery_date": "2022-12-19 10:20:36",
+      "current_date": "2025-04-30 06:35:19",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18586569,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14234789,
+    "customer_id": 18029191,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1673052985,
+    "created_by": {
+      "id": 18029191,
+      "name": "Vĩnh Tường",
+      "full_name": "Vĩnh Tường",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-08-08 18:51:46",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1672542617,
+      "contribute_info": {
+        "id": 18029191,
+        "name": "Vĩnh Tường",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 23,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán AHABOOKS"
+    ],
+    "product_attributes": [],
+    "spid": 208311891,
+    "is_photo": false,
+    "seller": {
+      "id": 9988,
+      "name": "AHABOOKS",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/7c/b8/e1/357f6a5d18da8daa4e9060a6b7eb9d5f.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-01-07 07:56:25",
+      "delivery_date": "2023-01-04 11:58:32",
+      "current_date": "2025-04-30 06:35:19",
+      "content": "Đã dùng 3 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18557467,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14226571,
+    "customer_id": 14255935,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1672663918,
+    "created_by": {
+      "id": 14255935,
+      "name": "Leon Lu",
+      "full_name": "Leon Lu",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2019-10-03 12:03:07",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1671290649,
+      "contribute_info": {
+        "id": 14255935,
+        "name": "Leon Lu",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 5,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Tiệm sách Minh Hằng"
+    ],
+    "product_attributes": [],
+    "spid": 207941896,
+    "is_photo": false,
+    "seller": {
+      "id": 279977,
+      "name": "Tiệm sách Minh Hằng",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/72/e9/31/97b276a4c1d9e00bf2bac4f286c5b7c9.jpg"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2023-01-02 19:51:58",
+      "delivery_date": "2022-12-22 17:19:26",
+      "current_date": "2025-04-30 06:35:19",
+      "content": "Đã dùng 11 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 11 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18425193,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 2,
+    "score": 0.03546099,
+    "new_score": 0.14195311,
+    "customer_id": 17195185,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1671068506,
+    "created_by": {
+      "id": 17195185,
+      "name": "Lê Phú Quốc Thái",
+      "full_name": "Lê Phú Quốc Thái",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/65/fa/f4/82dc0361dd0f6514219e613d3ee59646.png",
+      "created_time": "2020-04-22 15:00:10",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1670310480,
+      "contribute_info": {
+        "id": 17195185,
+        "name": "Lê Phú Quốc Thái",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/65/fa/f4/82dc0361dd0f6514219e613d3ee59646.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 9,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Times Books"
+    ],
+    "product_attributes": [],
+    "spid": 205808262,
+    "is_photo": false,
+    "seller": {
+      "id": 127989,
+      "name": "Times Books",
+      "logo": "a6/11/12/d2b1e40937a3a9953075558b8a80ff2c.png"
+    },
+    "product_id": 205808261,
+    "timeline": {
+      "review_created_date": "2022-12-15 08:41:46",
+      "delivery_date": "2022-12-12 10:12:09",
+      "current_date": "2025-04-30 06:35:19",
+      "content": "Đã dùng 3 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

@@ -1,0 +1,1957 @@
+[
+  {
+    "id": 20095853,
+    "title": "Cực kì hài lòng",
+    "content": "Giao hàng sớm hơn dự định",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15915065,
+    "customer_id": 219493,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1741877332,
+    "created_by": {
+      "id": 219493,
+      "name": "Tran Kim Thanh",
+      "full_name": "Tran Kim Thanh",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/9f/1f/f4/94191a514cf421248adabc6fe49c9b2c.png",
+      "created_time": "2013-11-28 13:41:39",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1741340561,
+      "contribute_info": {
+        "id": 219493,
+        "name": "Tran Kim Thanh",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/9f/1f/f4/94191a514cf421248adabc6fe49c9b2c.png",
+        "summary": {
+          "joined_time": "Đã tham gia 12 năm",
+          "total_review": 2,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2025-03-13 21:48:52",
+      "delivery_date": "2025-03-11 16:39:26",
+      "current_date": "2025-04-30 12:48:25",
+      "content": "Đã dùng 2 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19301752,
+    "title": "Cực kì hài lòng",
+    "content": "Nội dung rất hay, nhưng quí bạn phải bỏ công phu nhiều – ít suy ngẫm. Sách chất lượng tốt, trình bày dễ chịu.",
+    "status": "approved",
+    "thank_count": 1,
+    "score": 0.00961136,
+    "new_score": 0.1548338,
+    "customer_id": 15213234,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1686974953,
+    "created_by": {
+      "id": 15213234,
+      "name": "t Legend",
+      "full_name": "t Legend",
+      "region": null,
+      "avatar_url": "https://lh3.googleusercontent.com/a-/AAuE7mBvmShBpTw90RYlSfknMrQ6c-lAEJUJwwRfJ6A_",
+      "created_time": "2019-11-30 10:54:21",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1686534656,
+      "contribute_info": {
+        "id": 15213234,
+        "name": "t Legend",
+        "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mBvmShBpTw90RYlSfknMrQ6c-lAEJUJwwRfJ6A_",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 19,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2023-06-17 11:09:13",
+      "delivery_date": "2023-06-14 12:50:29",
+      "current_date": "2025-04-30 12:48:25",
+      "content": "Đã dùng 3 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Không hẹn trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 19947762,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15290525,
+    "customer_id": 21162291,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1723039167,
+    "created_by": {
+      "id": 21162291,
+      "name": "Thanh Vo",
+      "full_name": "Thanh Vo",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-04-02 08:09:43",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1720758322,
+      "contribute_info": {
+        "id": 21162291,
+        "name": "Thanh Vo",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 89,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Bamboo Books"
+    ],
+    "product_attributes": [],
+    "spid": 272871806,
+    "is_photo": false,
+    "seller": {
+      "id": 281062,
+      "name": "Bamboo Books",
+      "logo": "46/9a/b3/e4fbfd97e7607ea4d2ff8e9ad769121b.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2024-08-07 20:59:27",
+      "delivery_date": "2024-07-14 10:34:32",
+      "current_date": "2025-04-30 12:48:25",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19144869,
+    "title": "Cực kì hài lòng",
+    "content": "mình chưa đọc , nhưng giao hàng nhanh, bọc sách kỹ. Sách không bị nhăn",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.15020152,
+    "customer_id": 1799010,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1682776381,
+    "created_by": {
+      "id": 1799010,
+      "name": "Moni Ca",
+      "full_name": "Moni Ca",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/12/0f/f1/63aa1964e7870411b021b703129c8dd1.png",
+      "created_time": "2016-10-19 16:31:25",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1672923277,
+      "contribute_info": {
+        "id": 1799010,
+        "name": "Moni Ca",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/12/0f/f1/63aa1964e7870411b021b703129c8dd1.png",
+        "summary": {
+          "joined_time": "Đã tham gia 9 năm",
+          "total_review": 107,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2023-04-29 20:53:01",
+      "delivery_date": "2023-01-08 10:41:26",
+      "current_date": "2025-04-30 12:48:25",
+      "content": "Đã dùng 4 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 tháng."
+    },
+    "comments": [
+      {
+        "id": 2960583,
+        "review_id": 19144869,
+        "commentator": "seller",
+        "customer_id": 1032,
+        "fullname": "Sách Khai Tâm",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg",
+        "content": "Khai Tâm chân thành cám ơn bạn, chúc bạn có những giờ đọc sách thật ý nghĩa!",
+        "score": 0,
+        "create_at": 1682917392,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19777569,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14983796,
+    "customer_id": 5582029,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1708516394,
+    "created_by": {
+      "id": 5582029,
+      "name": "Hoàng Đông Phong",
+      "full_name": "Hoàng Đông Phong",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2017-08-13 23:54:50",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1697392661,
+      "contribute_info": {
+        "id": 5582029,
+        "name": "Phong Phong",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 39,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán BOOKCITY.VN"
+    ],
+    "product_attributes": [],
+    "spid": 181412977,
+    "is_photo": false,
+    "seller": {
+      "id": 54507,
+      "name": "BOOKCITY.VN",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/ae/39/78/e802f9672f2da7e8c12fb85a33899be6.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2024-02-21 18:53:14",
+      "delivery_date": "2023-10-19 16:17:26",
+      "current_date": "2025-04-30 12:48:25",
+      "content": "Đã dùng 4 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [
+        "chất lượng giấy tốt",
+        "in ấn/màu sắc rõ nét",
+        "nhiều kiến thức bổ ích"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19088418,
+    "title": "Cực kì hài lòng",
+    "content": "Cuốn sách rất hay và bổ ích",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.09878717,
+    "new_score": 0.14651203,
+    "customer_id": 16417041,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1681405695,
+    "created_by": {
+      "id": 16417041,
+      "name": "Hoàng Xuân Chính",
+      "full_name": "Hoàng Xuân Chính",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/61/0e/f9/d8244da689fff0999c1a20337bd936c8.png",
+      "created_time": "2020-02-14 15:41:20",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1679967531,
+      "contribute_info": {
+        "id": 16417041,
+        "name": "Hoàng Xuân Chính",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/61/0e/f9/d8244da689fff0999c1a20337bd936c8.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 18,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2023-04-14 00:08:15",
+      "delivery_date": "2023-04-01 10:01:26",
+      "current_date": "2025-04-30 12:48:25",
+      "content": "Đã dùng 13 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 13 ngày."
+    },
+    "comments": [
+      {
+        "id": 2960604,
+        "review_id": 19088418,
+        "commentator": "seller",
+        "customer_id": 1032,
+        "fullname": "Sách Khai Tâm",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg",
+        "content": "Khai Tâm chân thành cám ơn bạn, chúc bạn có những giờ đọc sách thật ý nghĩa!",
+        "score": 0,
+        "create_at": 1682917616,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [
+        "nhiều kiến thức bổ ích"
+      ],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 19289135,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14521512,
+    "customer_id": 20338741,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1686628514,
+    "created_by": {
+      "id": 20338741,
+      "name": "Ngoc British Pound",
+      "full_name": "Ngoc British Pound",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-02-17 14:21:09",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1686276176,
+      "contribute_info": {
+        "id": 20338741,
+        "name": "Ngoc British Pound",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 77,
+          "total_thank": 8
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2023-06-13 10:55:14",
+      "delivery_date": "2023-06-13 09:44:58",
+      "current_date": "2025-04-30 12:48:25",
+      "content": "Đã dùng 1 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+    },
+    "comments": [
+      {
+        "id": 2990594,
+        "review_id": 19289135,
+        "commentator": "seller",
+        "customer_id": 1032,
+        "fullname": "Sách Khai Tâm",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg",
+        "content": "Khai Tâm chân thành cám ơn bạn, chúc bạn có những giờ đọc sách thật ý nghĩa!",
+        "score": 0,
+        "create_at": 1686653357,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": [
+      {
+        "question": "Thời gian giao hàng?",
+        "option": "Giao đúng hẹn"
+      },
+      {
+        "question": "Thái độ của shipper?",
+        "option": "Lịch sự"
+      },
+      {
+        "question": "Giờ giao hàng?",
+        "option": "Có hẹn giờ trước"
+      },
+      {
+        "question": "Cách đóng gói sản phẩm?",
+        "option": "Cẩn thận"
+      }
+    ]
+  },
+  {
+    "id": 18969548,
+    "title": "Cực kì hài lòng",
+    "content": "hay thâm thuý",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14460827,
+    "customer_id": 1763436,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1679020532,
+    "created_by": {
+      "id": 1763436,
+      "name": "Kim Cương",
+      "full_name": "Kim Cương",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2016-10-08 17:08:19",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1675270343,
+      "contribute_info": {
+        "id": 1763436,
+        "name": "Kim Cương",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 9 năm",
+          "total_review": 51,
+          "total_thank": 9
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2023-03-17 09:35:32",
+      "delivery_date": "2023-02-07 09:53:21",
+      "current_date": "2025-04-30 12:48:25",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [
+      {
+        "id": 2920375,
+        "review_id": 18969548,
+        "commentator": "seller",
+        "customer_id": 1032,
+        "fullname": "Sách Khai Tâm",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg",
+        "content": "Khai Tâm chân thành cám ơn bạn, chúc bạn có những giờ đọc sách thật ý nghĩa!",
+        "score": 0,
+        "create_at": 1679107912,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18975861,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.1436305,
+    "customer_id": 5928855,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1679125787,
+    "created_by": {
+      "id": 5928855,
+      "name": "Đỗ Hoàng Anh",
+      "full_name": "Đỗ Hoàng Anh",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/68/a2/30/ff6875964b6e122a39ee91aa49836e85.png",
+      "created_time": "2017-10-15 09:18:26",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1678368048,
+      "contribute_info": {
+        "id": 5928855,
+        "name": "Đỗ Hoàng Anh",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/68/a2/30/ff6875964b6e122a39ee91aa49836e85.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 62,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2023-03-18 14:49:47",
+      "delivery_date": "2023-03-14 12:26:30",
+      "current_date": "2025-04-30 12:48:26",
+      "content": "Đã dùng 4 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 ngày."
+    },
+    "comments": [
+      {
+        "id": 2939139,
+        "review_id": 18975861,
+        "commentator": "seller",
+        "customer_id": 1032,
+        "fullname": "Sách Khai Tâm",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg",
+        "content": "Khai Tâm chân thành cám ơn bạn, chúc bạn có những giờ đọc sách thật ý nghĩa!",
+        "score": 0,
+        "create_at": 1680492525,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 18818453,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.14310156,
+    "customer_id": 8818692,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1676621430,
+    "created_by": {
+      "id": 8818692,
+      "name": "Dương Văn Cảnh ",
+      "full_name": "Dương Văn Cảnh ",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-11-08 09:02:17",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1676224876,
+      "contribute_info": {
+        "id": 8818692,
+        "name": "Dương Văn Cảnh ",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 226,
+          "total_thank": 8
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2023-02-17 15:10:30",
+      "delivery_date": "2023-02-17 11:17:12",
+      "current_date": "2025-04-30 12:48:26",
+      "content": "Đã dùng 4 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 giờ."
+    },
+    "comments": [
+      {
+        "id": 2886123,
+        "review_id": 18818453,
+        "commentator": "seller",
+        "customer_id": 1032,
+        "fullname": "Sách Khai Tâm",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg",
+        "content": "Khai Tâm chân thành cám ơn bạn, chúc bạn có những giờ đọc sách thật ý nghĩa!",
+        "score": 0,
+        "create_at": 1676701666,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 16605385,
+    "title": "Rất không hài lòng",
+    "content": "trang 146 tới 154 bị mất. sách in bị lỗi",
+    "status": "approved",
+    "thank_count": 2,
+    "score": 0.01327175,
+    "new_score": 0.14186573,
+    "customer_id": 12190778,
+    "comment_count": 0,
+    "rating": 1,
+    "images": [],
+    "thanked": false,
+    "created_at": 1654556883,
+    "created_by": {
+      "id": 12190778,
+      "name": "Xôi Nhân",
+      "full_name": "Xôi Nhân",
+      "region": null,
+      "avatar_url": "https://lh4.googleusercontent.com/-XUSpQrRhsPY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcusNqQ3zJ1fTtSxo5WUYv-WHNhUg/mo/photo.jpg",
+      "created_time": "2019-05-22 11:28:46",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1654673982,
+      "contribute_info": {
+        "id": 12190778,
+        "name": "Xôi Nhân",
+        "avatar": "https://lh4.googleusercontent.com/-XUSpQrRhsPY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcusNqQ3zJ1fTtSxo5WUYv-WHNhUg/mo/photo.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 5,
+          "total_thank": 2
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2022-06-07 06:08:03",
+      "delivery_date": "2022-05-30 11:48:31",
+      "current_date": "2025-04-30 12:48:27",
+      "content": "Đã dùng 8 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17155492,
+    "title": "Hài lòng",
+    "content": "Sách đọc khó hiểu nhưng mà hay",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.1418562,
+    "customer_id": 2227425,
+    "comment_count": 0,
+    "rating": 4,
+    "images": [],
+    "thanked": false,
+    "created_at": 1658414738,
+    "created_by": {
+      "id": 2227425,
+      "name": "Việt Nguyễn Hoàng",
+      "full_name": "Việt Nguyễn Hoàng",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2017-03-02 11:26:37",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1657635487,
+      "contribute_info": {
+        "id": 2227425,
+        "name": "Việt Nguyễn Hoàng",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 7,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2022-07-21 21:45:38",
+      "delivery_date": "2022-07-18 11:07:28",
+      "current_date": "2025-04-30 12:48:27",
+      "content": "Đã dùng 3 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 17757863,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.1403841,
+    "customer_id": 27551972,
+    "comment_count": 1,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1663754994,
+    "created_by": {
+      "id": 27551972,
+      "name": "Đặng Thuỷ",
+      "full_name": "Đặng Thuỷ",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2022-05-21 14:34:31",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1663579367,
+      "contribute_info": {
+        "id": 27551972,
+        "name": "Đặng Thuỷ",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 3 năm",
+          "total_review": 1,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2022-09-21 17:09:54",
+      "delivery_date": "2022-09-21 14:51:25",
+      "current_date": "2025-04-30 12:48:27",
+      "content": "Đã dùng 2 giờ",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+    },
+    "comments": [
+      {
+        "id": 2670945,
+        "review_id": 17757863,
+        "commentator": "seller",
+        "customer_id": 1032,
+        "fullname": "Sách Khai Tâm",
+        "avatar_url": "https://vcdn.tikicdn.com/ts/seller/16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg",
+        "content": "Khai Tâm chân thành cám ơn quý khách, chúc quý khách có những giờ đọc sách thật ý nghĩa!",
+        "score": 0,
+        "create_at": 1664330513,
+        "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+        "status": 2,
+        "is_reported": false
+      }
+    ],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 16893819,
+    "title": "Cực kì hài lòng",
+    "content": "Sách hay lắm",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13986896,
+    "customer_id": 5106968,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1656581260,
+    "created_by": {
+      "id": 5106968,
+      "name": "Yuno Trần",
+      "full_name": "Yuno Trần",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2017-03-16 11:25:11",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1654140656,
+      "contribute_info": {
+        "id": 5106968,
+        "name": "Yuno Trần",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 8 năm",
+          "total_review": 129,
+          "total_thank": 26
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2022-06-30 16:27:40",
+      "delivery_date": "2022-06-02 12:55:13",
+      "current_date": "2025-04-30 12:48:27",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 15683434,
+    "title": "Cực kì hài lòng",
+    "content": "Đây là một cuốn sách hay",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 0.03669455,
+    "new_score": 0.13932529,
+    "customer_id": 17317657,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1648641121,
+    "created_by": {
+      "id": 17317657,
+      "name": "Thanh Liêm",
+      "full_name": "Thanh Liêm",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-05-10 15:24:53",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1644686036,
+      "contribute_info": {
+        "id": 17317657,
+        "name": "Thanh Liêm",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 14,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2022-03-30 18:52:01",
+      "delivery_date": "2022-02-14 11:30:36",
+      "current_date": "2025-04-30 12:48:27",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 16364049,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13806937,
+    "customer_id": 15154190,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1652795395,
+    "created_by": {
+      "id": 15154190,
+      "name": "Phạm Đoàn Bảo Sơn",
+      "full_name": "Phạm Đoàn Bảo Sơn",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/3d/2a/47/ca7f6d6eaf29e926fd273296519d40bc.png",
+      "created_time": "2019-11-27 08:53:22",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1652456228,
+      "contribute_info": {
+        "id": 15154190,
+        "name": "Phạm Đoàn Bảo Sơn",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/3d/2a/47/ca7f6d6eaf29e926fd273296519d40bc.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 36,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [
+      "Chất lượng tốt",
+      "Giao hàng nhanh",
+      "Đóng gói tốt",
+      "Nhà bán phục vụ tốt",
+      "Giá tốt"
+    ],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2022-05-17 20:49:55",
+      "delivery_date": "2022-05-16 09:53:08",
+      "current_date": "2025-04-30 12:48:27",
+      "content": "Đã dùng 1 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 15607021,
+    "title": "Cực kì hài lòng",
+    "content": "Sách hay nha",
+    "status": "approved",
+    "thank_count": 1,
+    "score": 0.00720945,
+    "new_score": 0.13799318,
+    "customer_id": 8654003,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1648273660,
+    "created_by": {
+      "id": 8654003,
+      "name": "thanh lịch Mai",
+      "full_name": "thanh lịch Mai",
+      "region": null,
+      "avatar_url": "https://lh6.googleusercontent.com/-NurPefVUmvc/AAAAAAAAAAI/AAAAAAAAAEc/a76rjwqu5Mk/photo.jpg",
+      "created_time": "2018-10-28 22:50:58",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1647008801,
+      "contribute_info": {
+        "id": 8654003,
+        "name": "thanh lịch Mai",
+        "avatar": "https://lh6.googleusercontent.com/-NurPefVUmvc/AAAAAAAAAAI/AAAAAAAAAEc/a76rjwqu5Mk/photo.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 12,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2022-03-26 12:47:40",
+      "delivery_date": "2022-03-15 14:04:36",
+      "current_date": "2025-04-30 12:48:27",
+      "content": "Đã dùng 11 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 11 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 16016572,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.1375752,
+    "customer_id": 9011871,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1650455666,
+    "created_by": {
+      "id": 9011871,
+      "name": "Hồng Vân Nguyễn",
+      "full_name": "Hồng Vân Nguyễn",
+      "region": null,
+      "avatar_url": "https://lh4.googleusercontent.com/-NYrj5T0Z4T4/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jvrvgO-06ZGxhxyPR_u6SFPdaWhw/mo/photo.jpg",
+      "created_time": "2018-11-16 11:30:55",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1643172357,
+      "contribute_info": {
+        "id": 9011871,
+        "name": "Hồng Vân Nguyễn",
+        "avatar": "https://lh4.googleusercontent.com/-NYrj5T0Z4T4/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jvrvgO-06ZGxhxyPR_u6SFPdaWhw/mo/photo.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 90,
+          "total_thank": 3
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2022-04-20 18:54:26",
+      "delivery_date": "2022-01-29 09:37:23",
+      "current_date": "2025-04-30 12:48:27",
+      "content": "Đã dùng 3 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 15741420,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13725022,
+    "customer_id": 23038471,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1648916951,
+    "created_by": {
+      "id": 23038471,
+      "name": "Thuỳ Vân",
+      "full_name": "Thuỳ Vân",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-08-17 04:18:17",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1648153635,
+      "contribute_info": {
+        "id": 23038471,
+        "name": "Thuỳ Vân",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 3,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2022-04-02 23:29:11",
+      "delivery_date": "2022-03-28 10:18:30",
+      "current_date": "2025-04-30 12:48:27",
+      "content": "Đã dùng 6 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 15499450,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13698823,
+    "customer_id": 7842333,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1647676493,
+    "created_by": {
+      "id": 7842333,
+      "name": "Lê Văn Huy",
+      "full_name": "Lê Văn Huy",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2018-08-26 00:07:18",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1644245479,
+      "contribute_info": {
+        "id": 7842333,
+        "name": "Lê Văn Huy",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 2,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [
+      "Chất lượng tốt",
+      "Đóng gói tốt",
+      "Giao hàng nhanh"
+    ],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2022-03-19 14:54:53",
+      "delivery_date": "2022-02-11 11:45:16",
+      "current_date": "2025-04-30 12:48:27",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 15016742,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13645596,
+    "customer_id": 22601074,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1645156371,
+    "created_by": {
+      "id": 22601074,
+      "name": "Petros Ng",
+      "full_name": "Petros Ng",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-07-12 13:45:18",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1644894581,
+      "contribute_info": {
+        "id": 22601074,
+        "name": "Petros Ng",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 19,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2022-02-18 10:52:51",
+      "delivery_date": "2022-02-18 10:50:53",
+      "current_date": "2025-04-30 12:48:29",
+      "content": "Đã dùng 2 phút",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 phút."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 14630336,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13596878,
+    "customer_id": 21706414,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1642849705,
+    "created_by": {
+      "id": 21706414,
+      "name": "Linh Vũ",
+      "full_name": "Linh Vũ",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2021-05-13 19:53:02",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1641062449,
+      "contribute_info": {
+        "id": 21706414,
+        "name": "Linh Vũ",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 15,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2022-01-22 18:08:25",
+      "delivery_date": "2022-01-05 09:37:46",
+      "current_date": "2025-04-30 12:48:29",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 14551431,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13589803,
+    "customer_id": 9413998,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1642514735,
+    "created_by": {
+      "id": 9413998,
+      "name": "Hoatuyet Nguyen",
+      "full_name": "Hoatuyet Nguyen",
+      "region": null,
+      "avatar_url": "https://s120.avatar.talk.zdn.vn/f/8/c/4/5/120/8921ab866fb3ea981a6478b2d2103b0e.jpg",
+      "created_time": "2018-11-27 15:01:39",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1636621712,
+      "contribute_info": {
+        "id": 9413998,
+        "name": "Hoatuyet Nguyen",
+        "avatar": "https://s120.avatar.talk.zdn.vn/f/8/c/4/5/120/8921ab866fb3ea981a6478b2d2103b0e.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 2,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [
+      "Giá tốt",
+      "Nhà bán phục vụ tốt",
+      "Đóng gói tốt",
+      "Chất lượng tốt"
+    ],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2022-01-18 21:05:35",
+      "delivery_date": "2021-11-15 15:40:00",
+      "current_date": "2025-04-30 12:48:29",
+      "content": "Đã dùng 2 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 14064993,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13545708,
+    "customer_id": 12111357,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1640426951,
+    "created_by": {
+      "id": 12111357,
+      "name": "Le Bang Tam ",
+      "full_name": "Le Bang Tam ",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2019-05-16 12:41:55",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1640267691,
+      "contribute_info": {
+        "id": 12111357,
+        "name": "Le Bang Tam ",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 1,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2021-12-25 17:09:11",
+      "delivery_date": "2021-12-25 17:09:03",
+      "current_date": "2025-04-30 12:48:29",
+      "content": "Đã dùng 8 giây",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 giây."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 14035068,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 6.17283951,
+    "new_score": 0.13543242,
+    "customer_id": 19610426,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1640310181,
+    "created_by": {
+      "id": 19610426,
+      "name": "Vân Ly",
+      "full_name": "Vân Ly",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-12-20 23:17:15",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1640280522,
+      "contribute_info": {
+        "id": 19610426,
+        "name": "Vân Ly",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 9,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2021-12-24 08:43:01",
+      "delivery_date": "2021-12-24 08:19:17",
+      "current_date": "2025-04-30 12:48:29",
+      "content": "Đã dùng 24 phút",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 24 phút."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 14024652,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13542039,
+    "customer_id": 13707194,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1640253248,
+    "created_by": {
+      "id": 13707194,
+      "name": "TRÚC LINH",
+      "full_name": "TRÚC LINH",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2019-08-29 08:45:11",
+      "group_id": 8,
+      "purchased": true,
+      "purchased_at": 1636645435,
+      "contribute_info": {
+        "id": 13707194,
+        "name": "TRÚC LINH",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 6 năm",
+          "total_review": 7,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2021-12-23 16:54:08",
+      "delivery_date": "2021-11-13 10:10:12",
+      "current_date": "2025-04-30 12:48:29",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 13938016,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13534934,
+    "customer_id": 18291209,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1639916810,
+    "created_by": {
+      "id": 18291209,
+      "name": "Thanh Thai",
+      "full_name": "Thanh Thai",
+      "region": null,
+      "avatar_url": "//tiki.vn/assets/img/avatar.png",
+      "created_time": "2020-08-29 21:30:06",
+      "purchased": true,
+      "purchased_at": 1636274870,
+      "contribute_info": {
+        "id": 18291209,
+        "name": "Thanh Thai",
+        "avatar": "//tiki.vn/assets/img/avatar.png",
+        "summary": {
+          "joined_time": "Đã tham gia 5 năm",
+          "total_review": 29,
+          "total_thank": 0
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2021-12-19 19:26:50",
+      "delivery_date": "2021-11-11 17:39:35",
+      "current_date": "2025-04-30 12:48:29",
+      "content": "Đã dùng 1 tháng",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 13175101,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13469124,
+    "customer_id": 9428977,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1636800917,
+    "created_by": {
+      "id": 9428977,
+      "name": "Ngọc Tùng Lê",
+      "full_name": "Ngọc Tùng Lê",
+      "region": null,
+      "avatar_url": "https://lh3.googleusercontent.com/-jMyXEayEu3o/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jWKPk2qsmK2G_691Plu144yihifg/mo/photo.jpg",
+      "created_time": "2018-11-27 17:31:36",
+      "purchased": true,
+      "purchased_at": 1636464293,
+      "contribute_info": {
+        "id": 9428977,
+        "name": "Ngọc Tùng Lê",
+        "avatar": "https://lh3.googleusercontent.com/-jMyXEayEu3o/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jWKPk2qsmK2G_691Plu144yihifg/mo/photo.jpg",
+        "summary": {
+          "joined_time": "Đã tham gia 7 năm",
+          "total_review": 338,
+          "total_thank": 15
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2021-11-13 17:55:17",
+      "delivery_date": "2021-11-10 14:32:03",
+      "current_date": "2025-04-30 12:48:29",
+      "content": "Đã dùng 3 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  },
+  {
+    "id": 12966562,
+    "title": "Cực kì hài lòng",
+    "content": "",
+    "status": "approved",
+    "thank_count": 0,
+    "score": 27.77777778,
+    "new_score": 0.13448275,
+    "customer_id": 21863665,
+    "comment_count": 0,
+    "rating": 5,
+    "images": [],
+    "thanked": false,
+    "created_at": 1635813784,
+    "created_by": {
+      "id": 21863665,
+      "name": "Nguyệt Nhật",
+      "full_name": "Nguyệt Nhật",
+      "region": null,
+      "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/ab/85/0d/200428d7e22cbe492cd413461b5c512c.png",
+      "created_time": "2021-05-22 08:08:08",
+      "purchased": true,
+      "purchased_at": 1635305046,
+      "contribute_info": {
+        "id": 21863665,
+        "name": "Nguyệt Nhật",
+        "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/ab/85/0d/200428d7e22cbe492cd413461b5c512c.png",
+        "summary": {
+          "joined_time": "Đã tham gia 4 năm",
+          "total_review": 122,
+          "total_thank": 1
+        }
+      }
+    },
+    "suggestions": [],
+    "attributes": [
+      "Mua từ nhà bán Sách Khai Tâm"
+    ],
+    "product_attributes": [],
+    "spid": 128938544,
+    "is_photo": false,
+    "seller": {
+      "id": 1032,
+      "name": "Sách Khai Tâm",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/16/06/93/3a0ed42d261c662ae9fc229a07d80283.jpg"
+    },
+    "product_id": 128938543,
+    "timeline": {
+      "review_created_date": "2021-11-02 07:43:04",
+      "delivery_date": "2021-10-28 10:59:50",
+      "current_date": "2025-04-30 12:48:29",
+      "content": "Đã dùng 5 ngày",
+      "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 ngày."
+    },
+    "comments": [],
+    "vote_attributes": {
+      "agree": [],
+      "disagree": []
+    },
+    "delivery_rating": []
+  }
+]

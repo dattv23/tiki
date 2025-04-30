@@ -1,0 +1,397 @@
+{
+  "id": 276526058,
+  "master_id": 276526058,
+  "sku": "7178155957234",
+  "name": "Jane Eyre",
+  "url_key": "jane-eyre-p276526058",
+  "url_path": "jane-eyre-p276526058.html?spid=275185547",
+  "short_url": "https://tiki.vn/product-p276526058.html?spid=275185547",
+  "type": "configurable",
+  "book_cover": null,
+  "short_description": "“Tôi không phải là chim, không có chiếc lồng nào có thể bẫy được tôi. Tôi là một người tự do, với một ý chí độc lập”Jane Eyre là hình tượng tiêu biểu của những số phận có vị thế hết sức khiêm nhường,...",
+  "price": 170000,
+  "list_price": 225000,
+  "original_price": 225000,
+  "badges": [
+    {
+      "code": "new_pdp",
+      "text": "v1"
+    }
+  ],
+  "badges_new": [
+    {
+      "placement": "left_brand",
+      "code": "is_authentic",
+      "type": "is_authentic",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "right_authentic",
+      "code": "return_policy",
+      "type": "return_policy",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "badges_v3": [
+    {
+      "placement": "pdp_badge",
+      "code": "return_policy",
+      "type": "pdp_icon_badge",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_authentic",
+      "type": "pdp_icon_badge",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "tracking_info": {
+    "amplitude": {
+      "is_authentic": true,
+      "is_freeship_xtra": false,
+      "is_hero": false,
+      "is_top_brand": false,
+      "return_reason": "any_reason"
+    }
+  },
+  "discount": 55000,
+  "discount_rate": 24,
+  "rating_average": 5,
+  "review_count": 14,
+  "review_text": "(14)",
+  "favourite_count": 0,
+  "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/70/31/39/cb8cc21e2ac4a413a8d607dbd5d87f7b.jpg",
+  "has_ebook": false,
+  "inventory_status": "available",
+  "inventory_type": "instock",
+  "productset_group_name": "",
+  "is_fresh": false,
+  "seller": null,
+  "is_flower": false,
+  "has_buynow": true,
+  "is_gift_card": false,
+  "salable_type": null,
+  "data_version": 3300,
+  "day_ago_created": 174,
+  "all_time_quantity_sold": 115,
+  "meta_title": "",
+  "meta_description": "",
+  "meta_keywords": "",
+  "is_baby_milk": false,
+  "is_acoholic_drink": false,
+  "description": "“Tôi không phải là chim, không có chiếc lồng nào có thể bẫy được tôi. Tôi là một người tự do, với một ý chí độc lập”\n<p>Jane Eyre là hình tượng tiêu biểu của những số phận có vị thế hết sức khiêm nhường, bị xã hội ruồng rẫy nhưng đã dũng cảm đứng lên phản kháng lại bằng tất cả ý chí, nghị lực và tâm hồn “nổi loạn” của mình. Cũng trong cuộc sống không cân sức này, phẩm giá của Jane càng tỏa sáng. Cô cũng đã tìm lại được tình yêu – một tình yêu tự nguyện, thuần khiết, không vụ lợi, không kém phần lãng mạn, nồng nhiệt và vị tha. Đó chính là hạnh phúc đích thực suốt cuộc đời của Jane</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+  "images": [
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/70/31/39/cb8cc21e2ac4a413a8d607dbd5d87f7b.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/70/31/39/cb8cc21e2ac4a413a8d607dbd5d87f7b.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/70/31/39/cb8cc21e2ac4a413a8d607dbd5d87f7b.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/70/31/39/cb8cc21e2ac4a413a8d607dbd5d87f7b.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/70/31/39/cb8cc21e2ac4a413a8d607dbd5d87f7b.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/fb/72/d8/79779c964433184bf3bdfd6320953661.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/fb/72/d8/79779c964433184bf3bdfd6320953661.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/fb/72/d8/79779c964433184bf3bdfd6320953661.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/fb/72/d8/79779c964433184bf3bdfd6320953661.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/fb/72/d8/79779c964433184bf3bdfd6320953661.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/72/68/b0/55cc3c0cda41291fadb9b0caa9fc690f.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/72/68/b0/55cc3c0cda41291fadb9b0caa9fc690f.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/72/68/b0/55cc3c0cda41291fadb9b0caa9fc690f.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/72/68/b0/55cc3c0cda41291fadb9b0caa9fc690f.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/72/68/b0/55cc3c0cda41291fadb9b0caa9fc690f.jpg"
+    }
+  ],
+  "warranty_policy": null,
+  "authors": [
+    {
+      "id": 8993,
+      "name": "Charlotte Bronte",
+      "slug": "charlotte-bronte"
+    }
+  ],
+  "current_seller": {
+    "id": 1,
+    "sku": "8875385507008",
+    "name": "Tiki Trading",
+    "link": "https://tiki.vn/cua-hang/tiki-trading",
+    "logo": "d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+    "price": 170000,
+    "product_id": "275185547",
+    "store_id": 40395,
+    "is_best_store": false,
+    "is_offline_installment_supported": null
+  },
+  "other_sellers": [],
+  "specifications": [
+    {
+      "name": "Thông tin chung",
+      "attributes": [
+        {
+          "code": "publisher_vn",
+          "name": "Công ty phát hành",
+          "value": "Công Ty Cổ Phần Văn Hóa Huy Hoàng"
+        },
+        {
+          "code": "publication_date",
+          "name": "Ngày xuất bản",
+          "value": "2024-05-31 00:00:00"
+        },
+        {
+          "code": "dimensions",
+          "name": "Kích thước",
+          "value": "13,5x20,6 cm"
+        },
+        {
+          "code": "dich_gia",
+          "name": "Dịch Giả",
+          "value": "Trần Anh Kim dịch - Nguyễn Đức Nam giới thiệu"
+        },
+        {
+          "code": "number_of_page",
+          "name": "Số trang",
+          "value": "764"
+        },
+        {
+          "code": "manufacturer",
+          "name": "Nhà xuất bản",
+          "value": "Nhà Xuất Bản Văn Học"
+        }
+      ]
+    }
+  ],
+  "product_links": [],
+  "gift_item_title": "0 quà tặng kèm",
+  "configurable_options": [
+    {
+      "code": "option1",
+      "name": "Năm tái bản",
+      "position": 0,
+      "show_preview_image": false,
+      "values": [
+        {
+          "label": "2023"
+        },
+        {
+          "label": "2024"
+        }
+      ]
+    }
+  ],
+  "configurable_products": [
+    {
+      "child_id": 276526060,
+      "discount_rate": 24,
+      "id": 276526061,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/34/35/73/6a9ef37cf60168f69e5a2091658397a5.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/34/35/73/6a9ef37cf60168f69e5a2091658397a5.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/34/35/73/6a9ef37cf60168f69e5a2091658397a5.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/fe/5e/85/32e35fe14b0a0a221d7b30b6f39defd8.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/fe/5e/85/32e35fe14b0a0a221d7b30b6f39defd8.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/fe/5e/85/32e35fe14b0a0a221d7b30b6f39defd8.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Jane Eyre - 2024",
+      "option1": "2024",
+      "original_price": 285000,
+      "price": 217000,
+      "selected": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading"
+      },
+      "sku": "4603880391427",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fe/5e/85/32e35fe14b0a0a221d7b30b6f39defd8.jpg"
+    },
+    {
+      "child_id": 276526059,
+      "discount_rate": 24,
+      "id": 275185547,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/70/31/39/cb8cc21e2ac4a413a8d607dbd5d87f7b.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/70/31/39/cb8cc21e2ac4a413a8d607dbd5d87f7b.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/70/31/39/cb8cc21e2ac4a413a8d607dbd5d87f7b.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/fb/72/d8/79779c964433184bf3bdfd6320953661.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/fb/72/d8/79779c964433184bf3bdfd6320953661.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/fb/72/d8/79779c964433184bf3bdfd6320953661.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/72/68/b0/55cc3c0cda41291fadb9b0caa9fc690f.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/72/68/b0/55cc3c0cda41291fadb9b0caa9fc690f.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/72/68/b0/55cc3c0cda41291fadb9b0caa9fc690f.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Jane Eyre - 2023",
+      "option1": "2023",
+      "original_price": 225000,
+      "price": 170000,
+      "selected": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading"
+      },
+      "sku": "4967284445228",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/70/31/39/cb8cc21e2ac4a413a8d607dbd5d87f7b.jpg"
+    }
+  ],
+  "services_and_promotions": [],
+  "promitions": [],
+  "stock_item": {
+    "max_sale_qty": 1000,
+    "min_sale_qty": 1,
+    "preorder_date": null,
+    "qty": 1000
+  },
+  "quantity_sold": {
+    "text": "Đã bán 115",
+    "value": 115
+  },
+  "categories": {
+    "id": 67994,
+    "name": "Tác Phẩm Kinh Điển Nước Ngoài",
+    "is_leaf": true
+  },
+  "breadcrumbs": [
+    {
+      "url": "/nha-sach-tiki/c8322",
+      "name": "Nhà Sách Tiki",
+      "category_id": 8322
+    },
+    {
+      "url": "/sach-truyen-tieng-viet/c316",
+      "name": "Sách tiếng Việt",
+      "category_id": 316
+    },
+    {
+      "url": "/sach-van-hoc/c839",
+      "name": "Sách văn học",
+      "category_id": 839
+    },
+    {
+      "url": "/tac-pham-kinh-dien/c842",
+      "name": "Tác phẩm kinh điển",
+      "category_id": 842
+    },
+    {
+      "url": "/tac-pham-kinh-dien-nuoc-ngoai/c67994",
+      "name": "Tác Phẩm Kinh Điển Nước Ngoài",
+      "category_id": 67994
+    },
+    {
+      "url": "https://tiki.vn/jane-eyre-p276526058.html",
+      "name": "Jane Eyre",
+      "category_id": 0
+    }
+  ],
+  "installment_info_v2": null,
+  "installment_info_v3": [
+    {
+      "display_text": "Ưu đãi đến 600k với thẻ TikiCard",
+      "icon": "https://salt.tikicdn.com/ts/upload/73/4d/f7/f86e767bffc14aa3d6abed348630100b.png",
+      "summary": "Ưu đãi đến 600k với thẻ TikiCard.",
+      "title": "Ưu đãi đến 600k với thẻ TikiCard",
+      "type": "other",
+      "url": "https://tiki.vn/san-pham-so/the-dong-thuong-hieu-tiki-co-card"
+    },
+    {
+      "display_text": "Mua trước trả sau",
+      "icon": "https://salt.tikicdn.com/ts/upload/2a/27/6a/7bbba1f6c93a1a42a3c314e7b5825f4c.png",
+      "summary": "Duyệt hồ sơ nhanh chóng qua công ty tài chính.",
+      "title": "Mua trước trả sau",
+      "type": "postpaid",
+      "url": "https://tiki.vn/mua-truoc-tra-sau/thanh-toan?src=pdp&masterId=276526058&pid=275185547&seller_id=1&qty=1"
+    }
+  ],
+  "is_seller_in_chat_whitelist": true,
+  "inventory": {
+    "product_virtual_type": null,
+    "fulfillment_type": "tiki_delivery"
+  },
+  "warranty_info": [],
+  "return_and_exchange_policy": "Đổi trả trong<br><b>30 ngày</b><br>nếu sp lỗi.",
+  "is_tier_pricing_available": false,
+  "is_tier_pricing_eligible": false,
+  "benefits": [
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/c5/37/ee/76c708d43e377343e82baee8a0340297.png",
+      "text": "Được đồng kiểm khi nhận hàng"
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/ea/02/b4/b024e431ec433e6c85d4734aaf35bd65.png",
+      "text": "<b>Được hoàn tiền 200%</b> nếu là hàng giả."
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/d8/c7/a5/1cd5bd2f27f9bd74b2c340b8e27c4d82.png",
+      "text": "Đổi trả miễn phí trong 30 ngày. Được đổi ý.",
+      "sub_text": [],
+      "cta": {
+        "text": "Chi tiết",
+        "type": "open_policy_return_modal"
+      }
+    }
+  ],
+  "return_policy": {
+    "body": [
+      {
+        "label": "",
+        "content": [
+          "Được đổi ý (sản phẩm phải còn nguyên hộp, tem, phụ kiện, chưa kích hoạt bảo hành, không áp dụng đơn hàng trả góp), hoặc",
+          "Sản phẩm không đúng cam kết (lỗi kỹ thuật, giao sai/thiếu, bể vỡ…)"
+        ]
+      }
+    ],
+    "cta": {
+      "link": "https://hotro.tiki.vn/s/article/chinh-sach-doi-tra-san-pham",
+      "text_button": "Tìm hiểu thêm"
+    },
+    "title": "Đổi trả miễn phí trong 30 ngày"
+  }
+}
